@@ -1,0 +1,28 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+
+- title: "Members"
+  url: "/members/"
+  side: left
+  dropdown:
+  - title: "Seniors"
+    url: "/members/seniors/"
+  - title: "Juniors"
+    url: "/members/juniors/"
+  - title: "Sophomores"
+    url: "/members/sophomores/"
+  - title: "Freshmen"
+    url: "/members/freshmen/"
+
+- title: "Gallery"
+  url: "/gallery/"
+  side: left
+
+- title: Contact Us
+  url: "/contact/"
+  side: right

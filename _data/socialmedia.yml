@@ -1,0 +1,15 @@
+- name: Twitter
+  url: https://twitter.com/nd_clarinets
+  class: icon-twitter
+  title: "Notre Dame Clarinets on Twitter"
+
+- name: Facebook
+  url: https://www.facebook.com/NotreDameBand
+  class: icon-facebook
+  title: "Band of the Fighting Irish on Facebook"
+
+- name: Instagram
+  url: https://instagram.com/notredameband/
+  class: icon-instagram
+  title: "Band of the Fighting Irish on Instagram"
+
