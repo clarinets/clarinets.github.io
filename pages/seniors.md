@@ -13,6 +13,18 @@ header:
 
 * <a href="#nicole_mariani">Nicole Mariani</a>
 * <a href="#theresa_albert">Theresa Albert</a>
+* <a href="#james_bachmayer">James Bachmayer</a>
+* <a href="#jillian_belmonte">Jillian Belmonte</a>
+* <a href="#lily_crawford">Lily Crawford</a>
+* <a href="#taylor_kelly">Taylor Kelly</a>
+* <a href="#madi_king">Madi King</a>
+* <a href="#jennifer_long">Jennifer Long</a>
+* <a href="#maggie_mcinerney">Maggie McInerney</a>
+* <a href="#jimmy_oh">Jimmy Oh</a>
+* <a href="#greg_ramos">Greg Ramos</a>
+* <a href="#alyssa_ruiz">Alyssa Ruiz</a>
+* <a href="#jacob_schrimpf">Jacob Schrimpf</a>
+* <a href="#matthew_williams">Matthew Williams</a>
 </div>
 </div><!-- /.medium-4.columns -->
 
@@ -24,11 +36,119 @@ header:
 <a name="nicole_mariani"></a> 
 
 ##Nicole Mariani
+Grad Student
+
+
 
 
 <a name="theresa_albert"></a>
 
 ##Theresa Albert
+
+
+
+
+<a name="james_bachmayer"></a>
+
+##James Bachmayer
+
+
+
+<a name="jillian_belmonte"></a>
+
+##Jillian Belmonte
+
+
+
+
+<a name="lily_crawford"></a>
+
+##Lily Crawford
+
+
+
+
+
+
+<a name="taylor_kelly"></a>
+
+##Taylor Kelly
+Section Leader
+
+
+
+
+
+
+
+
+<a name="madi_king"></a>
+
+##Madi King
+
+
+
+
+
+<a name="jennifer_long"></a>
+
+##Jennifer Long
+
+
+
+
+<a name="maggie_mcinerney"></a>
+
+##Maggie McInerney
+Clarinet Treasurer
+
+
+
+
+<a name="jimmy_oh"></a>
+
+##Jimmy Oh
+
+
+
+
+
+
+
+<a name="greg_ramos"></a>
+
+##Greg Ramos
+Drum Major
+
+
+
+
+
+
+
+<a name="alyssa_ruiz"></a>
+
+##Alyssa Ruiz
+
+
+
+
+
+
+<a name="jacob_schrimpf"></a>
+
+##Jacob Schrimpf
+
+
+
+
+
+<a name="matthew_williams"></a>
+
+##Matthew Williams
+
+
+
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

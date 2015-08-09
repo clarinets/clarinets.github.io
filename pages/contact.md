@@ -1,17 +1,15 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Contact Us"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-<div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
-</div>
+For questions about the section or feedback on this site, feel free to e-mail us anytime at [clarinet@nd.edu](mailto:clarinet@nd.edu)! 
 
+Learn more about the Notre Dame band at [www.ndband.com](https://www.ndband.com).
 
+####Auditionees
+
+We're very excited to welcome a new group of 'nets each year in the fall! Learn more about band camp, the audition process, and how to sign up [here](https://www.ndband.com).
 
  [1]: http://www.wufoo.com/

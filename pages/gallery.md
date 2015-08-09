@@ -1,13 +1,11 @@
 ---
-layout: page
-title:  "Gallery"
+layout: page-fullwidth
+title: "Gallery"
 permalink: "/gallery/"
-image:
-   thumb: "unsplash_7_thumb.jpg"
+header:
+   image_fullwidth: "header_roadmap_2.jpg"
 ---
-<!--more-->
-
-<ul class="clearing-thumbs small-block-grid-3" data-clearing>
+<ul class="clearing-thumbs small-block-grid-5" data-clearing>
   <li><a href="{{ site.url }}/images/unsplash_1.jpg"><img data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/unsplash_1_thumb.jpg"></a></li>
   <li><a href="{{ site.url }}/images/unsplash_2.jpg"><img data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/unsplash_2_thumb.jpg"></a></li>
   <li><a href="{{ site.url }}/images/unsplash_3.jpg"><img data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/unsplash_3_thumb.jpg"></a></li>
@@ -16,10 +14,13 @@ image:
   <li><a href="{{ site.url }}/images/unsplash_6.jpg"><img data-caption="All images by Unsplash.com" class="th" src="{{ site.url }}/images/unsplash_6_thumb.jpg"></a></li>
 </ul>
 
-
-
-
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}/design/page/
- [4]: {{ site.url }}/design/page-fullwidth/
+ [1]: http://kramdown.gettalong.org/converter/html.html#toc
+ [2]: {{ site.url }}/blog/
+ [3]: http://srobbin.com/jquery-plugins/backstretch/
+ [4]: #
+ [5]: #
+ [6]: #
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #

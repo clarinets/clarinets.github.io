@@ -11,8 +11,7 @@ header:
 <div class="panel radius" markdown="1">
 **Table of Contents**
 
-* <a href="#nicole_mariani">Nicole Mariani</a>
-* <a href="#theresa_albert">Theresa Albert</a>
+* <a href="#coming_soon">Coming Soon!</a>
 </div>
 </div><!-- /.medium-4.columns -->
 
@@ -21,14 +20,11 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
-<a name="nicole_mariani"></a> 
+<a name="coming_soon"></a> 
 
-##Nicole Mariani
+##Coming Soon!
 
-
-<a name="theresa_albert"></a>
-
-##Theresa Albert
+We're very excited to be welcoming a new class of 'nets to the section in August! Stay tuned for their bios.
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

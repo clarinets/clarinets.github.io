@@ -11,8 +11,17 @@ header:
 <div class="panel radius" markdown="1">
 **Table of Contents**
 
-* <a href="#nicole_mariani">Nicole Mariani</a>
-* <a href="#theresa_albert">Theresa Albert</a>
+* <a href="#haley_barlow">Haley Barlow</a>
+* <a href="#claire_bauer">Claire Bauer</a>
+* <a href="#maggie_brown">Maggie Brown</a>
+* <a href="#aj_derouin">AJ Derouin</a>
+* <a href="#emily_foernssler">Emily Foernssler</a>
+* <a href="#michelle_mann">Michelle Mann</a>
+* <a href="#john_mccready">John McCready</a>
+* <a href="#emily_mccusker">Emily McCusker</a>
+* <a href="#samantha_squeri">Samantha Squeri</a>
+* <a href="#shannon_sullivan">Shannon Sullivan</a>
+* <a href="#sonia_urquidi">Sonia Urquidi</a>
 </div>
 </div><!-- /.medium-4.columns -->
 
@@ -21,14 +30,98 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
-<a name="nicole_mariani"></a> 
+<a name="haley_barlow"></a> 
 
-##Nicole Mariani
+##Haley Barlow
 
 
-<a name="theresa_albert"></a>
 
-##Theresa Albert
+
+<a name="claire_bauer"></a>
+
+##Claire Bauer
+Studying Abroad
+
+
+
+
+
+<a name="maggie_brown"></a>
+
+##Maggie Brown
+
+
+
+
+
+<a name="aj_derouin"></a>
+
+##AJ Derouin
+Studying Abroad
+
+
+
+
+
+<a name="emily_foernssler"></a>
+
+##Emily Foernssler
+
+
+
+
+
+<a name="michelle_mann"></a>
+
+##Michelle Mann
+
+
+
+
+
+<a name="john_mccready"></a>
+
+##John McCready
+
+
+
+
+
+<a name="emily_mccusker"></a>
+
+##Emily McCusker
+
+
+
+
+
+
+<a name="samantha_squeri"></a>
+
+##Samantha Squeri
+
+
+
+
+
+<a name="shannon_sullivan"></a>
+
+##Shannon Sullivan
+
+
+
+
+
+
+
+<a name="sonia_urquidi"></a>
+
+##Sonia Urquidi
+Studying Abroad
+
+
+
+
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
