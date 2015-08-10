@@ -34,33 +34,34 @@ header:
 
 ##Haley Barlow
 
-**Name:** 
+**Name:** Haley Barlow
 
 **Nicknames:** 
 
-**Hometown:** 
+**Hometown:** Austin, TX
 
-**Year:** 
+**Year:** 2017
 
-**Major:** 
+**Major:** Biological Sciences (with an Italian Studies Minor)
 
-**Dorm:** 
+**Dorm:** Breen Phillips Hall
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** I love swing dancing, singing loudly in community showers, and a good book.
 
-**Favorite Quote:** 
+**Favorite Quote:** "If there was more food and fewer people, this would be a perfect party," -Ron Swanson
 
-**Favorite Color:** 
+**Favorite Color:** Blue
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Special K w/Red Berries
 
-**Interesting Fact:** 
+**Interesting Fact:** I am credited by name in an Emmy-award winning documentary (holla at the Big Easy Express)
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** Become a paleontologist and play the saxophone in band. I still wish I could be a paleontologist, but I can say from experience that clarinet is better than saxophone.
 
-**North or South?** 
+**North or South?** Both!!!
 
-**Future Plans:** 
+**Future Plans:** I plan to go to graduate school to pursue a PhD in genetics, then become a professor! Or something totally different, who knows.
+
 
 
 
@@ -104,33 +105,31 @@ Studying Abroad
 
 ##Maggie Brown
 
-**Name:** 
+**Name:** Maggie Brown
 
-**Nicknames:** 
+**Hometown:** Lemont, IL
 
-**Hometown:** 
+**Year:** 2017
 
-**Year:** 
+**Major:** Sociology
 
-**Major:** 
+**Dorm:** Le Mans
 
-**Dorm:** 
-
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Running
 
 **Favorite Quote:** 
 
-**Favorite Color:** 
+**Favorite Color:** Pink
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Frosted flakes - the breakfast of champions
 
 **Interesting Fact:** 
 
 **When I was in fifth grade, I thought I'd...** 
 
-**North or South?** 
+**North or South?** South. Is that even a question?
 
-**Future Plans:** 
+**Future Plans:** Law school!
 
 
 
@@ -175,33 +174,31 @@ Studying Abroad
 
 ##Emily Foernssler
 
-**Name:** 
+**Name:** Emily Foernssler
 
-**Nicknames:** 
+**Hometown:** Darien, Illinois
 
-**Hometown:** 
+**Year:** 2017
 
-**Year:** 
+**Major:** Accounting and Latin-American Studies
 
-**Major:** 
+**Dorm:** Breen-Phillips
 
-**Dorm:** 
+**Hobbies/Interests:** Watching reality tv as often as humanly possible. Survivor, The Voice, Teen Mom, The Bachelor, just to name a few!
 
-**Hobbies/Interests:** 
+**Favorite Quote:** "When you realize you want to spend the rest of your life with someone, you want the rest of your life to start as soon as possible." -When Harry Met Sally
 
-**Favorite Quote:** 
+**Favorite Color:** Yellow yellow yellow
 
-**Favorite Color:** 
+**Gameday Cereal Choice:** Fruit Loops!
 
-**Gameday Cereal Choice:** 
-
-**Interesting Fact:** 
+**Interesting Fact:** My main college goal was to come out fluent in another language, and I'm studying abroad in Chile for Spring 2016 to make it happen!
 
 **When I was in fifth grade, I thought I'd...** 
 
-**North or South?** 
+**North or South?** North!
 
-**Future Plans:** 
+**Future Plans:** Hopefully graduate with a job lined up and then the rest is truly a mystery
 
 
 
@@ -210,19 +207,19 @@ Studying Abroad
 
 ##Michelle Mann
 
-**Name:** 
+**Name:** Michelle Mann
 
 **Nicknames:** 
 
-**Hometown:** 
+**Hometown:** St Charles, IL
 
-**Year:** 
+**Year:** 2017
 
-**Major:** 
+**Major:** Marketing, Poverty Studies
 
-**Dorm:** 
+**Dorm:** Breen-Phillips
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Golfing, reading, travelling, hanging out with the fabulous 'Net section
 
 **Favorite Quote:** 
 
@@ -245,33 +242,29 @@ Studying Abroad
 
 ##John McCready
 
-**Name:** 
+**Name:** John McCready
 
-**Nicknames:** 
+**Hometown:** Carlsbad, CA
 
-**Hometown:** 
+**Year:** 2017
 
-**Year:** 
+**Major:** Political Science
 
-**Major:** 
+**Dorm:** STANFORD HALL
 
-**Dorm:** 
+**Hobbies/Interests:** Current events, Orchestral music, Rap, Fuze, Seafood, North Dining Hall, and the absolutely pristine weather of Northern Indiana
 
-**Hobbies/Interests:** 
+**Favorite Quote:** "Knowledge is knowing that a tomato is a fruit. Wisdom is not putting it in a fruit salad."
 
-**Favorite Quote:** 
+**Favorite Color:** Green
 
-**Favorite Color:** 
+**Gameday Cereal Choice:** Sleep
 
-**Gameday Cereal Choice:** 
+**When I was in fifth grade, I thought I'd...** never pass US history
 
-**Interesting Fact:** 
+**North or South?** See Hobbies/Interests
 
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
-
-**Future Plans:** 
+**Future Plans:** Wherever the wind takes me
 
 
 
@@ -280,31 +273,29 @@ Studying Abroad
 
 ##Emily McCusker
 
-**Name:** 
+**Name:** Emily McCusker
 
-**Nicknames:** 
+**Hometown:** Omaha, Nebraska
 
-**Hometown:** 
+**Year:** 2017
 
-**Year:** 
+**Major:** Civil Engineering
 
-**Major:** 
-
-**Dorm:** 
+**Dorm:** Cavanaugh Hall
 
 **Hobbies/Interests:** 
 
 **Favorite Quote:** 
 
-**Favorite Color:** 
+**Favorite Color:** Aqua
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Frosted Flakes
 
 **Interesting Fact:** 
 
 **When I was in fifth grade, I thought I'd...** 
 
-**North or South?** 
+**North or South?** North!
 
 **Future Plans:** 
 
@@ -316,33 +307,27 @@ Studying Abroad
 
 ##Samantha Squeri
 
-**Name:** 
+**Name:** Samantha Squeri
 
-**Nicknames:** 
+**Nicknames:** Sam, QB1, Samuel, Killer
 
-**Hometown:** 
+**Hometown:** New Providence, NJ
 
-**Year:** 
+**Year:** 2017
 
-**Major:** 
+**Major:** Finance and Film, Television, and Theatre
 
-**Dorm:** 
+**Dorm:** FARLEY HALL
 
-**Hobbies/Interests:** 
+**Favorite Quote:** "All our dreams can come true if we have the courage to pursue them." -Walt Disney
 
-**Favorite Quote:** 
+**Interesting Fact:** I am a twin!!
 
-**Favorite Color:** 
+**When I was in fifth grade, I thought I'd...** be the first woman President of the United States
 
-**Gameday Cereal Choice:** 
+**North or South?** North, definitely not even a question.
 
-**Interesting Fact:** 
-
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
-
-**Future Plans:** 
+**Future Plans:** Study abroad in London, graduate in 4 years, and then go from there :)
 
 
 
