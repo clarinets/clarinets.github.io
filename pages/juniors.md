@@ -34,6 +34,33 @@ header:
 
 ##Haley Barlow
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -42,6 +69,33 @@ header:
 ##Claire Bauer
 Studying Abroad
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -50,6 +104,33 @@ Studying Abroad
 
 ##Maggie Brown
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -59,6 +140,33 @@ Studying Abroad
 ##AJ Derouin
 Studying Abroad
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -67,6 +175,33 @@ Studying Abroad
 
 ##Emily Foernssler
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -75,6 +210,33 @@ Studying Abroad
 
 ##Michelle Mann
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -83,6 +245,33 @@ Studying Abroad
 
 ##John McCready
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -91,6 +280,33 @@ Studying Abroad
 
 ##Emily McCusker
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -100,6 +316,33 @@ Studying Abroad
 
 ##Samantha Squeri
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -108,6 +351,33 @@ Studying Abroad
 
 ##Shannon Sullivan
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -119,6 +389,33 @@ Studying Abroad
 ##Sonia Urquidi
 Studying Abroad
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 

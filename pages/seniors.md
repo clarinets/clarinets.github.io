@@ -38,12 +38,68 @@ header:
 ##Nicole Mariani
 Grad Student
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
 <a name="theresa_albert"></a>
 
 ##Theresa Albert
+
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
+
 
 
 
@@ -52,11 +108,69 @@ Grad Student
 
 ##James Bachmayer
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
+
+
 
 
 <a name="jillian_belmonte"></a>
 
 ##Jillian Belmonte
+
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
+
 
 
 
@@ -64,6 +178,34 @@ Grad Student
 <a name="lily_crawford"></a>
 
 ##Lily Crawford
+
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -75,6 +217,33 @@ Grad Student
 ##Taylor Kelly
 Section Leader
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -86,6 +255,33 @@ Section Leader
 
 ##Madi King
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -93,6 +289,35 @@ Section Leader
 <a name="jennifer_long"></a>
 
 ##Jennifer Long
+
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
+
 
 
 
@@ -102,6 +327,33 @@ Section Leader
 ##Maggie McInerney
 Clarinet Treasurer
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -109,6 +361,33 @@ Clarinet Treasurer
 
 ##Jimmy Oh
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -120,6 +399,33 @@ Clarinet Treasurer
 ##Greg Ramos
 Drum Major
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -130,6 +436,33 @@ Drum Major
 
 ##Alyssa Ruiz
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -139,6 +472,33 @@ Drum Major
 
 ##Jacob Schrimpf
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
@@ -147,6 +507,33 @@ Drum Major
 
 ##Matthew Williams
 
+**Name:** 
+
+**Nicknames:** 
+
+**Hometown:** 
+
+**Year:** 
+
+**Major:** 
+
+**Dorm:** 
+
+**Hobbies/Interests:** 
+
+**Favorite Quote:** 
+
+**Favorite Color:** 
+
+**Gameday Cereal Choice:** 
+
+**Interesting Fact:** 
+
+**When I was in fifth grade, I thought I'd...** 
+
+**North or South?** 
+
+**Future Plans:** 
 
 
 
