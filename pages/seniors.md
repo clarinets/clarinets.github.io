@@ -40,7 +40,7 @@ Grad Student
 
 **Name:** Nicole Mariani
 
-**Nicknames:** 
+**Nicknames:** Nugget
 
 **Hometown:** Montclair, NJ
 
@@ -50,9 +50,9 @@ Grad Student
 
 **Dorm:** Off Campus
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Marching/concert/jazz/pep band, theatrical stage lighting, skiing, and I'm in a 4-piece jazz band called Fever!.
 
-**Favorite Quote:** 
+**Favorite Quote:** "To love another person is to see the face of God" - Les Miserables
 
 **Favorite Color:** Yellow
 
@@ -64,7 +64,7 @@ Grad Student
 
 **North or South?** NORTH
 
-**Future Plans:** 
+**Future Plans:** Probably working for a technology company, maybe getting into technical theatre... but definitely keeping up with music!
 
 
 
@@ -72,33 +72,25 @@ Grad Student
 
 ##Theresa Albert
 
-**Name:** 
+**Name:** Theresa Albert
 
-**Nicknames:** 
+**Hometown:** Belding, Michigan
 
-**Hometown:** 
+**Year:** 2016
 
-**Year:** 
+**Major:** Communicative Disorders/Spanish
 
-**Major:** 
+**Dorm:** McCandless, Saint Mary's College
 
-**Dorm:** 
+**Hobbies/Interests:** Theatre, Piano, hablando en español, Reading, Watching "Switched at Birth"
 
-**Hobbies/Interests:** 
+**Favorite Quote:** "Pray as though everything depended on God. Work as though everything depended on you." -Saint Augustine
 
-**Favorite Quote:** 
+**Interesting Fact:** I've marched on Ford Field four times
 
-**Favorite Color:** 
+**When I was in fifth grade, I thought I'd...** play girls' basketball for Notre Dame
 
-**Gameday Cereal Choice:** 
-
-**Interesting Fact:** 
-
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
-
-**Future Plans:** 
+**Future Plans:** To become a certified Speech and Language Pathology
 
 
 
@@ -110,8 +102,6 @@ Grad Student
 
 **Name:** James Bachmayer
 
-**Nicknames:** 
-
 **Hometown:** Coto de Caza, CA
 
 **Year:** 2016
@@ -120,7 +110,7 @@ Grad Student
 
 **Dorm:** Off Campus
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Everything outdoors
 
 **Favorite Quote:** "If you wait until the last minute to complete something, it only takes a minute to complete."
 
@@ -129,8 +119,6 @@ Grad Student
 **Gameday Cereal Choice:** Sleep
 
 **Interesting Fact:** Can catch nearly anything in my mouth, on demand.
-
-**When I was in fifth grade, I thought I'd...** 
 
 **North or South?** Neither, home cooking
 
@@ -155,20 +143,12 @@ Grad Student
 
 **Dorm:** Pasquerilla West
 
-**Hobbies/Interests:** 
-
 **Favorite Quote:** "I used to pray that God would feed the hungry, or do this or that, but now I pray that he will guide me to do whatever I'm supposed to do, what I can do. I used to pray for answers, but now I'm praying for strength. I used to believe that prayer changes things, but now I know that prayer changes us and we change things."
 -Mother Teresa
 
 **Favorite Color:** Pink
 
-**Gameday Cereal Choice:** 
-
 **Interesting Fact:** I used to do hardcore competitive dance a long time ago, and now my old dance teacher is featured on Dance Moms.
-
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
 
 **Future Plans:** Hopefully med school!
 
@@ -220,29 +200,29 @@ Section Leader
 
 **Name:** Taylor Kelly
 
-**Nicknames:** 
+**Nicknames:** TK, Tay, TayTay, TKel, TKelly, Kelly Taylor (take your pick!)
 
-**Hometown:** 
+**Hometown:** Hudson, Ohio
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Science Pre-Professional and Psychology
 
-**Dorm:** 
+**Dorm:** Howard Hall
 
 **Hobbies/Interests:** music, running, Zumba, swimming, dancing, service, traveling, spending time with family and friends, laughing, and smiling 
 
 **Favorite Quote:** "Use your smile to change the world; don't let the world change your smile."
 
-**Favorite Color:** 
+**Favorite Color:** Purple
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Reese's Puffs
 
-**Interesting Fact:** 
+**Interesting Fact:** I really didn't know anything about Notre Dame until I got here. My first time watching a Notre Dame football game was with the band my freshman year! Also I have a beautiful sister.
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** grow up and be an elementary school teacher!
 
-**North or South?** 
+**North or South?** SDH, because it is so close to my dorm and it has character!
 
 **Future Plans:** I hope to participate in Notre Dame's Alliance for Catholic Education (ACE) or a similar program following graduation with the goal of teaching science or math in the future. After that, wherever life takes me! 
 
@@ -257,8 +237,6 @@ Section Leader
 ##Madi King
 
 **Name:** Madi King
-
-**Nicknames:** 
 
 **Hometown:** SAINT LOUIS
 
@@ -291,33 +269,33 @@ Section Leader
 
 ##Jennifer Long
 
-**Name:** 
+**Name:** Jennifer Long
 
-**Nicknames:** 
+**Nicknames:** Jen, JLo
 
-**Hometown:** 
+**Hometown:** Murrysville, PA
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Computer science and ACMS
 
-**Dorm:** 
+**Dorm:** Pasquerilla East
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Piano, reading, karaoke, making Google forms, minesweeper, nerdy comp sci things like making this website, laughing, How I Met Your Mother, being short, movie musicals, icebreakers, making lists, and most of all, band!
 
-**Favorite Quote:** 
+**Favorite Quote:** "That best portion of a good man's life; his little, nameless, unremembered acts of kindness and of love." - William Wordsworth
 
-**Favorite Color:** 
+**Favorite Color:** Green
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Lucky Charms
 
-**Interesting Fact:** 
+**Interesting Fact:** A few fellow 'nets taught me how to ride a bike last year, at age 21.
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** become a librarian. 
 
-**North or South?** 
+**North or South?** North. Upper left, all day every day.
 
-**Future Plans:** 
+**Future Plans:** After graduation, I'll probably head out to California, get a dog, and work for a tech company. After that, who knows!
 
 
 
@@ -364,8 +342,6 @@ Clarinet Treasurer
 
 **Name:** Jimmy Oh
 
-**Nicknames:** 
-
 **Hometown:** Nashville, TN
 
 **Year:** 2016
@@ -376,7 +352,7 @@ Clarinet Treasurer
 
 **Hobbies/Interests:** urban dancing :), lifting/running, singing
 
-**Favorite Quote:** 
+**Favorite Quote:** "You can't get me thunder 'cause you're just God's fart" -Ted
 
 **Favorite Color:** Black and white
 
@@ -400,33 +376,35 @@ Clarinet Treasurer
 ##Greg Ramos
 Drum Major
 
-**Name:** 
+**Name:** Gregorio Jesús Ramos
 
-**Nicknames:** 
+**Nicknames:** Greg, Jorio
 
-**Hometown:** 
+**Hometown:** Lombard, Illinois (Chicago)
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Psychology and Spanish
 
-**Dorm:** 
+**Dorm:** Stanford Hall
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Swimming, Piano, Baseball, Watching Sports (Basically all of them), Watching Netflix, Eating, Sleeping, BAND, and How I Met Your Mother.
 
-**Favorite Quote:** 
+**Favorite Quote:** "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed." - Michael Jordan
 
-**Favorite Color:** 
+"Even when you fall flat on your face, at least remember that you're still moving forward."
 
-**Gameday Cereal Choice:** 
+**Favorite Color:** Red
 
-**Interesting Fact:** 
+**Gameday Cereal Choice:** Cinnamon Toast Crunch
 
-**When I was in fifth grade, I thought I'd...** 
+**Interesting Fact:** I am an Eagle Scout!
 
-**North or South?** 
+**When I was in fifth grade, I thought I'd...** grow up to attend Notre Dame and then become an astronaut...funny how some things work out.
 
-**Future Plans:** 
+**North or South?** North Dining Hall. Two words: tray size.
+
+**Future Plans:** Go to grad school, get a degree and a job, have a family, be happy, give back.
 
 
 
@@ -510,8 +488,6 @@ Drum Major
 
 **Name:** Matthew Williams
 
-**Nicknames:** 
-
 **Hometown:** Little Rock, Arkansas
 
 **Year:** 2016
@@ -521,8 +497,6 @@ Drum Major
 **Dorm:** Keenan Hall
 
 **Hobbies/Interests:** Camping, fishing, playing music, traveling, sports
-
-**Favorite Quote:** 
 
 **Favorite Color:** Blue
 

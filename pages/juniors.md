@@ -36,8 +36,6 @@ header:
 
 **Name:** Haley Barlow
 
-**Nicknames:** 
-
 **Hometown:** Austin, TX
 
 **Year:** 2017
@@ -109,15 +107,9 @@ Studying Abroad
 
 **Hobbies/Interests:** Running
 
-**Favorite Quote:** 
-
 **Favorite Color:** Pink
 
 **Gameday Cereal Choice:** Frosted flakes - the breakfast of champions
-
-**Interesting Fact:** 
-
-**When I was in fifth grade, I thought I'd...** 
 
 **North or South?** South. Is that even a question?
 
@@ -131,33 +123,33 @@ Studying Abroad
 ##AJ Derouin
 Studying Abroad
 
-**Name:** 
+**Name:** Anthony Derouin
 
-**Nicknames:** 
+**Nicknames:** AJ, AJ RJ Backslashinfourth V
 
-**Hometown:** 
+**Bro Name:** Broseidon King of the Brocean
 
-**Year:** 
+**Hometown:** Willmar, Minnesota
 
-**Major:** 
+**Year:** 2018
 
-**Dorm:** 
+**Major:** Architecture and Social Napping Double Major with a Dream Studies/Cuddling Minor
 
-**Hobbies/Interests:** 
+**Dorm:** Morrissey Manor
 
-**Favorite Quote:** 
+**Hobbies/Interests:** Swimming, Backpacking/Hiking, Reading, Watching Movies, watching any of the aforementioned TV shows, saving the whales, finding sidewalks on campus that I have never used before, finding new places to study on campus, visiting the Grotto, Chatting with Father Hesburgh, hearing people's stories, spending Flex Points conservatively, making Google Docs, promulgating Minnesota propaganda with Angie and Anthony, and of course BAND!!!
 
-**Favorite Color:** 
+**Favorite Poem:** "If" by Rudyard Kipling
 
-**Gameday Cereal Choice:** 
+**Favorite Quote:** "Live it intensely" -Grey Wolf NYLT
 
-**Interesting Fact:** 
+**Favorite Word:** Inspire
 
-**When I was in fifth grade, I thought I'd...** 
+**Interesting Fact About You:** I took violin lessons for 12 or so years
 
-**North or South?** 
+**General Interesting Fact:** Otters hold hands when they sleep so they won't be separated during their slumber.
 
-**Future Plans:** 
+**Future Plans:** Participate in the ACE Program, go to Grad School, hike the Appalachian Trail, serve in the Peace Corp, run a marathon, participate in an olympic triathlon, get a semi-stable job in an office that has slightly better working conditions than the Office, has less death involved than Scrubs, has less meth involved than Breaking Bad, and has as much as adventure as Doctor Who (you can tell what I have done with my life so far), get married, have 3-4 kids, live, retire, play with my grandkids, live to be 106, die.
 
 
 
@@ -186,8 +178,6 @@ Studying Abroad
 
 **Interesting Fact:** My main college goal was to come out fluent in another language, and I'm studying abroad in Chile for Spring 2016 to make it happen!
 
-**When I was in fifth grade, I thought I'd...** 
-
 **North or South?** North!
 
 **Future Plans:** Hopefully graduate with a job lined up and then the rest is truly a mystery
@@ -200,8 +190,6 @@ Studying Abroad
 ##Michelle Mann
 
 **Name:** Michelle Mann
-
-**Nicknames:** 
 
 **Hometown:** St Charles, IL
 
@@ -277,21 +265,11 @@ Studying Abroad
 
 **Dorm:** Cavanaugh Hall
 
-**Hobbies/Interests:** 
-
-**Favorite Quote:** 
-
 **Favorite Color:** Aqua
 
 **Gameday Cereal Choice:** Frosted Flakes
 
-**Interesting Fact:** 
-
-**When I was in fifth grade, I thought I'd...** 
-
 **North or South?** North!
-
-**Future Plans:** 
 
 
 
@@ -389,10 +367,6 @@ Studying Abroad
 **Gameday Cereal Choice:** Cinnamon Toast Crunch! 
 
 **Interesting Fact:** I don't like soda, have never had cable, haven't been to Disney World/Land, never owned a Wii, and yet I'm still a relatively normal human being.
-
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
 
 **Future Plans:** I'm studying abroad in London this fall (and thus will not be in marching band Junior year) but can't wait to return after that! In the long run, hopefully I'll move to one of the coasts, travel a lot, become fluent in Spanish, go to grad school (and figure out what to study in grad school), find a way to combine economics and music into an amazing job, visit a bunch of national parks, live a healthy lifestyle, and make a positive impact on people with the talents and knowledge I can provide.
 

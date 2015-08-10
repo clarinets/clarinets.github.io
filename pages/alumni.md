@@ -1,6 +1,5 @@
 ---
-layout: page
-show_meta: false
+layout: page-fullwidth
 title: "Alumni"
 subheadline: "Clarinets of the Fighting Irish"
 header:
