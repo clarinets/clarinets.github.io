@@ -26,13 +26,12 @@ header:
 * <a href="#jacob_schrimpf">Jacob Schrimpf</a>
 * <a href="#matthew_williams">Matthew Williams</a>
 </div>
+<img src="{{ site.url }}/images/bios/nicole.jpg">
 </div><!-- /.medium-4.columns -->
 
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-
-
 <a name="nicole_mariani"></a> 
 
 ##Nicole Mariani
@@ -67,7 +66,13 @@ Grad Student
 **Future Plans:** Probably working for a technology company, maybe getting into technical theatre... but definitely keeping up with music!
 
 
+</div><!-- /.medium-8.columns -->
+</div>
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="theresa_albert"></a>
 
 ##Theresa Albert
@@ -92,10 +97,16 @@ Grad Student
 
 **Future Plans:** To become a certified Speech and Language Pathology
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
 
-
-
+<img src="{{ site.url }}/images/bios/james.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="james_bachmayer"></a>
 
 ##James Bachmayer
@@ -124,8 +135,17 @@ Grad Student
 
 **Future Plans:** Officer in the Navy
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="jillian_belmonte"></a>
 
@@ -152,9 +172,21 @@ Grad Student
 
 **Future Plans:** Hopefully med school!
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/lily.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="lily_crawford"></a>
 
@@ -188,10 +220,21 @@ Grad Student
 
 **Future Plans:** Next year I will be teaching English at a school in central China for a year (maybe two...) before moving to Germany to continue teaching and to pursue a degree in medicine.
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
 
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/taylor.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="taylor_kelly"></a>
 
@@ -226,11 +269,21 @@ Section Leader
 
 **Future Plans:** I hope to participate in Notre Dame's Alliance for Catholic Education (ACE) or a similar program following graduation with the goal of teaching science or math in the future. After that, wherever life takes me! 
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
 
 
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="madi_king"></a>
 
@@ -262,8 +315,24 @@ Section Leader
 
 **Future Plans:** ACE!
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
+
+
+
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/jen.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="jennifer_long"></a>
 
@@ -297,9 +366,19 @@ Section Leader
 
 **Future Plans:** After graduation, I'll probably head out to California, get a dog, and work for a tech company. After that, who knows!
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="maggie_mcinerney"></a>
 
@@ -335,6 +414,22 @@ Clarinet Treasurer
 **Future Plans:** GE Full time- or another rotation program?
 
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="jimmy_oh"></a>
 
@@ -366,10 +461,25 @@ Clarinet Treasurer
 
 **Future Plans:** Taking a gap year to work before going to a medical school (hopefully).
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
 
+
+
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/greg.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="greg_ramos"></a>
 
@@ -406,10 +516,22 @@ Drum Major
 
 **Future Plans:** Go to grad school, get a degree and a job, have a family, be happy, give back.
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
 
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/alyssa.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="alyssa_ruiz"></a>
 
@@ -443,9 +565,22 @@ Drum Major
 
 **Future Plans:** Saving the environment! Or at least, I hope to work in freshwater management and treatment :)
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/jacob.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="jacob_schrimpf"></a>
 
@@ -479,8 +614,18 @@ Drum Major
 
 **Future Plans:** My dream is to be a professional actor and eventually an acting professor. I'm hoping to get an MFA in acting in the next few years and then move to a big city to start auditioning. I have no idea where the future will take me!
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 <a name="matthew_williams"></a>
 
@@ -510,10 +655,17 @@ Drum Major
 
 **Future Plans:** Not really sure...something involving going to space. Maybe I'll start my own company someday (i.e. SpaceX)
 
-
-
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
+
+
+
+
+
+
+
+
+
 
  [1]: http://kramdown.gettalong.org/converter/html.html#toc
  [2]: {{ site.url }}/blog/

@@ -10,6 +10,5 @@ Learn more about the Notre Dame band at [www.ndband.com](https://www.ndband.com)
 
 ####Auditionees
 
-We're very excited to welcome a new group of 'nets each year in the fall! Learn more about band camp, the audition process, and how to sign up [here](https://www.ndband.com).
+We're very excited to welcome a new group of 'nets each year in the fall! Learn more about band camp, the audition process, and how to sign up [here](http://www.ndband.com/join-the-band.cfm).
 
- [1]: http://www.wufoo.com/

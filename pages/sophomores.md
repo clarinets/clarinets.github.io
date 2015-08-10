@@ -31,8 +31,6 @@ header:
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-
-
 <a name="katie_campbell"></a> 
 
 ##Katie Campbell
@@ -65,9 +63,20 @@ header:
 
 **Future Plans:** 
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/karen.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="karen_chen"></a> 
 
 ##Karen Chen
@@ -101,10 +110,20 @@ Clarinet Social Chair
 
 **Future Plans:** I hope to attend medical school, but there's really no set path as of right now. I mean, being a hobo sounds pretty appealing sometimes too so....
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
 
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/danny.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="danny_cohen"></a> 
 
 ##Danny Cohen
@@ -135,9 +154,19 @@ The rest: Speaking Pig Latin, juggling, solving The Rubik's Cube, minesweeper, o
 
 **North or South?** South for 14 meals a week.
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/carolyn.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="carolyn_ebner"></a> 
 
 ##Carolyn Ebner
@@ -171,10 +200,19 @@ Clarinet Social Chair
 
 **Future Plans:** As a PLS major, this is a frequent question, so I should be pretty good at answering it, but I still can't quite pin down a good response. 
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
 
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="sean_lam"></a> 
 
 ##Sean Lam
@@ -193,11 +231,21 @@ Clarinet Social Chair
 
 **Gameday Cereal Choice:** Cinnamon Toast Crunch
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
 
 
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/jamie.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="jamie_maher"></a> 
 
 ##Jamie Maher
@@ -226,10 +274,21 @@ Clarinet Social Chair
 
 **Future Plans:** I'm not too sure right now but I hope I have a dog and a slightly better sense of reality. 
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
 
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/missy.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="missy_mckalip"></a> 
 
 ##Missy McKalip
@@ -258,12 +317,17 @@ Clarinet Social Chair
 
 **Future Plans:** After graduation, I plan to attend medical school and become a surgeon or ER doctor.
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
 
 
-
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="anna_poltrack"></a> 
 
 ##Anna Poltrack
@@ -296,10 +360,20 @@ Clarinet Social Chair
 
 **Future Plans:** 
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
 
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/julio.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="julio_salazar"></a> 
 
 ##Julio Salazar
@@ -333,12 +407,17 @@ Clarinet Treasurer
 
 **Future Plans:** I hope to be a part of the ACE (Alliance for Catholic Education) program and then enter law school. My dream is to be happily married and to work in politics and education policy. 
  
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
 
 
-
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="heather_shore"></a> 
 
 ##Heather Shore
@@ -371,11 +450,17 @@ Clarinet Treasurer
 
 **Future Plans:** 
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
 
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="samantha_sutter"></a> 
 
 ##Samantha Sutter
@@ -408,10 +493,18 @@ Clarinet Treasurer
 
 **Future Plans:** 
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
 
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="emma_tackman"></a> 
 
 ##Emma Tackman
@@ -448,10 +541,20 @@ Ambar-Metta
 
 **Future Plans:** Work in a semi-chemistry related field out of college, get promoted to middle management and then lag in my professional career progression, possibly get shunted between departments before a quiet and possibly dull retirement in the countryside of New Hampshire with my 2 cats
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
 
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/kelly.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="kelly_volk"></a> 
 
 ##Kelly Volk
@@ -483,9 +586,17 @@ FUIC
 
 **Future Plans:** Go to grad school, get caught up in some fascinating research project, then eventually save the world a little bit after making some medically significant discoveries. 
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="emily_zimmermann"></a> 
 
 ##Emily Zimmermann
@@ -515,6 +626,7 @@ FUIC
 **North or South?** SOUTH
 
 **Future Plans:** Become a neonatal nurse
+
 
 
 

@@ -23,13 +23,12 @@ header:
 * <a href="#shannon_sullivan">Shannon Sullivan</a>
 * <a href="#sonia_urquidi">Sonia Urquidi</a>
 </div>
+<img src="{{ site.url }}/images/bios/haley.jpg">
 </div><!-- /.medium-4.columns -->
 
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-
-
 <a name="haley_barlow"></a> 
 
 ##Haley Barlow
@@ -60,9 +59,18 @@ header:
 
 **Future Plans:** I plan to go to graduate school to pursue a PhD in genetics, then become a professor! Or something totally different, who knows.
 
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/claire.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="claire_bauer"></a>
 
 ##Claire Bauer
@@ -88,9 +96,19 @@ Studying Abroad
 
 **Future Plans:** become a mountain climber, observe an octopus in the wild, build and/or live in a treehouse, make dollhouses for my children, steal a couch from the Bond Hall library
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/maggie.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="maggie_brown"></a>
 
 ##Maggie Brown
@@ -115,9 +133,18 @@ Studying Abroad
 
 **Future Plans:** Law school!
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/aj.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="aj_derouin"></a>
 
 ##AJ Derouin
@@ -151,9 +178,18 @@ Studying Abroad
 
 **Future Plans:** Participate in the ACE Program, go to Grad School, hike the Appalachian Trail, serve in the Peace Corp, run a marathon, participate in an olympic triathlon, get a semi-stable job in an office that has slightly better working conditions than the Office, has less death involved than Scrubs, has less meth involved than Breaking Bad, and has as much as adventure as Doctor Who (you can tell what I have done with my life so far), get married, have 3-4 kids, live, retire, play with my grandkids, live to be 106, die.
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/emilyf.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="emily_foernssler"></a>
 
 ##Emily Foernssler
@@ -182,9 +218,20 @@ Studying Abroad
 
 **Future Plans:** Hopefully graduate with a job lined up and then the rest is truly a mystery
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/michelle.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="michelle_mann"></a>
 
 ##Michelle Mann
@@ -217,9 +264,17 @@ Studying Abroad
 
 **Clarinet Naming Fact:** My clarinet is named after Michelle Obama.
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="john_mccready"></a>
 
 ##John McCready
@@ -248,9 +303,20 @@ Studying Abroad
 
 **Future Plans:** Wherever the wind takes me
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/emilym.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="emily_mccusker"></a>
 
 ##Emily McCusker
@@ -271,10 +337,22 @@ Studying Abroad
 
 **North or South?** North!
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
 
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/sams.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="samantha_squeri"></a>
 
 ##Samantha Squeri
@@ -301,9 +379,16 @@ Studying Abroad
 
 **Future Plans:** Study abroad in London, graduate in 4 years, and then go from there :)
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="shannon_sullivan"></a>
 
 ##Shannon Sullivan
@@ -336,11 +421,21 @@ Studying Abroad
 
 **Future Plans:** 
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 
 
 
 
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/sonia.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="sonia_urquidi"></a>
 
 ##Sonia Urquidi
