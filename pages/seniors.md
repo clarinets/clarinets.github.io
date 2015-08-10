@@ -38,31 +38,31 @@ header:
 ##Nicole Mariani
 Grad Student
 
-**Name:** 
+**Name:** Nicole Mariani
 
 **Nicknames:** 
 
-**Hometown:** 
+**Hometown:** Montclair, NJ
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Master of Science in Management
 
-**Dorm:** 
+**Dorm:** Off Campus
 
 **Hobbies/Interests:** 
 
 **Favorite Quote:** 
 
-**Favorite Color:** 
+**Favorite Color:** Yellow
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Lucky Charms
 
-**Interesting Fact:** 
+**Interesting Fact:** I'm a triplet! One of my sisters just graduated from the trumpet section, and the other just graduated from the drumline at Villanova!
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** Be a veterinarian!
 
-**North or South?** 
+**North or South?** NORTH
 
 **Future Plans:** 
 
@@ -108,33 +108,33 @@ Grad Student
 
 ##James Bachmayer
 
-**Name:** 
+**Name:** James Bachmayer
 
 **Nicknames:** 
 
-**Hometown:** 
+**Hometown:** Coto de Caza, CA
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Aerospace Engineer
 
-**Dorm:** 
+**Dorm:** Off Campus
 
 **Hobbies/Interests:** 
 
-**Favorite Quote:** 
+**Favorite Quote:** "If you wait until the last minute to complete something, it only takes a minute to complete."
 
-**Favorite Color:** 
+**Favorite Color:** Blue&Gold
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Sleep
 
-**Interesting Fact:** 
+**Interesting Fact:** Can catch nearly anything in my mouth, on demand.
 
 **When I was in fifth grade, I thought I'd...** 
 
-**North or South?** 
+**North or South?** Neither, home cooking
 
-**Future Plans:** 
+**Future Plans:** Officer in the Navy
 
 
 
@@ -143,33 +143,34 @@ Grad Student
 
 ##Jillian Belmonte
 
-**Name:** 
+**Name:** Jillian Belmonte
 
-**Nicknames:** 
+**Nicknames:** Jill, Jillybean, I'll honestly respond to whatever
 
-**Hometown:** 
+**Hometown:** Evansville, IN
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Science Preprofessional and Psychology
 
-**Dorm:** 
+**Dorm:** Pasquerilla West
 
 **Hobbies/Interests:** 
 
-**Favorite Quote:** 
+**Favorite Quote:** "I used to pray that God would feed the hungry, or do this or that, but now I pray that he will guide me to do whatever I'm supposed to do, what I can do. I used to pray for answers, but now I'm praying for strength. I used to believe that prayer changes things, but now I know that prayer changes us and we change things."
+-Mother Teresa
 
-**Favorite Color:** 
+**Favorite Color:** Pink
 
 **Gameday Cereal Choice:** 
 
-**Interesting Fact:** 
+**Interesting Fact:** I used to do hardcore competitive dance a long time ago, and now my old dance teacher is featured on Dance Moms.
 
 **When I was in fifth grade, I thought I'd...** 
 
 **North or South?** 
 
-**Future Plans:** 
+**Future Plans:** Hopefully med school!
 
 
 
@@ -179,33 +180,33 @@ Grad Student
 
 ##Lily Crawford
 
-**Name:** 
+**Name:** Lillian Crawford
 
-**Nicknames:** 
+**Nicknames:** Lily
 
-**Hometown:** 
+**Hometown:** Fresno, CA
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Biology (Minors: Gender Studies & Anthropology)
 
-**Dorm:** 
+**Dorm:** Badin Hall
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** I collect US coins and travel patches from around the world.
 
-**Favorite Quote:** 
+**Favorite Quote:** "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it just keeps on flying anyways"
 
-**Favorite Color:** 
+**Favorite Color:** Green
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Frosted Flakes
 
-**Interesting Fact:** 
+**Interesting Fact:** I lived in France as a child and speak fluent French. I have also studied Spanish in school and am currently studying German, Italian and Chinese! 
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** Be a chemical engineer like my dad. I used to copy my math and science homework and race him to finish it and my "bedtime stories" included passages from his college engineering textbooks about thermodynamics and heat flow. #nerd
 
-**North or South?** 
+**North or South?** South
 
-**Future Plans:** 
+**Future Plans:** Next year I will be teaching English at a school in central China for a year (maybe two...) before moving to Germany to continue teaching and to pursue a degree in medicine.
 
 
 
@@ -217,7 +218,7 @@ Grad Student
 ##Taylor Kelly
 Section Leader
 
-**Name:** 
+**Name:** Taylor Kelly
 
 **Nicknames:** 
 
@@ -229,9 +230,9 @@ Section Leader
 
 **Dorm:** 
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** music, running, Zumba, swimming, dancing, service, traveling, spending time with family and friends, laughing, and smiling 
 
-**Favorite Quote:** 
+**Favorite Quote:** "Use your smile to change the world; don't let the world change your smile."
 
 **Favorite Color:** 
 
@@ -243,7 +244,7 @@ Section Leader
 
 **North or South?** 
 
-**Future Plans:** 
+**Future Plans:** I hope to participate in Notre Dame's Alliance for Catholic Education (ACE) or a similar program following graduation with the goal of teaching science or math in the future. After that, wherever life takes me! 
 
 
 
@@ -255,33 +256,33 @@ Section Leader
 
 ##Madi King
 
-**Name:** 
+**Name:** Madi King
 
 **Nicknames:** 
 
-**Hometown:** 
+**Hometown:** SAINT LOUIS
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Political science
 
-**Dorm:** 
+**Dorm:** McGlinn
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Speaking in accents with Margaret
 
-**Favorite Quote:** 
+**Favorite Quote:** "Some people say they can't believe, Jamaica we have a bobsled team"
 
-**Favorite Color:** 
+**Favorite Color:** Blue (just blue, not like light or dark or baby blue, just blue)
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Lucky Charms
 
-**Interesting Fact:** 
+**Interesting Fact:** When I was in India a man proposed to me at a gas station with a bottle of apple juice. I unfortunately turned him down and was still able to keep the apple juice. That's the day I learned what a win win felt like. 
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** Grow up to be Lizzie McGuire
 
-**North or South?** 
+**North or South?** South
 
-**Future Plans:** 
+**Future Plans:** ACE!
 
 
 
@@ -327,33 +328,33 @@ Section Leader
 ##Maggie McInerney
 Clarinet Treasurer
 
-**Name:** 
+**Name:** Margaret McInerney
 
-**Nicknames:** 
+**Nicknames:** Maggie
 
-**Hometown:** 
+**Hometown:** Syracuse, NY
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Mechanical Engineering
 
-**Dorm:** 
+**Dorm:** McGlinn Hall
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Marching Band, Juggling Club, Interhall Sports 
 
-**Favorite Quote:** 
+**Favorite Quote:** "Every challenge is an opportunity to see who we are and all that we can be" -Hallmark Card
 
-**Favorite Color:** 
+**Favorite Color:** Green
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Gluten Free Rice Chex or Corn Pops
 
-**Interesting Fact:** 
+**Interesting Fact:** I have scoliosis- found out in 11th grade
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** Become a pediatrician
 
-**North or South?** 
+**North or South?** South all the way. North only serves sadness.
 
-**Future Plans:** 
+**Future Plans:** GE Full time- or another rotation program?
 
 
 
@@ -361,33 +362,33 @@ Clarinet Treasurer
 
 ##Jimmy Oh
 
-**Name:** 
+**Name:** Jimmy Oh
 
 **Nicknames:** 
 
-**Hometown:** 
+**Hometown:** Nashville, TN
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Biology and Psychology
 
-**Dorm:** 
+**Dorm:** Sorin
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** urban dancing :), lifting/running, singing
 
 **Favorite Quote:** 
 
-**Favorite Color:** 
+**Favorite Color:** Black and white
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Anything and everything
 
-**Interesting Fact:** 
+**Interesting Fact:** I moved from korea when I was 12.
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** be a firefighter
 
-**North or South?** 
+**North or South?** south dining hall AND south korea
 
-**Future Plans:** 
+**Future Plans:** Taking a gap year to work before going to a medical school (hopefully).
 
 
 
@@ -436,33 +437,33 @@ Drum Major
 
 ##Alyssa Ruiz
 
-**Name:** 
+**Name:** Alyssa Ruiz
 
 **Nicknames:** 
 
-**Hometown:** 
+**Hometown:** Austin, TX
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Environmental Engineering
 
-**Dorm:** 
+**Dorm:** Cavanaugh Hall
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Band, dancing, hiking, photography, traveling, fooooooood
 
-**Favorite Quote:** 
+**Favorite Quote:** "Be the change you want to see in the world" -Gandhi
 
-**Favorite Color:** 
+**Favorite Color:** Turquoise
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Lucky Charms, all the way
 
-**Interesting Fact:** 
+**Interesting Fact:** I've been skydiving over glaciers in southern New Zealand!
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** be a wedding planner. I still love Say Yes to the Dress!
 
-**North or South?** 
+**North or South?** I'm not partial to one dining hall. I like them both!
 
-**Future Plans:** 
+**Future Plans:** Saving the environment! Or at least, I hope to work in freshwater management and treatment :)
 
 
 
@@ -472,33 +473,33 @@ Drum Major
 
 ##Jacob Schrimpf
 
-**Name:** 
+**Name:** Jacob Schrimpf
 
-**Nicknames:** 
+**Nicknames:** Fruit Loop, Shrimp
 
-**Hometown:** 
+**Hometown:** Grayslake, IL
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Film, Television, & Theatre
 
-**Dorm:** 
+**Dorm:** Siegfried
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Band (obviously!), acting, singing, running, dancing, talking, eating, sleeping, reading, and socializing
 
-**Favorite Quote:** 
+**Favorite Quote:** "Life is too short to miss out on the beautiful things like a double cheeseburger" -Channing Tatum
 
-**Favorite Color:** 
+**Favorite Color:** Blue
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Frosted Flakes
 
-**Interesting Fact:** 
+**Interesting Fact:** Do I have to include one of these? Mine are always so uninteresting...
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** become a psychiatrist. Not sure I even knew what this meant but it sounded good at the time...
 
-**North or South?** 
+**North or South?** North
 
-**Future Plans:** 
+**Future Plans:** My dream is to be a professional actor and eventually an acting professor. I'm hoping to get an MFA in acting in the next few years and then move to a big city to start auditioning. I have no idea where the future will take me!
 
 
 
@@ -507,33 +508,33 @@ Drum Major
 
 ##Matthew Williams
 
-**Name:** 
+**Name:** Matthew Williams
 
 **Nicknames:** 
 
-**Hometown:** 
+**Hometown:** Little Rock, Arkansas
 
-**Year:** 
+**Year:** 2016
 
-**Major:** 
+**Major:** Aerospace Engineering
 
-**Dorm:** 
+**Dorm:** Keenan Hall
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Camping, fishing, playing music, traveling, sports
 
 **Favorite Quote:** 
 
-**Favorite Color:** 
+**Favorite Color:** Blue
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Lucky Charms
 
-**Interesting Fact:** 
+**Interesting Fact:** I can name all 196 countries in the world and all 128 FBS college football teams. I also have a freckle on my left eye.
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** Go to Notre Dame, major in aerospace engineering, play clarinet in the band, then go on to be an astronaut (I guess I had things figured out at the wise old age of 10)
 
-**North or South?** 
+**North or South?** North
 
-**Future Plans:** 
+**Future Plans:** Not really sure...something involving going to space. Maybe I'll start my own company someday (i.e. SpaceX)
 
 
 

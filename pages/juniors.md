@@ -70,33 +70,25 @@ header:
 ##Claire Bauer
 Studying Abroad
 
-**Name:** 
+**Name:** Claire Bauer
 
-**Nicknames:** 
+**Hometown:** Silver Lake, Ohio
 
-**Hometown:** 
+**Year:** 2018
 
-**Year:** 
+**Major:** Architecture
 
-**Major:** 
+**Dorm:** Lewis
 
-**Dorm:** 
+**Hobbies/Interests:** smiling, dancing, playing the piano, people-watching in the dining hall, napping on the couches in the Bond Hall library
 
-**Hobbies/Interests:** 
+**Favorite Color:** Green, purple
 
-**Favorite Quote:** 
+**Interesting Fact:** When I was in fifth grade I did a report for school on my Norwegian family history. My great-great-grandfather was a reindeer herder.
 
-**Favorite Color:** 
+**When I was in fifth grade, I thought I'd...** become a doctor or lawyer or business executive, play on the golf course, drink my Martini dry, and have pretty children who go to school and to summer camp and then to university.
 
-**Gameday Cereal Choice:** 
-
-**Interesting Fact:** 
-
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
-
-**Future Plans:** 
+**Future Plans:** become a mountain climber, observe an octopus in the wild, build and/or live in a treehouse, make dollhouses for my children, steal a couch from the Bond Hall library
 
 
 
@@ -221,19 +213,21 @@ Studying Abroad
 
 **Hobbies/Interests:** Golfing, reading, travelling, hanging out with the fabulous 'Net section
 
-**Favorite Quote:** 
+**Favorite Quote:** "Nothing will work unless you do." -Maya Angelou
 
-**Favorite Color:** 
+**Favorite Color:** Blue
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Frosted Flakes
 
-**Interesting Fact:** 
+**Interesting Fact:** I will always be a Girl Scout. (No seriously, I am a lifetime member and was active for 13 years)
 
-**When I was in fifth grade, I thought I'd...** 
+**When I was in fifth grade, I thought I'd...** Be a member of Destiny's Child
 
-**North or South?** 
+**North or South?** NOOOOORRRRRTTTHHHHH. It's where you can feel at home.
 
-**Future Plans:** 
+**Future Plans:** Excellence.
+
+**Clarinet Naming Fact:** My clarinet is named after Michelle Obama.
 
 
 
@@ -374,33 +368,33 @@ Studying Abroad
 ##Sonia Urquidi
 Studying Abroad
 
-**Name:** 
+**Name:** Sonia Urquidi
 
-**Nicknames:** 
+**Nicknames:** Sonj
 
-**Hometown:** 
+**Hometown:** Madison, WI
 
-**Year:** 
+**Year:** 2017
 
-**Major:** 
+**Major:** Economics and Music
 
-**Dorm:** 
+**Dorm:** Breen-Phillips
 
-**Hobbies/Interests:** 
+**Hobbies/Interests:** Playing jazz, gigging, chamber music, singing, a cappella, dancing, backpacking, kayaking, camping, biking, and watching adorable videos of cats. \<3
 
-**Favorite Quote:** 
+**Favorite Quote:** "It is the supreme art of the teacher to awaken joy in creative expresssion and knowledge." -Albert Einstein
 
-**Favorite Color:** 
+**Favorite Color:** Maroon
 
-**Gameday Cereal Choice:** 
+**Gameday Cereal Choice:** Cinnamon Toast Crunch! 
 
-**Interesting Fact:** 
+**Interesting Fact:** I don't like soda, have never had cable, haven't been to Disney World/Land, never owned a Wii, and yet I'm still a relatively normal human being.
 
 **When I was in fifth grade, I thought I'd...** 
 
 **North or South?** 
 
-**Future Plans:** 
+**Future Plans:** I'm studying abroad in London this fall (and thus will not be in marching band Junior year) but can't wait to return after that! In the long run, hopefully I'll move to one of the coasts, travel a lot, become fluent in Spanish, go to grad school (and figure out what to study in grad school), find a way to combine economics and music into an amazing job, visit a bunch of national parks, live a healthy lifestyle, and make a positive impact on people with the talents and knowledge I can provide.
 
 
 
