@@ -19,6 +19,10 @@
   - title: "Freshmen"
     url: "/members/freshmen/"
 
+- title: "Alumni"
+  url: "/alumni/"
+  side: left
+
 - title: "Gallery"
   url: "/gallery/"
   side: left
