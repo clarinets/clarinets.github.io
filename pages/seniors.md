@@ -325,6 +325,7 @@ Section Leader
 <a name="jennifer_long"></a>
 
 ##Jennifer Long
+Section Leader
 
 **Nicknames:** Jen, JLo
 

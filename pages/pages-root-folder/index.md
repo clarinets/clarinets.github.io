@@ -21,7 +21,7 @@ widget3:
   title: "Contact Us"
   url: '/contact/'
   image: gallery/gallery7.jpg
-  text: "We'd love to hear from all of you! Check out our contact information and useful links here."
+  text: "We'd love to hear from all of you! Check out our contact information and useful links."
 permalink: /index.html
 ---
 
