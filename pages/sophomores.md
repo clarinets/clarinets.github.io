@@ -35,33 +35,6 @@ header:
 
 ##Katie Campbell
 
-**Name:** 
-
-**Nicknames:** 
-
-**Hometown:** 
-
-**Year:** 
-
-**Major:** 
-
-**Dorm:** 
-
-**Hobbies/Interests:** 
-
-**Favorite Quote:** 
-
-**Favorite Color:** 
-
-**Gameday Cereal Choice:** 
-
-**Interesting Fact:** 
-
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
-
-**Future Plans:** 
 
 </div><!-- /.medium-8.columns -->
 </div>
@@ -81,8 +54,6 @@ header:
 
 ##Karen Chen
 Clarinet Social Chair
-
-**Name:** Karen Chen
 
 **Nicknames:** KChen, Kernnnnn
 
@@ -172,8 +143,6 @@ The rest: Speaking Pig Latin, juggling, solving The Rubik's Cube, minesweeper, o
 ##Carolyn Ebner
 Clarinet Social Chair
 
-**Name:** Carolyn Ebner
-
 **Nicknames:** C-lyn, Care
 
 **Hometown:** Plymouth, NH
@@ -217,8 +186,6 @@ Clarinet Social Chair
 
 ##Sean Lam
 
-**Name:** Sean Lam
-
 **Hometown:** Thousand Oaks, CA
 
 **Year:** 2018
@@ -249,8 +216,6 @@ Clarinet Social Chair
 <a name="jamie_maher"></a> 
 
 ##Jamie Maher
-
-**Name:** Jamie Maher
 
 **Hometown:** Geneva, IL
 
@@ -332,34 +297,6 @@ Clarinet Social Chair
 
 ##Anna Poltrack
 
-**Name:** 
-
-**Nicknames:** 
-
-**Hometown:** 
-
-**Year:** 
-
-**Major:** 
-
-**Dorm:** 
-
-**Hobbies/Interests:** 
-
-**Favorite Quote:** 
-
-**Favorite Color:** 
-
-**Gameday Cereal Choice:** 
-
-**Interesting Fact:** 
-
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
-
-**Future Plans:** 
-
 </div><!-- /.medium-8.columns -->
 </div>
 
@@ -422,34 +359,6 @@ Clarinet Treasurer
 
 ##Heather Shore
 
-**Name:** 
-
-**Nicknames:** 
-
-**Hometown:** 
-
-**Year:** 
-
-**Major:** 
-
-**Dorm:** 
-
-**Hobbies/Interests:** 
-
-**Favorite Quote:** 
-
-**Favorite Color:** 
-
-**Gameday Cereal Choice:** 
-
-**Interesting Fact:** 
-
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
-
-**Future Plans:** 
-
 </div><!-- /.medium-8.columns -->
 </div>
 
@@ -465,33 +374,6 @@ Clarinet Treasurer
 
 ##Samantha Sutter
 
-**Name:** 
-
-**Nicknames:** 
-
-**Hometown:** 
-
-**Year:** 
-
-**Major:** 
-
-**Dorm:** 
-
-**Hobbies/Interests:** 
-
-**Favorite Quote:** 
-
-**Favorite Color:** 
-
-**Gameday Cereal Choice:** 
-
-**Interesting Fact:** 
-
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
-
-**Future Plans:** 
 
 </div><!-- /.medium-8.columns -->
 </div>
@@ -508,8 +390,6 @@ Clarinet Treasurer
 <a name="emma_tackman"></a> 
 
 ##Emma Tackman
-
-**Name:** Emma Tackman
 
 **Nicknames:** People inexplicably call me Emily sometimes
 
@@ -560,8 +440,6 @@ Ambar-Metta
 ##Kelly Volk
 FUIC
 
-**Name:** Kelly Volk
-
 **Hometown:** Tinley Park, Illinois
 
 **Year:** 2018
@@ -600,8 +478,6 @@ FUIC
 <a name="emily_zimmermann"></a> 
 
 ##Emily Zimmermann
-
-**Name:** Emily Zimmermann
 
 **Hometown:** Arlington Heights, IL
 

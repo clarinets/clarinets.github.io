@@ -33,8 +33,6 @@ header:
 
 ##Haley Barlow
 
-**Name:** Haley Barlow
-
 **Hometown:** Austin, TX
 
 **Year:** 2017
@@ -76,8 +74,6 @@ header:
 ##Claire Bauer
 Studying Abroad
 
-**Name:** Claire Bauer
-
 **Hometown:** Silver Lake, Ohio
 
 **Year:** 2018
@@ -112,8 +108,6 @@ Studying Abroad
 <a name="maggie_brown"></a>
 
 ##Maggie Brown
-
-**Name:** Maggie Brown
 
 **Hometown:** Lemont, IL
 
@@ -194,8 +188,6 @@ Studying Abroad
 
 ##Emily Foernssler
 
-**Name:** Emily Foernssler
-
 **Hometown:** Darien, Illinois
 
 **Year:** 2017
@@ -235,8 +227,6 @@ Studying Abroad
 <a name="michelle_mann"></a>
 
 ##Michelle Mann
-
-**Name:** Michelle Mann
 
 **Hometown:** St Charles, IL
 
@@ -279,8 +269,6 @@ Studying Abroad
 
 ##John McCready
 
-**Name:** John McCready
-
 **Hometown:** Carlsbad, CA
 
 **Year:** 2017
@@ -321,8 +309,6 @@ Studying Abroad
 
 ##Emily McCusker
 
-**Name:** Emily McCusker
-
 **Hometown:** Omaha, Nebraska
 
 **Year:** 2017
@@ -356,8 +342,6 @@ Studying Abroad
 <a name="samantha_squeri"></a>
 
 ##Samantha Squeri
-
-**Name:** Samantha Squeri
 
 **Nicknames:** Sam, QB1, Samuel, Killer
 
@@ -393,34 +377,6 @@ Studying Abroad
 
 ##Shannon Sullivan
 
-**Name:** 
-
-**Nicknames:** 
-
-**Hometown:** 
-
-**Year:** 
-
-**Major:** 
-
-**Dorm:** 
-
-**Hobbies/Interests:** 
-
-**Favorite Quote:** 
-
-**Favorite Color:** 
-
-**Gameday Cereal Choice:** 
-
-**Interesting Fact:** 
-
-**When I was in fifth grade, I thought I'd...** 
-
-**North or South?** 
-
-**Future Plans:** 
-
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 
@@ -440,8 +396,6 @@ Studying Abroad
 
 ##Sonia Urquidi
 Studying Abroad
-
-**Name:** Sonia Urquidi
 
 **Nicknames:** Sonj
 

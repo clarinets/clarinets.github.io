@@ -37,8 +37,6 @@ header:
 ##Nicole Mariani
 Grad Student
 
-**Name:** Nicole Mariani
-
 **Nicknames:** Nugget
 
 **Hometown:** Montclair, NJ
@@ -77,8 +75,6 @@ Grad Student
 
 ##Theresa Albert
 
-**Name:** Theresa Albert
-
 **Hometown:** Belding, Michigan
 
 **Year:** 2016
@@ -110,8 +106,6 @@ Grad Student
 <a name="james_bachmayer"></a>
 
 ##James Bachmayer
-
-**Name:** James Bachmayer
 
 **Hometown:** Coto de Caza, CA
 
@@ -150,8 +144,6 @@ Grad Student
 <a name="jillian_belmonte"></a>
 
 ##Jillian Belmonte
-
-**Name:** Jillian Belmonte
 
 **Nicknames:** Jill, Jillybean, I'll honestly respond to whatever
 
@@ -241,8 +233,6 @@ Grad Student
 ##Taylor Kelly
 Section Leader
 
-**Name:** Taylor Kelly
-
 **Nicknames:** TK, Tay, TayTay, TKel, TKelly, Kelly Taylor (take your pick!)
 
 **Hometown:** Hudson, Ohio
@@ -288,8 +278,6 @@ Section Leader
 <a name="madi_king"></a>
 
 ##Madi King
-
-**Name:** Madi King
 
 **Hometown:** SAINT LOUIS
 
@@ -337,8 +325,6 @@ Section Leader
 <a name="jennifer_long"></a>
 
 ##Jennifer Long
-
-**Name:** Jennifer Long
 
 **Nicknames:** Jen, JLo
 
@@ -434,8 +420,6 @@ Clarinet Treasurer
 <a name="jimmy_oh"></a>
 
 ##Jimmy Oh
-
-**Name:** Jimmy Oh
 
 **Hometown:** Nashville, TN
 
@@ -537,10 +521,6 @@ Drum Major
 
 ##Alyssa Ruiz
 
-**Name:** Alyssa Ruiz
-
-**Nicknames:** 
-
 **Hometown:** Austin, TX
 
 **Year:** 2016
@@ -586,8 +566,6 @@ Drum Major
 
 ##Jacob Schrimpf
 
-**Name:** Jacob Schrimpf
-
 **Nicknames:** Fruit Loop, Shrimp
 
 **Hometown:** Grayslake, IL
@@ -630,8 +608,6 @@ Drum Major
 <a name="matthew_williams"></a>
 
 ##Matthew Williams
-
-**Name:** Matthew Williams
 
 **Hometown:** Little Rock, Arkansas
 
