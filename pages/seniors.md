@@ -333,7 +333,7 @@ Section Leader
 
 **Year:** 2016
 
-**Major:** Computer science and ACMS
+**Major:** Computer Science, ACMS
 
 **Dorm:** Pasquerilla East
 
@@ -345,7 +345,7 @@ Section Leader
 
 **Gameday Cereal Choice:** Lucky Charms
 
-**Interesting Fact:** A few fellow 'nets taught me how to ride a bike last year, at age 21.
+**Interesting Fact:** A few fellow 'nets taught me how to ride a bike this year, at age 21.
 
 **When I was in fifth grade, I thought I'd...** become a librarian. 
 
