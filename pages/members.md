@@ -2,7 +2,7 @@
 layout: page
 title: "Members"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "headers/header.jpg"
 permalink: "/members/"
 ---
 

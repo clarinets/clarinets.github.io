@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Alumni"
 subheadline: "Clarinets of the Fighting Irish"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "headers/header.jpg"
 permalink: "/alumni/"
 ---
 
@@ -44,7 +44,8 @@ Our goal with this page is to compile the stories of our past 'nets. If you are 
 We're always very excited to meet alumni as well. If you're on campus, come find us at marchout or Concert on the Steps and introduce yourself!
 
 Thank you for all of your contributions to the 'net tradition!
-The 'Nets
+
+--The 'Nets
 
 <a name="father_sorin"></a> 
 
@@ -107,6 +108,8 @@ tcross@prodigy.net
 
 ##Rosalind Gaffney
 Class of 1985
+
+<img src="{{ site.url }}/images/bios/nets85-rosalind_gaffney.jpg">
 
 I graduated in 1985. My daughter Genette is now in the band playing the clarinet ( in 2009-). I have attached a section picture from I believe either 1982 or 1983 season (yes, the Faust years.) Since graduation, I moved back to NY, have worked a variety of jobs in accounting (my major). Married (Edward) have 3 children (Eddie, Genette and Douglas) and 3 grandchildren (Lexia, Jaion and Dehlia). Life is busy. Currently, I work for a staffing company on Long Island, New York. Go Irish and Go Yankees.
 
@@ -302,6 +305,10 @@ kworlkers@hotmail.com
 
 ##Class of 2012
 
+<img src="{{ site.url }}/images/bios/2012grads.jpg">
+
+<img src="{{ site.url }}/images/bios/2012gradsMI.jpg">
+
 * Alexis Hiner
 * Ben Mall
 * Colleen Golden
@@ -323,6 +330,8 @@ kworlkers@hotmail.com
 <a name="class_of_2013"></a> 
 
 ##Class of 2013
+
+<img src="{{ site.url }}/images/bios/2013grads.jpg">
 
 * Daniel Ampon
 * Julia Berchtold
@@ -351,6 +360,8 @@ kworlkers@hotmail.com
 
 ##Class of 2014
 
+<img src="{{ site.url }}/images/bios/2014grads.jpg">
+
 * Elizabeth FitzGerald
 * Brooke Haynes
 * Joonsung Kim
@@ -368,6 +379,10 @@ kworlkers@hotmail.com
 <a name="class_of_2015"></a> 
 
 ##Class of 2015
+
+<img src="{{ site.url }}/images/bios/2015grads3.jpg">
+
+<img src="{{ site.url }}/images/bios/2015grads2.jpg">
 
 * Anthony Barrett
 * Garrett Blad

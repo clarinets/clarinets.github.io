@@ -18,3 +18,5 @@ sass:
 
 # Disable when not in production
 google_analytics_tracking_id:
+
+urlimg: 'http://localhost:4000/images/'

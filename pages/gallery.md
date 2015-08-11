@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Gallery"
 permalink: "/gallery/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "headers/header.jpg"
 ---
 <ul class="clearing-thumbs small-block-grid-5" data-clearing>
   <li><a href="{{ site.url }}/images/gallery/gallery1.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery1.jpg"></a></li>

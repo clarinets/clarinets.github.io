@@ -6,28 +6,37 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: "headers/header.jpg"
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: unsplash_9-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "Members"
+  url: 'http://localhost:4000/members/'
+  image: gallery/gallery3.jpg
+  text: "Learn more about the 'nets! Check out bios on each of our awesome section members."
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Gallery"
+  url: 'http://localhost:4000/gallery/'
+  image: gallery/gallery21.jpg
+  text: "Check out the photo gallery of the most photogenic section in the band!"
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  title: "Contact Us"
+  url: 'http://localhost:4000/contact/'
+  image: gallery/gallery7.jpg
+  text: "We'd love to hear from all of you! Check out our contact information and useful links here."
 permalink: /index.html
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+
+
+
+<div class="row">
+<div class="medium-8 medium-push-4 columns" markdown="1"> 
+<img src="{{ site.url }}/images/gallery/gallery2.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-4 medium-pull-8 columns" markdown="1">
+
+###Welcome to the site of the Notre Dame clarinets! Feel free to look around and learn more about the best section in the Band of the Fighting Irish. 
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+
+

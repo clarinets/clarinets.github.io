@@ -4,7 +4,7 @@ show_meta: false
 title: "About"
 subheadline: "Clarinets of the Fighting Irish"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "headers/header.jpg"
 permalink: "/about/"
 ---
 
