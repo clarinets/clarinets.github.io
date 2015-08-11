@@ -9,17 +9,17 @@ header:
   image_fullwidth: "headers/header.jpg"
 widget1:
   title: "Members"
-  url: 'https:/clarinets.github.io/members/'
+  url: '/members/'
   image: gallery/gallery3.jpg
   text: "Learn more about the 'nets! Check out bios on each of our awesome section members."
 widget2:
   title: "Gallery"
-  url: 'https://clarinets.github.io/gallery/'
+  url: '/gallery/'
   image: gallery/gallery21.jpg
   text: "Check out the photo gallery of the most photogenic section in the band!"
 widget3:
   title: "Contact Us"
-  url: 'https://clarinets.github.io/contact/'
+  url: '/contact/'
   image: gallery/gallery7.jpg
   text: "We'd love to hear from all of you! Check out our contact information and useful links here."
 permalink: /index.html
