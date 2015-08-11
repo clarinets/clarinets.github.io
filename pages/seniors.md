@@ -91,7 +91,7 @@ Grad Student
 
 **When I was in fifth grade, I thought I'd...** play girls' basketball for Notre Dame
 
-**Future Plans:** To become a certified Speech and Language Pathology
+**Future Plans:** To become a certified Speech and Language Pathologist
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
