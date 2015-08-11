@@ -429,7 +429,7 @@ Clarinet Treasurer
 
 **Dorm:** Sorin
 
-**Hobbies/Interests:** urban dancing :), lifting/running, singing
+**Hobbies/Interests:** Urban dancing :), lifting/running, singing
 
 **Favorite Quote:** "You can't get me thunder 'cause you're just God's fart" -Ted
 
@@ -441,7 +441,7 @@ Clarinet Treasurer
 
 **When I was in fifth grade, I thought I'd...** be a firefighter
 
-**North or South?** south dining hall AND south korea
+**North or South?** South Dining Hall AND South Korea
 
 **Future Plans:** Taking a gap year to work before going to a medical school (hopefully).
 

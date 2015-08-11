@@ -2,6 +2,8 @@
 layout: page
 title: "Contact Us"
 permalink: "/contact/"
+header:
+   image_fullwidth: "headers/header.jpg"
 ---
 
 For questions about the section or feedback on this site, feel free to e-mail us anytime at [clarinet@nd.edu](mailto:clarinet@nd.edu)! 
