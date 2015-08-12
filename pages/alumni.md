@@ -126,7 +126,7 @@ rgaffney@volt.com
 ##Jennifer Lang
 Class of 1994
 
-'m a 94 grad, and was a part of the Clarinet section for my four years at ND. I was also a member of concert band for three years (though on bass clarinet). I currently work for BMC Software in Houston, TX and live in Katy, TX with my fiancé Ben (who is a graduate of the University of Texas) and our three cats (no big surprise, they are all named after Disney characters).
+I'm a 94 grad, and was a part of the Clarinet section for my four years at ND. I was also a member of concert band for three years (though on bass clarinet). I currently work for BMC Software in Houston, TX and live in Katy, TX with my fiancé Ben (who is a graduate of the University of Texas) and our three cats (no big surprise, they are all named after Disney characters).
 
 Jennifer Lang
 2127 Autumn Fern Drive
@@ -155,7 +155,7 @@ lcgill@us.ibm.com
 
 <a name="colleen_halloran"></a>
 
-##Colleeen Halloran (Hagen)
+##Colleen Halloran (Hagen)
 Class of 1996 
 
 I just wanted to say hello to all of my fellow 'nets. My name is Colleen Halloran (Hagen) SMC 96' and my e-mail address tells it all! In May 1997 I married a fellow band member, Brian Halloran (ND Drumline)...some of you might know his trumpet brother, Brendan, a senior this year. I just wanted to check in and leave my e-mail address. In light of what happened over the last few days, I was actually checking the band sites for e-mail addresses of band family that I know live in the NY area...I'm just praying none of our band family was affected. Have a great season, nets. My husband, daughter Kathleen and I are going to try and make it up to campus for the Tennessee game and the Navy game. Take care- (Sep. 12, 2001)

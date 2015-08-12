@@ -34,6 +34,13 @@ header:
   <li><a href="{{ site.url }}/images/gallery/gallery26.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery26.jpg"></a></li>
   <li><a href="{{ site.url }}/images/gallery/gallery27.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery27.jpg"></a></li>
   <li><a href="{{ site.url }}/images/gallery/gallery28.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery28.jpg"></a></li>
+  <li><a href="{{ site.url }}/images/gallery/gallery29.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery29.jpg"></a></li>
+  <li><a href="{{ site.url }}/images/gallery/gallery30.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery30.jpg"></a></li>
+  <li><a href="{{ site.url }}/images/gallery/gallery31.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery31.jpg"></a></li>
+  <li><a href="{{ site.url }}/images/gallery/gallery32.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery32.jpg"></a></li>
+  <li><a href="{{ site.url }}/images/gallery/gallery33.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery33.jpg"></a></li>
+  <li><a href="{{ site.url }}/images/gallery/gallery34.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery34.jpg"></a></li>
+  <li><a href="{{ site.url }}/images/gallery/gallery35.jpg"><img data-caption="" class="th" src="{{ site.url }}/images/gallery/gallery35.jpg"></a></li>
 </ul>
 
  [1]: http://kramdown.gettalong.org/converter/html.html#toc
