@@ -11,14 +11,12 @@ header:
 <div class="panel radius" markdown="1">
 **Table of Contents**
 
-* <a href="#katie_campbell">Katie Campbell</a>
 * <a href="#karen_chen">Karen Chen</a>
 * <a href="#danny_cohen">Danny Cohen</a>
 * <a href="#carolyn_ebner">Carolyn Ebner</a>
 * <a href="#sean_lam">Sean Lam</a>
 * <a href="#jamie_maher">Jamie Maher</a>
 * <a href="#missy_mckalip">Missy McKalip</a>
-* <a href="#anna_poltrack">Anna Poltrack</a>
 * <a href="#julio_salazar">Julio Salazar</a>
 * <a href="#heather_shore">Heather Shore</a>
 * <a href="#samantha_sutter">Samantha Sutter</a>
@@ -30,25 +28,6 @@ header:
 
 
 
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="katie_campbell"></a> 
-
-##Katie Campbell
-
-
-</div><!-- /.medium-8.columns -->
-</div>
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/karen.jpg">
-</div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="karen_chen"></a> 
 
@@ -83,6 +62,11 @@ Clarinet Social Chair
 
 </div><!-- /.medium-8.columns -->
 </div>
+
+
+
+
+
 
 
 
@@ -288,17 +272,6 @@ Clarinet Social Chair
 
 
 
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="anna_poltrack"></a> 
-
-##Anna Poltrack
-
-</div><!-- /.medium-8.columns -->
-</div>
 
 
 
