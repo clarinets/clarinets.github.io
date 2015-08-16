@@ -184,7 +184,7 @@ Grad Student
 
 ##Lily Crawford
 
-**Name:** Lillian Crawford
+**Name:** Lilian Crawford
 
 **Nicknames:** Lily
 
