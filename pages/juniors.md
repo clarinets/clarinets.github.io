@@ -141,36 +141,42 @@ Studying Abroad
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="aj_derouin"></a>
 
-##AJ Derouin
+##Anthony Derouin
 Studying Abroad
 
-**Name:** Anthony Derouin
+**Nicknames:** AJ, AJ (pronounced “age”), Araali
 
-**Nicknames:** AJ, AJ RJ Backslashinfourth V
+**Clarinet's Name:** Broseidon King of the Brocean
 
-**Bro Name:** Broseidon King of the Brocean
-
-**Hometown:** Willmar, Minnesota
+**Hometown:** Willmar, MN
 
 **Year:** 2018
 
-**Major:** Architecture and Social Napping Double Major with a Dream Studies/Cuddling Minor
+**Major:** Architecture; Education, Schooling, and Society and International Development Minors
 
 **Dorm:** Morrissey Manor
 
-**Hobbies/Interests:** Swimming, Backpacking/Hiking, Reading, Watching Movies, watching any of the aforementioned TV shows, saving the whales, finding sidewalks on campus that I have never used before, finding new places to study on campus, visiting the Grotto, Chatting with Father Hesburgh, hearing people's stories, spending Flex Points conservatively, making Google Docs, promulgating Minnesota propaganda with Angie and Anthony, and of course BAND!!!
+**Hobbies/Interests:** napping on the Bond Hall Library couches with Claire, backpacking, visiting the Grotto, sailing, making Google Docs/Forms, filling out Google Forms (multiple times), getting snapchats from Jamie, having Jamie make me omelets at North, reading, saving the whales, photography, spending Flex Points conservatively, canoeing, going to LaFunsies, serving others and most importantly reminding people that Minnesota is the best state in the Union.
 
-**Favorite Poem:** "If" by Rudyard Kipling
+**Favorite Color:** smaragdine
 
-**Favorite Quote:** "Live it intensely" -Grey Wolf NYLT
+**Favorite Quotes:** “Live it intensely.” - George Abide (it being the Scout Oath and Law, I am Eagle Scout)
 
-**Favorite Word:** Inspire
+“The older I get the less I believe in coincidence.” - Tony LaPatka
 
-**Interesting Fact About You:** I took violin lessons for 12 or so years
+“The reason there will be no change is because the people who stand to lose from change have all the power.”  - Machiavelli
 
-**General Interesting Fact:** Otters hold hands when they sleep so they won't be separated during their slumber.
+"Temper ambition with practicality"  - Jim (my second year studio TA)
 
-**Future Plans:** Participate in the ACE Program, go to Grad School, hike the Appalachian Trail, serve in the Peace Corp, run a marathon, participate in an olympic triathlon, get a semi-stable job in an office that has slightly better working conditions than the Office, has less death involved than Scrubs, has less meth involved than Breaking Bad, and has as much as adventure as Doctor Who (you can tell what I have done with my life so far), get married, have 3-4 kids, live, retire, play with my grandkids, live to be 106, die.
+**Gameday Cereal Choice:** Lucky Charms.
+
+**Interesting Fact:** I taught in an Ugandan school for two months this past summer.
+
+**When I was in fifth grade, I thought I’d...** be living with my parents until I was 30 (it’s what I thought they wanted) and be an architect… hopefully these two things aren't mutually exclusive...
+
+**North or South?:** I look at it this way: if you want to impress someone you bring them to South. If you want to eat as a family you go to North. That said South is less than a minute from my dorm and North is going to be torn down soon, so I think we know who the real winner is. 
+
+**Future Plans/Dreams:** Be a teacher in the ACE program, find a fulfilling job that combines my love of architecture, education, travel, and service and still pays the bills, design better schools and better cities that foster healthier communities, help Claire steal a couch from the Bond Hall Library, live on every continent, become fluent in a language, be the best father possible to my children, design my dream home, live a life of giving more than I take, die at the age of 106 so I can see the beginning of 2100. 
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
