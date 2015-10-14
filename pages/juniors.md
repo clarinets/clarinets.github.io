@@ -382,6 +382,7 @@ Studying Abroad
 <a name="shannon_sullivan"></a>
 
 ##Shannon Sullivan
+Librarian
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

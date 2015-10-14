@@ -6,6 +6,14 @@
   url: "/about/"
   side: left
 
+- title: Traditions
+  url: "/traditions/"
+  side: left
+
+- title: Athletics
+  url: "/athletics/"
+  side: left
+
 - title: "Members"
   url: "/members/"
   side: left

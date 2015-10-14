@@ -17,9 +17,9 @@ header:
 * <a href="#sean_lam">Sean Lam</a>
 * <a href="#jamie_maher">Jamie Maher</a>
 * <a href="#missy_mckalip">Missy McKalip</a>
+* <a href="#jeanie_ryu">Jeanie Ryu</a>
 * <a href="#julio_salazar">Julio Salazar</a>
 * <a href="#heather_shore">Heather Shore</a>
-* <a href="#samantha_sutter">Samantha Sutter</a>
 * <a href="#emma_tackman">Emma Tackman</a>
 * <a href="#kelly_volk">Kelly Volk</a>
 * <a href="#emily_zimmermann">Emily Zimmermann</a>
@@ -273,6 +273,17 @@ Clarinet Social Chair
 
 
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="jeanie_ryu"></a> 
+
+##Jeanie Ryu
+
+</div><!-- /.medium-8.columns -->
+</div>
+
 
 
 
@@ -336,20 +347,6 @@ Clarinet Treasurer
 </div>
 
 
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="samantha_sutter"></a> 
-
-##Samantha Sutter
-
-
-</div><!-- /.medium-8.columns -->
-</div>
 
 
 
