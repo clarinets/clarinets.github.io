@@ -203,9 +203,9 @@ Clarinet Social Chair
 
 **Hometown:** Geneva, IL
 
-**Year:** 2018/2019
+**Year:** 2018
 
-**Major:** Computer Science, Political Science
+**Major:** Computer Science
 
 **Dorm:** PE
 
