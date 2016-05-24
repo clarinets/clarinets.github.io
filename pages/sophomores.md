@@ -199,7 +199,7 @@ Clarinet Social Chair
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="jamie_maher"></a> 
 
-##Jamie Maher
+## Jamie Maher
 
 **Hometown:** Geneva, IL
 
