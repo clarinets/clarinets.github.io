@@ -31,7 +31,7 @@ Lineup subject to change.
 
 *Denotes captains.
 
-####Schedule
+#### Schedule
 
 | Date | Opponent | Results |
 | --- | ---| --- |
@@ -40,21 +40,21 @@ Lineup subject to change.
 | Sunday, September 20 | Drumline | L | 
 | Sunday, September 27 | Trumpets | L |
 
-####News
+#### News
 
-#####Nets Dominate, Win 28-7
+##### Nets Dominate, Win 28-7
 
 By Julio Salazar, ESPNet
 
 NOTRE DAME, IN- The Clarinet Football team (1-1, in green this week) was back in action this weekend. Because of scheduling conflicts, the game against the Trombone Team was played Saturday, September 12. The starting line-up was as follows:
 QB: Danny Cohen (SO)
-OL/DL: Maggie McInerney (C, S), Nick Heise (F), Hannah Ray (F) [James Bachmayer went on to take over for Nick Heise after arriving) 
+OL/DL: Maggie McInerney (C, S), Nick Heise (F), Hannah Ray (F) (James Bachmayer went on to take over for Nick Heise after arriving) 
 WR: Matt Williams (C, S), Greg Ramos (S), Josh See (F)
 After a somewhat lethargic start, the Net Football team got rolling. The Offensive Line offered great protection to first-time starter Danny Cohen (9-20, 85 YDS, 47 Rush YDS, 3 Total TDs). Behind a staunch O-Line, Cohen was able to pick apart the Trombone Defense with long drives down the field. Those drives culminated with a touchdown to Greg Ramos and Joshua See. Greg Ramos (1-3, 15 YDS) and James Bachmayer (1-1, 3 YDS, TD) also had snaps under center. The Receiving Corps also had a good outing, as Matt Williams (5 Catches), Greg Ramos (2 Catches, TD), Hannah Ray (1 Catch) and Joshua See (2 Catches, 2 TDs) piled up yards and decimated coverages. After a seven INT debacle against the saxes last week, the Net offense had no turnovers. Defensively, the Nets were just as good. Solid coverage and 5 INTs (Ramos 1, Cohen 2, See 2) led to Trombone QB Ryan Boyle seeming frazzled all game long, and he was not helped by poor center-quarterback exchanges. Between the two, there were three fumbled snaps (all recovered by Boyle), one of which led to a McInerney sack on the 2 Yard line. Boyle was not helped by the Trombone Receivers. Drops and poor route running gave the QB few options. Pressure on the QB was also great, as the Net D totaled 2 sacks (Ramos, McInerney) and had pressure not seen against the saxes. All in all, the Net Football Team came out resilient and ready to play after a rough loss to a bitter rival in the Cohen Bowl. Head Coach Julio Salazar is undefeated when his teams commit no turnovers. Game 3 has not yet been scheduled. 
 
 
 
-##Soccer
+## Soccer
 
 We had a record-breaking 'net soccer season this year! We have a combined team with the baritones called OOSE United. Talk to captain [Madi King](/members/seniors/#madi_king) for more information.
 

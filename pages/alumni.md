@@ -49,14 +49,14 @@ Thank you for all of your contributions to the 'net tradition!
 
 <a name="father_sorin"></a> 
 
-##Father Sorin
+## Father Sorin
 
 Father Edward Sorin, C.S.C. is the first member of our alumni page. Believe it or not, the founder of our great university was a clarinet player! Hold your 'net high and think that the Notre Dame campus heard the great sound of the clarinet before being defiled by the noise of the lesser instruments. (Faltos, etc.)
 
 
 <a name="joseph_lanasa"></a> 
 
-##Joseph La Nasa
+## Joseph La Nasa
 Class fo 1964
 
 I graduated in 1964 with a B.S. in Pre-Professional studies. I completed my MD degree at LSUMC in NO in 1968. I did an Internship at Charity Hospital in NO 68-69.  After 2 years in Uncle Sam's Army I completed my residency in Urology in 1975. I spent 7 years in Academic medicine at LSUMC -NO and from 1979-82 was Chairman of the Dept. of Urology.
@@ -76,7 +76,7 @@ O'B was band director for 32 years and retired about 12 years ago.  O'B will be 
 
 <a name="bill_hausmann"></a> 
 
-##Bill Hausmann
+## Bill Hausmann
 Class of 1973
 
 I still play clarinet, sometimes even for pay, although I have also become corrupted by the evil Saxophone. After 20 years as an Air Force officer, many of those as a navigator and bombardier in B-52's, I now work as a School Services Representative for a local music store. Currently I play clarinet regularly in the Saginaw (MI) Eddy Concert Band (paid summer band), lead alto sax and clarinet in the Baytones (15-piece big band), and "utility infielder" (most recently alto sax, but previously clarinet, bass clarinet, alto clarinet, and tenor sax) in the Bay Concert Band (Bay City, MI community band), as well as occasional pit orchestra gigs on various woodwinds (most recently clarinet, tenor sax, and OBOE (!) for "Anything Goes" and tenor and bari sax for "Footloose" performed by local high school groups). My daughter Kathy (ND '97) was not in the band, but did sing in the Liturgical Choir.
@@ -96,7 +96,7 @@ bhausmann1@chartermi.net
 
 <a name="tim_cross"></a> 
 
-##Tim Cross
+## Tim Cross
 Class of 1973
 
 Tampa, FL
@@ -106,7 +106,7 @@ tcross@prodigy.net
 
 <a name="rosalind_gaffney"></a>
 
-##Rosalind Gaffney
+## Rosalind Gaffney
 Class of 1985
 
 <img src="{{ site.url }}/images/bios/nets85-rosalind_gaffney.jpg">
@@ -123,7 +123,7 @@ rgaffney@volt.com
 
 <a name="jennifer_lang"></a>
 
-##Jennifer Lang
+## Jennifer Lang
 Class of 1994
 
 I'm a 94 grad, and was a part of the Clarinet section for my four years at ND. I was also a member of concert band for three years (though on bass clarinet). I currently work for BMC Software in Houston, TX and live in Katy, TX with my fiancé Ben (who is a graduate of the University of Texas) and our three cats (no big surprise, they are all named after Disney characters).
@@ -139,7 +139,7 @@ jentley@flash.net
 
 <a name="laura_gilligan"></a> 
 
-##Laura C. Gilligan (Wolkerstorfer)
+## Laura C. Gilligan (Wolkerstorfer)
 Class of 1995
 
 I was a member of the marching and varsity bands all 4 years. Since graduating, I have been living in Chicago and working for IBM. I got married on July 30th, 1999, to Jonathan Gilligan. Jon didn't go to ND, but he has been a fan all his life, thus meeting that requirement.  Unfortunately, I don't play the clarinet much any more - only about every 4 years at the reunion!
@@ -175,7 +175,7 @@ undnet96@yahoo.com
 
 <a name="laura_clamon"></a> 
 
-##Laura Clamon
+## Laura Clamon
 Class of 1996
 
 Laura is in grad school studying Physiology at the University of Illinois.
@@ -192,7 +192,7 @@ clamon@uiuc.edu
 
 <a name="laura_jozaites"></a> 
 
-##Laura Jozaites
+## Laura Jozaites
 Class of 1997
 
 I still live in South Bend (go figure) and work for the U.S. Marshals Service.
@@ -209,7 +209,7 @@ aladdin74@netscape.net
 
 <a name="maryjo_hayes"></a> 
 
-##Mary Jo Hayes
+## Mary Jo Hayes
 Class of 1997
 
 I am working in the Chicago suburbs as a civil engineer consultant. To make a long story short, I design parking lots and ponds. I recently became engaged to Mark Mullen, 'net class of '95. The ultimate in section incest. We're currently buying a townhome in Elk Grove Village. Haven't picked up my clarinet since last Alumni Band, which I sometimes feel bad about. Can't wait for the next Alumni Reunion!
@@ -221,7 +221,7 @@ mhayes@patrickengineering.com
 
 <a name="carolyn_rottinghaus"></a> 
 
-##Carolyn Rottinghaus
+## Carolyn Rottinghaus
 Class of 1999
 
 I am currently a financial analyst at Bank of America in Chicago.
@@ -234,7 +234,7 @@ chicagocarolyn@yahoo.com
 
 <a name="christy_burke"></a> 
 
-##Christy Burke (Veldhuizen)
+## Christy Burke (Veldhuizen)
 Class of 1999
 
 Since graduating, a lot has happened in my life. As evidenced by the name change, I got married. I know, it was to a 'bone (Andrew Burke '00), but can you blame me? I currently spend my days designing jet engine hardware and web sites. My nights are still taken up by homework as I continue to work towards my Master's in Aerospace Engineering. I still can't imagine life without homework. If anyone makes it down through Dayton or Cincinnati, look me up.
@@ -247,7 +247,7 @@ cveldhui@alumni.nd.edu
 
 <a name="erin_corbett"></a> 
 
-##Erin Corbett
+## Erin Corbett
 Class of 1999
 
 I am currently living in Chicago, and teaching math at Palatine HS.
@@ -260,7 +260,7 @@ corbett99@hotmail.com
 
 <a name="erin_evans"></a> 
 
-##Erin Evans
+## Erin Evans
 Class of 1999
 
 I graduated in '99, but then I came back as a graduate student '00.  I finally graduated for good in 2000, and I ended up in Chicago, working for the man (I mean, Deloitte & Touche) as an auditor. I live right smack downtown by the Hancock building with Heidi Winker, a drummer from the class of 1999.
@@ -273,7 +273,7 @@ erevans@deloitte.com
 
 <a name="alyssa_hellrung"></a> 
 
-##Alyssa Hellrung
+## Alyssa Hellrung
 Class of 2000
 
 After graduating in 2000 with my very marketable degree in English and Gender Studies, I trained for a while as a Circus Instructor for Club Med, but did not end up going to work for them in the end. Instead I hung out at home in Florida for a few months and I am now back at my home-away-from-home, San Francisco, training at the San Francisco School of Circus Arts until the end of May. This summer I will be working as a Circus counselor at Long Lake Camp for the Arts in upstate New York. It's a sweet camp for kids ages 10-16 who are into dance, theater, music, circus, or visual arts. After camp, I will hopefully be attending graduate school in Creative Writing at either Notre Dame or San Francisco State University. So some of you might be seeing me again in the Fall (run away! run away!). I'll let you know when I do. Write to me! I miss everybody!
@@ -286,7 +286,7 @@ cirqueen@aol.com
 
 <a name="karen_wolkerstorfer"></a> 
 
-##Karen Wolkerstorfer
+## Karen Wolkerstorfer
 Class of 2000
 
 Since finally graduating from the School of Architecture, Class of 2000, I have made my way to New York City and am currently working as an intern for a firm located in none other than the Chrysler Building. New York is a different world than South Bend, to say the least--I'm having a great time. Let me know if you ever venture out East. Although I must say that until I decide to make money for rent by playing the ND Fight Song in a subway station, my clarinet lies dormant in a closet...
@@ -303,7 +303,7 @@ kworlkers@hotmail.com
 
 <a name="class_of_2012"></a> 
 
-##Class of 2012
+## Class of 2012
 
 <img src="{{ site.url }}/images/bios/2012grads.jpg">
 
@@ -329,7 +329,7 @@ kworlkers@hotmail.com
 
 <a name="class_of_2013"></a> 
 
-##Class of 2013
+## Class of 2013
 
 <img src="{{ site.url }}/images/bios/2013grads.jpg">
 
@@ -358,7 +358,7 @@ kworlkers@hotmail.com
 
 <a name="class_of_2014"></a> 
 
-##Class of 2014
+## Class of 2014
 
 <img src="{{ site.url }}/images/bios/2014grads.jpg">
 
@@ -378,7 +378,7 @@ kworlkers@hotmail.com
 
 <a name="class_of_2015"></a> 
 
-##Class of 2015
+## Class of 2015
 
 <img src="{{ site.url }}/images/bios/2015grads3.jpg">
 

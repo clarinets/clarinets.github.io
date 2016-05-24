@@ -34,7 +34,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="nicole_mariani"></a> 
 
-##Nicole Mariani
+## Nicole Mariani
 Grad Student
 
 **Nicknames:** Nugget
@@ -73,7 +73,7 @@ Grad Student
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="theresa_albert"></a>
 
-##Theresa Albert
+## Theresa Albert
 
 **Hometown:** Belding, Michigan
 
@@ -105,7 +105,7 @@ Grad Student
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="james_bachmayer"></a>
 
-##James Bachmayer
+## James Bachmayer
 
 **Hometown:** Coto de Caza, CA
 
@@ -143,7 +143,7 @@ Grad Student
 
 <a name="jillian_belmonte"></a>
 
-##Jillian Belmonte
+## Jillian Belmonte
 
 **Nicknames:** Jill, Jillybean, I'll honestly respond to whatever
 
@@ -182,7 +182,7 @@ Grad Student
 
 <a name="lily_crawford"></a>
 
-##Lily Crawford
+## Lily Crawford
 
 **Name:** Lilian Crawford
 
@@ -230,7 +230,7 @@ Grad Student
 
 <a name="taylor_kelly"></a>
 
-##Taylor Kelly
+## Taylor Kelly
 Section Leader
 
 **Nicknames:** TK, Tay, TayTay, TKel, TKelly, Kelly Taylor (take your pick!)
@@ -277,7 +277,7 @@ Section Leader
 
 <a name="madi_king"></a>
 
-##Madi King
+## Madi King
 
 **Hometown:** SAINT LOUIS
 
@@ -324,7 +324,7 @@ Section Leader
 
 <a name="jennifer_long"></a>
 
-##Jennifer Long
+## Jennifer Long
 Section Leader
 
 **Nicknames:** Jen, JLo
@@ -369,7 +369,7 @@ Section Leader
 
 <a name="maggie_mcinerney"></a>
 
-##Maggie McInerney
+## Maggie McInerney
 Clarinet Treasurer
 
 **Name:** Margaret McInerney
@@ -420,7 +420,7 @@ Clarinet Treasurer
 
 <a name="jimmy_oh"></a>
 
-##Jimmy Oh
+## Jimmy Oh
 
 **Hometown:** Nashville, TN
 
@@ -468,7 +468,7 @@ Clarinet Treasurer
 
 <a name="greg_ramos"></a>
 
-##Greg Ramos
+## Greg Ramos
 Drum Major
 
 **Name:** Gregorio Jesús Ramos
@@ -520,7 +520,7 @@ Drum Major
 
 <a name="alyssa_ruiz"></a>
 
-##Alyssa Ruiz
+## Alyssa Ruiz
 
 **Hometown:** Austin, TX
 
@@ -565,7 +565,7 @@ Drum Major
 
 <a name="jacob_schrimpf"></a>
 
-##Jacob Schrimpf
+## Jacob Schrimpf
 
 **Nicknames:** Fruit Loop, Shrimp
 
@@ -608,7 +608,7 @@ Drum Major
 
 <a name="matthew_williams"></a>
 
-##Matthew Williams
+## Matthew Williams
 
 **Hometown:** Little Rock, Arkansas
 

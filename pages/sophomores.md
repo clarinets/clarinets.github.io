@@ -31,7 +31,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="karen_chen"></a> 
 
-##Karen Chen
+## Karen Chen
 Clarinet Social Chair
 
 **Nicknames:** KChen, Kernnnnn
@@ -81,7 +81,7 @@ Clarinet Social Chair
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="danny_cohen"></a> 
 
-##Danny Cohen
+## Danny Cohen
 Clarinet Social Chair
 
 **Name:** Daniel Cohen
@@ -124,7 +124,7 @@ The rest: Speaking Pig Latin, juggling, solving The Rubik's Cube, minesweeper, o
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="carolyn_ebner"></a> 
 
-##Carolyn Ebner
+## Carolyn Ebner
 Clarinet Social Chair
 
 **Nicknames:** C-lyn, Care
@@ -168,7 +168,7 @@ Clarinet Social Chair
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="sean_lam"></a> 
 
-##Sean Lam
+## Sean Lam
 
 **Hometown:** Thousand Oaks, CA
 
@@ -240,7 +240,7 @@ Clarinet Social Chair
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="missy_mckalip"></a> 
 
-##Missy McKalip
+## Missy McKalip
 
 **Name:** Melissa McKalip
 
@@ -279,7 +279,7 @@ Clarinet Social Chair
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="jeanie_ryu"></a> 
 
-##Jeanie Ryu
+## Jeanie Ryu
 
 </div><!-- /.medium-8.columns -->
 </div>
@@ -297,7 +297,7 @@ Clarinet Social Chair
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="julio_salazar"></a> 
 
-##Julio Salazar
+## Julio Salazar
 Clarinet Treasurer
 
 **Name:** Julio C. Salazar
@@ -341,7 +341,7 @@ Clarinet Treasurer
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="heather_shore"></a> 
 
-##Heather Shore
+## Heather Shore
 
 </div><!-- /.medium-8.columns -->
 </div>
@@ -359,7 +359,7 @@ Clarinet Treasurer
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="emma_tackman"></a> 
 
-##Emma Tackman
+## Emma Tackman
 
 **Nicknames:** People inexplicably call me Emily sometimes
 
@@ -407,7 +407,7 @@ Ambar-Metta
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="kelly_volk"></a> 
 
-##Kelly Volk
+## Kelly Volk
 FUIC
 
 **Hometown:** Tinley Park, Illinois
@@ -447,7 +447,7 @@ FUIC
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="emily_zimmermann"></a> 
 
-##Emily Zimmermann
+## Emily Zimmermann
 
 **Hometown:** Arlington Heights, IL
 

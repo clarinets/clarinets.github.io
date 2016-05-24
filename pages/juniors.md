@@ -31,7 +31,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="haley_barlow"></a> 
 
-##Haley Barlow
+## Haley Barlow
 
 **Hometown:** Austin, TX
 
@@ -71,7 +71,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="claire_bauer"></a>
 
-##Claire Bauer
+## Claire Bauer
 Studying Abroad
 
 **Hometown:** Silver Lake, Ohio
@@ -107,7 +107,7 @@ Studying Abroad
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="maggie_brown"></a>
 
-##Maggie Brown
+## Maggie Brown
 
 **Hometown:** Lemont, IL
 
@@ -141,7 +141,7 @@ Studying Abroad
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="aj_derouin"></a>
 
-##Anthony Derouin
+## Anthony Derouin
 Studying Abroad
 
 **Nicknames:** AJ, AJ (pronounced “age”), Araali
@@ -192,7 +192,7 @@ Studying Abroad
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="emily_foernssler"></a>
 
-##Emily Foernssler
+## Emily Foernssler
 
 **Hometown:** Darien, Illinois
 
@@ -232,7 +232,7 @@ Studying Abroad
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="michelle_mann"></a>
 
-##Michelle Mann
+## Michelle Mann
 
 **Hometown:** St Charles, IL
 
@@ -273,7 +273,7 @@ Studying Abroad
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="john_mccready"></a>
 
-##John McCready
+## John McCready
 
 **Hometown:** Carlsbad, CA
 
@@ -313,7 +313,7 @@ Studying Abroad
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="emily_mccusker"></a>
 
-##Emily McCusker
+## Emily McCusker
 
 **Hometown:** Omaha, Nebraska
 
@@ -347,7 +347,7 @@ Studying Abroad
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="samantha_squeri"></a>
 
-##Samantha Squeri
+## Samantha Squeri
 
 **Nicknames:** Sam, QB1, Samuel, Killer
 
@@ -381,7 +381,7 @@ Studying Abroad
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="shannon_sullivan"></a>
 
-##Shannon Sullivan
+## Shannon Sullivan
 Librarian
 
 </div><!-- /.medium-8.columns -->
@@ -401,7 +401,7 @@ Librarian
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="sonia_urquidi"></a>
 
-##Sonia Urquidi
+## Sonia Urquidi
 Studying Abroad
 
 **Nicknames:** Sonj

@@ -33,7 +33,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="stephanie_fick"></a> 
 
-##Stephanie Fick
+## Stephanie Fick
 
 </div><!-- /.medium-8.columns -->
 </div>
@@ -50,7 +50,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="haley_green"></a> 
 
-##Haley Green
+## Haley Green
 
 **Hometown:** Beavercreek, Ohio
 
@@ -91,7 +91,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="nick_heise"></a> 
 
-##Nick Heise
+## Nick Heise
 
 **Nicknames:** "Heise", the Heisman, Dr. Heisenberg
 
@@ -135,7 +135,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="juliana_ison"></a> 
 
-##Juliana Ison
+## Juliana Ison
 
 **Nicknames:** Jules
 
@@ -181,7 +181,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="emily_miron"></a> 
 
-##Emily Miron
+## Emily Miron
 
 **Hometown:** Grand Rapids, MI
 
@@ -219,7 +219,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="hannah_ray"></a> 
 
-##Hannah Ray
+## Hannah Ray
 
 
 </div><!-- /.medium-8.columns -->
@@ -241,7 +241,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="ben_riordan"></a> 
 
-##Ben Riordan
+## Ben Riordan
 
 **Nicknames:** Rio/MudBlood
 
@@ -277,7 +277,7 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="kevin_ruiz"></a> 
 
-##Kevin Ruiz
+## Kevin Ruiz
 
 **Hometown:** Ashburn, VA
 
@@ -323,7 +323,7 @@ So we beat on, boats against the current, borne back ceaselessly into the past."
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="jordan_sanford"></a> 
 
-##Jordan Sanford
+## Jordan Sanford
 
 **Hometown:** Eden Prairie, MN
 
@@ -363,7 +363,7 @@ So we beat on, boats against the current, borne back ceaselessly into the past."
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="joshua_see"></a> 
 
-##Joshua See
+## Joshua See
 
 **Nicknames:** Josh
 
@@ -406,7 +406,7 @@ So we beat on, boats against the current, borne back ceaselessly into the past."
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="kyle_stefanek"></a> 
 
-##Kyle Stefanek
+## Kyle Stefanek
 
 **Hometown:** Alexandria, Virginia
 
@@ -474,7 +474,7 @@ So we beat on, boats against the current, borne back ceaselessly into the past."
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="jenna_streich"></a> 
 
-##Jenna Streich
+## Jenna Streich
 
 **Hometown:** Aurora, IL
 
@@ -516,7 +516,7 @@ So we beat on, boats against the current, borne back ceaselessly into the past."
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="dean_won"></a> 
 
-##Dean Won
+## Dean Won
 
 **Nicknames:** Deanie beanie
 
