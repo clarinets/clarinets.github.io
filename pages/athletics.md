@@ -6,11 +6,22 @@ header:
    image_fullwidth: "headers/header.jpg"
 permalink: "/athletics/"
 ---
+## Clarinots? I Don’t Think So
+Everybody loves a good underdog story. In fact, some might say Notre Dame was founded on an underdog story (See: Rudy. Or Father Sorin.) So what if I told you that a ragtag bunch of woodwind players would come together and have the most successful season in recorded clarinet sports history? Sit back, relax, and enjoy some highlights from the 2015-2016 clarinet sports season.
 
+*September 12, 2015*
 
-##Football
+On this warm, fall day, Notre Dame was graced with two miracles. Who could forget Deshone Kizer stepping up for the fallen Malik Zaire, hurling a pass that would go down in Notre Dame history as one of the most amazing touchdown connections of all time, leading the Irish past the Cavaliers. But that wasn’t the only miracle that day. Just a few hours before, the clarinet squad faced up against the athletic trombones in a game of section football. A game that promised tough matchups, fierce opposition, and great competition did not disappoint. 28-7. That was the score of the clarinet’s first section football victory of the year, coming from spectacular plays by rookie Josh See and veteran Greg Ramos. It was not a game to forget, as the clarinets pulled off the incredible upset and took down the mighty trombones.
 
-####Lineup
+*April 9, 2016*
+
+Red Sox-Yankees. Packers-Bears. Irish-Wolverines. These pairs all have 1 thing in common: they have become some of the most famous rivalries in all of sports. And right up there with them, particularly after the matchups this year, are the Saxophones and Clarinets. If the blood-ties between the teams weren’t enough, then the close friendships between the two sides is enough to make the competition intense and the matchup memorable. The semifinals of the band basketball playoffs did not disappoint. After losing game 1, the clarinets were inspired by pep talks from senior leaders Maggie McInerney and Madi King, as well as the sideline screams of Julio Salazar and Jamie Maher. “You gotta want it!” He would scream. “Pants him!” She would chide in, referring to the star saxophone player. After some choice words from both sides, and more physical contact than anyone expected from two teams made up of band kids, the dust cleared, and miraculously the clarinets had taken home a victory. Bodies piled on each other, the memory of upsetting the saxophones in their own gym would not soon be forgotten. Maybe next year, Sucksophones.
+
+These two highlights are the tip of the iceberg for what the clarinets hope to accomplish in the coming years. Watch out for us, because we’re coming back next year with a vengeance. Go Nets, Go Irish, and Go ask us how we like our meat.
+
+## Football
+
+#### Lineup
 
 Lineup subject to change.
 
