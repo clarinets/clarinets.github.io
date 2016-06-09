@@ -35,9 +35,6 @@ header:
 
 ## Stephanie Fick
 
-</div><!-- /.medium-8.columns -->
-</div>
-
 **Hometown:**
 
 **Graduation Year:**
@@ -63,6 +60,10 @@ header:
 **Favorite Place on Campus:**
 
 **Favorite Band Memory:**
+
+</div><!-- /.medium-8.columns -->
+</div>
+
 
 
 
