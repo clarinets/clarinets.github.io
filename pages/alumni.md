@@ -33,6 +33,7 @@ permalink: "/alumni/"
 * <a href="#class_of_2013">Class of 2013</a>
 * <a href="#class_of_2014">Class of 2014</a>
 * <a href="#class_of_2015">Class of 2015</a>
+* <a href="#class_of_2016">Class of 2016</a>
 </div>
 </div><!-- /.medium-4.columns -->
 
@@ -401,6 +402,32 @@ kworlkers@hotmail.com
 * Mike Reinsvold
 * Bailey Stavetski
 * Mary Verdun
+
+*Section Leaders
+
+
+<a name="class_of_2016"></a> 
+
+## Class of 2016
+
+<!--<img src="{{ site.url }}/images/bios/2015grads3.jpg">-->
+<!---->
+<!--<img src="{{ site.url }}/images/bios/2015grads2.jpg">-->
+
+* Nicole Mariani
+* Theresa Albert
+* James Bachmayer
+* Jillian Belmonte
+* Lily Crawford
+* *Taylor Kelly
+* Madi King
+* *Jennifer Long
+* Maggie McInerney
+* Jimmy Oh
+* Greg Ramos
+* Alyssa Ruiz
+* Jacob Schrimpf
+* Matthew Williams
 
 *Section Leaders
 
