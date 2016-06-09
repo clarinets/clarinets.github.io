@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Seniors"
 subheadline: "Members"
-permalink: "/members/seniors/"
+<!--permalink: "/members/seniors/"-->
 header:
    image_fullwidth: "headers/header.jpg"
 ---

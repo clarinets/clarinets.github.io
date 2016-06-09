@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Juniors"
 subheadline: "Members"
-permalink: "/members/juniors/"
+permalink: "/members/seniors/"
 header:
    image_fullwidth: "headers/header.jpg"
 ---
