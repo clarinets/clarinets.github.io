@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Juniors"
+title: "Sophomores"
 subheadline: "Members"
-permalink: "/members/juniors/"
+permalink: "/members/sophomores/"
 header:
    image_fullwidth: "headers/header.jpg"
 ---
@@ -11,51 +11,290 @@ header:
 <div class="panel radius" markdown="1">
 **Table of Contents**
 
-* <a href="#haley_barlow">Haley Barlow</a>
-* <a href="#claire_bauer">Claire Bauer</a>
-* <a href="#maggie_brown">Maggie Brown</a>
-* <a href="#aj_derouin">AJ Derouin</a>
-* <a href="#emily_foernssler">Emily Foernssler</a>
-* <a href="#michelle_mann">Michelle Mann</a>
-* <a href="#john_mccready">John McCready</a>
-* <a href="#emily_mccusker">Emily McCusker</a>
-* <a href="#samantha_squeri">Samantha Squeri</a>
-* <a href="#shannon_sullivan">Shannon Sullivan</a>
-* <a href="#sonia_urquidi">Sonia Urquidi</a>
+* <a href="#karen_chen">Karen Chen</a>
+* <a href="#danny_cohen">Danny Cohen</a>
+* <a href="#carolyn_ebner">Carolyn Ebner</a>
+* <a href="#sean_lam">Sean Lam</a>
+* <a href="#jamie_maher">Jamie Maher</a>
+* <a href="#missy_mckalip">Missy McKalip</a>
+* <a href="#emma_tackman">Emma Tackman</a>
+* <a href="#kelly_volk">Kelly Volk</a>
+* <a href="#emily_zimmermann">Emily Zimmermann</a>
 </div>
-<img src="{{ site.url }}/images/bios/haley.jpg">
 </div><!-- /.medium-4.columns -->
 
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="haley_barlow"></a> 
+<a name="karen_chen"></a> 
 
-## Haley Barlow
+## Karen Chen
+Studying Abroad
 
-**Hometown:** Austin, TX
+**Hometown:** Johnston, IA
 
-**Year:** 2017
+**Graduation Year:** 2018
 
-**Major:** Biological Sciences (with an Italian Studies Minor)
+**Major:** Biological Sciences and Statistics
 
-**Dorm:** Breen Phillips Hall
+**Dorm:** Pasquerilla East
 
-**Hobbies/Interests:** I love swing dancing, singing loudly in community showers, and a good book.
+**Hobbies/Interests:** Piano, tennis, paper stars, micro-pipettes, travelling
 
-**Favorite Quote:** "If there was more food and fewer people, this would be a perfect party," -Ron Swanson
+**Favorite Quote:** "A bit of fragrance clings to the hand that gives flowers" -Chinese Proverb
+
+**Favorite Color:** Purple
+
+**Interesting Fact(s):** My dad and I arrived on campus at Notre Dame 20 years apart on the same exact date!
+
+**Future Plans:** I hope to attend medical school, but there's really no set path as of right now. I mean, being a hobo sounds pretty appealing sometimes too so....
+
+**Dream Job:**
+
+**Favorite Song:**
+
+**Favorite Place on Campus:**
+
+**Favorite Band Memory:**
+
+
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/danny.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="danny_cohen"></a> 
+
+## Danny Cohen
+
+**Hometown:** La Canada, CA
+
+**Graduation Year:** 2018
+
+**Major:** Accounting / Spanish
+
+**Dorm:** Duncan Hall
+
+**Hobbies/Interests:** Clarinet Sports, Guitar, Poker, The Office, Clarinet Sports
+
+**Favorite Quote:** "Learn as if you'll live forever, live as if you'll die tomorrow"
+
+**Favorite Color:** Green to see, blue to wear
+
+**Interesting Fact(s):** Identical twin I am
+
+**Future Plans:** Work hard, get buckets, and retire in Newport Beach, California.
+
+**Dream Job:** Own and run my own restaurant. Or CFO for the Boston Red Sox.
+
+**Favorite Song:** Sparks Fly by T-Swizzle or anything from Hamilton
+
+**Favorite Place on Campus:** Rolfs Gymnasium, The spot where Howard, Morrisey, and Lyons intersect, or 728 Pasquerilla East Hall.
+
+**Favorite Band Memory:** Marching into Fenway Park, or beating USC at home last year.
+
+
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/carolyn.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="carolyn_ebner"></a> 
+
+## Carolyn Ebner
+
+**Hometown:** Plymouth, NH
+
+**Graduation Year:** 2018
+
+**Major:** PLS
+
+**Dorm:** Lyons!
+
+**Hobbies/Interests:** Band, skiing, running, reading, spending time with my family, boating, "studying" on the quad
+
+**Favorite Quote:** "To love another person is to see the face of God." -Victor Hugo, Les Miserables
+
+**Favorite Color:** Yellow
+
+**Interesting Fact(s):** I did ski jumping in high school.
+
+**Future Plans:** As a PLS major, this is a frequent question, so I should be pretty good at answering it, but I still can't quite pin down a good response. 
+
+**Dream Job:**
+
+**Favorite Song:**
+
+**Favorite Place on Campus:**
+
+**Favorite Band Memory:**
+
+
+
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+
+
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="sean_lam"></a> 
+
+## Sean Lam
+
+**Hometown:** Newbury Park, CA
+
+**Graduation Year:** 2018
+
+**Major:** Politcal Science
+
+**Dorm:** Keenan Hall
+
+**Hobbies/Interests:** Board Games
+
+**Favorite Quote:**
+
+**Favorite Color:** Yellow
+
+**Interesting Fact(s):**
+
+**Future Plans:**
+
+**Dream Job:**
+
+**Favorite Song:** Hallelujah (Panic! At the Disco)
+
+**Favorite Place on Campus:** LaFortune
+
+**Favorite Band Memory:** Playing at this year's bowl game.
+
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/jamie.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="jamie_maher"></a> 
+
+## Jamie Maher
+
+**Hometown:** Geneva, IL
+
+**Graduation Year:** 2018
+
+**Major:** Computer Science, Constitutional Studies
+
+**Dorm:** Pasquerilla East
+
+**Hobbies/Interests:** making omelets at NDH, filling out google surveys, thinking about the value of personal liberty, wearing Hawaiian shirts, going to concerts with my dad, bird watching, identifying plants, watching movies with such actors as: Christopher Walken, Robert DeNiro, Al Pacino, Bruce Willis, Harrison Ford, Steve Buscemi etc etc
+
+**Favorite Quote:** "It matters not how strait the gate, how charged with punishments the scroll, I am the master of my fate, I am the captain of my soul."
+
+**Favorite Color:** cerulean
+
+**Interesting Fact(s):** I watch The Godfather every Christmas, as per the longstanding tradition in my household. 
+
+**Future Plans:** I'm not too sure right now but I hope I have a dog and a slightly better sense of reality. 
+
+**Dream Job:**
+
+**Favorite Song:**
+
+**Favorite Place on Campus:**
+
+**Favorite Band Memory:**
+
+ 
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/missy.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="missy_mckalip"></a> 
+
+## Missy McKalip
+
+**Hometown:** Frankfort, IL
+
+**Graduation Year:** 2018
+
+**Major:** Science Pre-Professional
+
+**Dorm:** Pasquerilla East
+
+**Hobbies/Interests:**  Running, attempting sports, reading, eating, learning, napping, and most importantly, playing clarinet 
+
+**Favorite Quote:** "When you want to succeed as bad as you want to breathe, then you'll be successful" -Eric Thomas
 
 **Favorite Color:** Blue
 
-**Gameday Cereal Choice:** Special K w/Red Berries
+**Interesting Fact(s):**
 
-**Interesting Fact:** I am credited by name in an Emmy-award winning documentary (holla at the Big Easy Express)
+**Future Plans:** After graduation, I plan to attend medical school and become a surgeon or ER doctor.
 
-**When I was in fifth grade, I thought I'd...** Become a paleontologist and play the saxophone in band. I still wish I could be a paleontologist, but I can say from experience that clarinet is better than saxophone.
+**Dream Job:**
 
-**North or South?** Both!!!
+**Favorite Song:**
 
-**Future Plans:** I plan to go to graduate school to pursue a PhD in genetics, then become a professor! Or something totally different, who knows.
+**Favorite Place on Campus:**
+
+**Favorite Band Memory:**
+
+**Name:** Melissa McKalip
+
+
 
 </div><!-- /.medium-8.columns -->
 </div>
@@ -64,36 +303,42 @@ header:
 
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/claire.jpg">
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="claire_bauer"></a>
+<a name="emma_tackman"></a> 
 
-## Claire Bauer
-Studying Abroad
+## Emma Tackman
 
-**Hometown:** Silver Lake, Ohio
+**Hometown:** Jefferson, WI
 
-**Year:** 2018
+**Graduation Year:** 2018
 
-**Major:** Architecture
+**Major:** Chemistry
 
-**Dorm:** Lewis
+**Dorm:** PW
 
-**Hobbies/Interests:** smiling, dancing, playing the piano, people-watching in the dining hall, napping on the couches in the Bond Hall library
+**Hobbies/Interests:** Reading, playing violin, filling out google forms...
 
-**Favorite Color:** Green, purple
+**Favorite Quote:** Et Earello Endorenna utulien.
 
-**Interesting Fact:** When I was in fifth grade I did a report for school on my Norwegian family history. My great-great-grandfather was a reindeer herder.
+**Favorite Color:** Navy
 
-**When I was in fifth grade, I thought I'd...** become a doctor or lawyer or business executive, play on the golf course, drink my Martini dry, and have pretty children who go to school and to summer camp and then to university.
+**Interesting Fact(s):** I was found in a cardboard box in China somewhere when I was 3 days old.
 
-**Future Plans:** become a mountain climber, observe an octopus in the wild, build and/or live in a treehouse, make dollhouses for my children, steal a couch from the Bond Hall library
+**Future Plans:** Work in a semi-chemistry related field out of college, get promoted to middle management and then lag in my professional career progression, possibly get shunted between departments before a quiet and possibly dull retirement in the countryside of New Hampshire with my 2 cats
+
+**Dream Job:**
+
+**Favorite Song:**
+
+**Favorite Place on Campus:**
+
+**Favorite Band Memory:**
+
 
 </div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
+</div>
+
 
 
 
@@ -102,329 +347,83 @@ Studying Abroad
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
 &nbsp;
 
-<img src="{{ site.url }}/images/bios/maggie.jpg">
+<img src="{{ site.url }}/images/bios/kelly.jpg">
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="maggie_brown"></a>
+<a name="kelly_volk"></a> 
 
-## Maggie Brown
+## Kelly Volk
+FUIC
 
-**Hometown:** Lemont, IL
+**Hometown:** Tinley Park, Illinois
 
-**Year:** 2017
+**Graduation Year:** 2018
 
-**Major:** Sociology
+**Major:** Biochemistry
+
+**Dorm:** Walsh Hall
+
+**Hobbies/Interests:** Reading, drawing, going exploring, theatrical tech crew, working in lab, volunteering with kids, adventures with friends, teaching myself piano, and all things band.
+
+**Favorite Quote:** "Music expresses that which cannot be put into words and that which cannot remain silent" -- Victor Hugo
+
+**Favorite Color:** Red and Blue
+
+**Interesting Fact(s):** Sometimes I have perceptions of colors in letters, numbers, and music. Each number has its own color, but not all of the letters.
+
+**Future Plans:** Go to grad school, get caught up in some fascinating research project, then eventually save the world a little bit after making some medically significant discoveries. 
+
+**Dream Job:**
+
+**Favorite Song:**
+
+**Favorite Place on Campus:**
+
+**Favorite Band Memory:**
+
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="emily_zimmermann"></a> 
+
+## Emily Zimmermann
+
+**Hometown:** Arlignton Heights, IL
+
+**Graduation Year:** 2018
+
+**Major:** nursing
 
 **Dorm:** Le Mans
 
-**Hobbies/Interests:** Running
+**Hobbies/Interests:** swimming, band,  ONE DIRECTION, band, Larry, band, harry styles, band
 
-**Favorite Color:** Pink
+**Favorite Quote:** you will find me in places we'v never been for reasons we dont understand 
 
-**Gameday Cereal Choice:** Frosted flakes - the breakfast of champions
+**Favorite Color:** greeny/blue
 
-**North or South?** South. Is that even a question?
+**Interesting Fact(s):** i can swallow the goldfish snacks whole
 
-**Future Plans:** Law school!
+**Future Plans:** getting a job
 
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
+**Dream Job:** nurse in NICU/performer at Disney World 
 
+**Favorite Song:** Where do broken hearts go by one direction 
 
+**Favorite Place on Campus:** at SMC my room at ND missys room 
 
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
+**Favorite Band Memory:** going to PITT with sorin's band 
 
-<img src="{{ site.url }}/images/bios/aj.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="aj_derouin"></a>
 
-## Anthony Derouin
-Studying Abroad
-
-**Nicknames:** AJ, AJ (pronounced “age”), Araali
-
-**Clarinet's Name:** Broseidon King of the Brocean
-
-**Hometown:** Willmar, MN
-
-**Year:** 2018
-
-**Major:** Architecture; Education, Schooling, and Society and International Development Minors
-
-**Dorm:** Morrissey Manor
-
-**Hobbies/Interests:** napping on the Bond Hall Library couches with Claire, backpacking, visiting the Grotto, sailing, making Google Docs/Forms, filling out Google Forms (multiple times), getting snapchats from Jamie, having Jamie make me omelets at North, reading, saving the whales, photography, spending Flex Points conservatively, canoeing, going to LaFunsies, serving others and most importantly reminding people that Minnesota is the best state in the Union.
-
-**Favorite Color:** smaragdine
-
-**Favorite Quotes:** “Live it intensely.” - George Abide (it being the Scout Oath and Law, I am Eagle Scout)
-
-“The older I get the less I believe in coincidence.” - Tony LaPatka
-
-“The reason there will be no change is because the people who stand to lose from change have all the power.”  - Machiavelli
-
-"Temper ambition with practicality"  - Jim (my second year studio TA)
-
-**Gameday Cereal Choice:** Lucky Charms.
-
-**Interesting Fact:** I taught in an Ugandan school for two months this past summer.
-
-**When I was in fifth grade, I thought I’d...** be living with my parents until I was 30 (it’s what I thought they wanted) and be an architect… hopefully these two things aren't mutually exclusive...
-
-**North or South?:** I look at it this way: if you want to impress someone you bring them to South. If you want to eat as a family you go to North. That said South is less than a minute from my dorm and North is going to be torn down soon, so I think we know who the real winner is. 
-
-**Future Plans/Dreams:** Be a teacher in the ACE program, find a fulfilling job that combines my love of architecture, education, travel, and service and still pays the bills, design better schools and better cities that foster healthier communities, help Claire steal a couch from the Bond Hall Library, live on every continent, become fluent in a language, be the best father possible to my children, design my dream home, live a life of giving more than I take, die at the age of 106 so I can see the beginning of 2100. 
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/emilyf.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="emily_foernssler"></a>
-
-## Emily Foernssler
-
-**Hometown:** Darien, Illinois
-
-**Year:** 2017
-
-**Major:** Accounting and Latin-American Studies
-
-**Dorm:** Breen-Phillips
-
-**Hobbies/Interests:** Watching reality tv as often as humanly possible. Survivor, The Voice, Teen Mom, The Bachelor, just to name a few!
-
-**Favorite Quote:** "When you realize you want to spend the rest of your life with someone, you want the rest of your life to start as soon as possible." -When Harry Met Sally
-
-**Favorite Color:** Yellow yellow yellow
-
-**Gameday Cereal Choice:** Fruit Loops!
-
-**Interesting Fact:** My main college goal was to come out fluent in another language, and I'm studying abroad in Chile for Spring 2016 to make it happen!
-
-**North or South?** North!
-
-**Future Plans:** Hopefully graduate with a job lined up and then the rest is truly a mystery
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/michelle.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="michelle_mann"></a>
-
-## Michelle Mann
-
-**Hometown:** St Charles, IL
-
-**Year:** 2017
-
-**Major:** Marketing, Poverty Studies
-
-**Dorm:** Breen-Phillips
-
-**Hobbies/Interests:** Golfing, reading, travelling, hanging out with the fabulous 'Net section
-
-**Favorite Quote:** "Nothing will work unless you do." -Maya Angelou
-
-**Favorite Color:** Blue
-
-**Gameday Cereal Choice:** Frosted Flakes
-
-**Interesting Fact:** I will always be a Girl Scout. (No seriously, I am a lifetime member and was active for 13 years)
-
-**When I was in fifth grade, I thought I'd...** Be a member of Destiny's Child
-
-**North or South?** NOOOOORRRRRTTTHHHHH. It's where you can feel at home.
-
-**Future Plans:** Excellence.
-
-**Clarinet Naming Fact:** My clarinet is named after Michelle Obama.
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="john_mccready"></a>
-
-## John McCready
-
-**Hometown:** Carlsbad, CA
-
-**Year:** 2017
-
-**Major:** Political Science
-
-**Dorm:** STANFORD HALL
-
-**Hobbies/Interests:** Current events, Orchestral music, Rap, Fuze, Seafood, North Dining Hall, and the absolutely pristine weather of Northern Indiana
-
-**Favorite Quote:** "Knowledge is knowing that a tomato is a fruit. Wisdom is not putting it in a fruit salad."
-
-**Favorite Color:** Green
-
-**Gameday Cereal Choice:** Sleep
-
-**When I was in fifth grade, I thought I'd...** never pass US history
-
-**North or South?** See Hobbies/Interests
-
-**Future Plans:** Wherever the wind takes me
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/emilym.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="emily_mccusker"></a>
-
-## Emily McCusker
-
-**Hometown:** Omaha, Nebraska
-
-**Year:** 2017
-
-**Major:** Civil Engineering
-
-**Dorm:** Cavanaugh Hall
-
-**Favorite Color:** Aqua
-
-**Gameday Cereal Choice:** Frosted Flakes
-
-**North or South?** North!
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/sams.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="samantha_squeri"></a>
-
-## Samantha Squeri
-
-**Nicknames:** Sam, QB1, Samuel, Killer
-
-**Hometown:** New Providence, NJ
-
-**Year:** 2017
-
-**Major:** Finance and Film, Television, and Theatre
-
-**Dorm:** FARLEY HALL
-
-**Favorite Quote:** "All our dreams can come true if we have the courage to pursue them." -Walt Disney
-
-**Interesting Fact:** I am a twin!!
-
-**When I was in fifth grade, I thought I'd...** be the first woman President of the United States
-
-**North or South?** North, definitely not even a question.
-
-**Future Plans:** Study abroad in London, graduate in 4 years, and then go from there :)
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="shannon_sullivan"></a>
-
-## Shannon Sullivan
-Librarian
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/sonia.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="sonia_urquidi"></a>
-
-## Sonia Urquidi
-Studying Abroad
-
-**Nicknames:** Sonj
-
-**Hometown:** Madison, WI
-
-**Year:** 2017
-
-**Major:** Economics and Music
-
-**Dorm:** Breen-Phillips
-
-**Hobbies/Interests:** Playing jazz, gigging, chamber music, singing, a cappella, dancing, backpacking, kayaking, camping, biking, and watching adorable videos of cats. \<3
-
-**Favorite Quote:** "It is the supreme art of the teacher to awaken joy in creative expresssion and knowledge." -Albert Einstein
-
-**Favorite Color:** Maroon
-
-**Gameday Cereal Choice:** Cinnamon Toast Crunch! 
-
-**Interesting Fact:** I don't like soda, have never had cable, haven't been to Disney World/Land, never owned a Wii, and yet I'm still a relatively normal human being.
-
-**Future Plans:** I'm studying abroad in London this fall (and thus will not be in marching band Junior year) but can't wait to return after that! In the long run, hopefully I'll move to one of the coasts, travel a lot, become fluent in Spanish, go to grad school (and figure out what to study in grad school), find a way to combine economics and music into an amazing job, visit a bunch of national parks, live a healthy lifestyle, and make a positive impact on people with the talents and knowledge I can provide.
 
 
 
