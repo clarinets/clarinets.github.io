@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Sophomores"
+title: "Juniors"
 subheadline: "Members"
 permalink: "/members/juniors/"
 header:

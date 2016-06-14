@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Juniors"
+title: "Seniors"
 subheadline: "Members"
 permalink: "/members/seniors/"
 header:
