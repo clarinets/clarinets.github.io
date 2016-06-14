@@ -131,27 +131,27 @@ Studying Abroad
 
 **Graduation Year:** 2018
 
-**Major:** PLS
+**Major:** PLS major, Constitutional Studies and Theology minors
 
-**Dorm:** Lyons!
+**Dorm:** Lyons
 
-**Hobbies/Interests:** Band, skiing, running, reading, spending time with my family, boating, "studying" on the quad
+**Hobbies/Interests:** I love skiing, hiking, reading, going for walks, snow, and having long conversations. I'm interested in philosophy, theology, and social conservatism.
 
-**Favorite Quote:** "To love another person is to see the face of God." -Victor Hugo, Les Miserables
+**Favorite Quote:** "Let no one ever come to you without leaving better and happier." -Mother Theresa
 
-**Favorite Color:** Yellow
+**Favorite Color:** Yellow. Like a sunshine or creamy yellow. 
 
 **Interesting Fact(s):** I did ski jumping in high school.
 
-**Future Plans:** As a PLS major, this is a frequent question, so I should be pretty good at answering it, but I still can't quite pin down a good response. 
+**Future Plans:** Probably teaching or grad school. 
 
-**Dream Job:**
+**Dream Job:** School for life. 
 
-**Favorite Song:**
+**Favorite Song:** The greatest of all fight songs, the Notre Dame Victory March. But seriously, this is a hard question and the answer depends on the day. 
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** The Basilica or Lyons chapel. 
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** Standing at attention in tunnel ND formation and hearing, "fans, take a stand, you are now live across the nation."
 
 
 
@@ -227,23 +227,23 @@ Studying Abroad
 
 **Dorm:** Pasquerilla East
 
-**Hobbies/Interests:** making omelets at NDH, filling out google surveys, thinking about the value of personal liberty, wearing Hawaiian shirts, going to concerts with my dad, bird watching, identifying plants, watching movies with such actors as: Christopher Walken, Robert DeNiro, Al Pacino, Bruce Willis, Harrison Ford, Steve Buscemi etc etc
+**Hobbies/Interests:** making omelets at NDH, filling out google surveys, thinking about the value of personal liberty, wearing Hawaiian shirts, going to concerts with my dad, Russian culture, bird watching, identifying plants, going to the gun range, watching movies with such actors as: Christopher Walken, Robert DeNiro, Al Pacino, Bruce Willis, Harrison Ford, Steve Buscemi etc etc
 
 **Favorite Quote:** "It matters not how strait the gate, how charged with punishments the scroll, I am the master of my fate, I am the captain of my soul."
 
-**Favorite Color:** cerulean
+**Favorite Color:** #169DB5
 
-**Interesting Fact(s):** I watch The Godfather every Christmas, as per the longstanding tradition in my household. 
+**Interesting Fact(s):** I watch The Godfather every Christmas, as per the longstanding tradition in my household. I've also met a 2016 presidential candidate.
 
-**Future Plans:** I'm not too sure right now but I hope I have a dog and a slightly better sense of reality. 
+**Future Plans:** I would like to work in the world of computer security. Specifically in defense of cyber terrorism.
 
-**Dream Job:**
+**Dream Job:** The first woman president 😉
 
-**Favorite Song:**
+**Favorite Song:** ["Money for Nothing"](https://www.youtube.com/watch?v=lAD6Obi7Cag) by Dire Straits, ["Simple Man"](https://www.youtube.com/watch?v=4z3gkq_gWL4) by Lynyrd Lkynyrd, ["Dirty World"](https://www.youtube.com/watch?v=tjjn3qYhwaU) by The Traveling Wilburys. Really anything classified as "dad rock".
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** Benches in front of the dome, the courtyard inside of Hayes-Healey/Hurley, North Dining Hall
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** Gameday brunch!
 
  
 
@@ -272,27 +272,24 @@ Studying Abroad
 
 **Major:** Science Pre-Professional
 
-**Dorm:** Pasquerilla East
+**Dorm:** Pasquerilla East: Hall of the Year©
 
-**Hobbies/Interests:**  Running, attempting sports, reading, eating, learning, napping, and most importantly, playing clarinet 
+**Hobbies/Interests:**  Running, attempting sports, reading, eating, learning, napping, getting lost on youtube, and most importantly, playing clarinet
 
-**Favorite Quote:** "When you want to succeed as bad as you want to breathe, then you'll be successful" -Eric Thomas
+**Favorite Quote:** "Knowing is better than wondering, waking is better than sleeping, and even the biggest failure, even the worst, beats the hell out of never trying." -Meredith Grey 
 
 **Favorite Color:** Blue
 
-**Interesting Fact(s):**
+**Interesting Fact(s):** I have run two marathons and a handful of half marathons. 
 
-**Future Plans:** After graduation, I plan to attend medical school and become a surgeon or ER doctor.
+**Future Plans:**  After graduation, I plan to attend medical school and become a surgeon. Also, I really want to get a puppy. 
 
-**Dream Job:**
+**Dream Job:** See above ;)
 
-**Favorite Song:**
+**Favorite Place on Campus:** The grotto late at night and the swing in front of Sorin
 
-**Favorite Place on Campus:**
 
-**Favorite Band Memory:**
 
-**Name:** Melissa McKalip
 
 
 

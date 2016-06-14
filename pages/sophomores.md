@@ -121,31 +121,31 @@ header:
 
 ## Nick Heise
 
-**Hometown:** Elburn, IL (west of Chicago)
+**Hometown:** Elburn, IL
 
 **Graduation Year:** 2019
 
-**Major:** Physics
+**Major:** Math Major, Honors Concentration, Glynn Fam Honors
 
 **Dorm:** Dillon Hall
 
-**Hobbies/Interests:** Reading, watching Netflix when I should be doing other things, watching sports, making odd yet satisfying food combinations in the dining halls, playing ping pong in LaFun, taking long walks around campus, listening to classical music to increase my productivity, and last but certainly not least, playing music in band
+**Hobbies/Interests:**  the other bands, and staying up late with people at the Huddle
 
 **Favorite Quote:** "All we have to decide is what to do with the time that is given us." - Gandalf
 
-**Favorite Color:** Shamrock green
+**Favorite Color:** Forest Green
 
-**Interesting Fact(s):** I'm a black belt in tae kwon do, a registered gun owner (I like to shoot things), and a pilot-in-training.
+**Interesting Fact(s):** I have a black belt in Tae Kwon Do 
 
-**Future Plans:** Not at all sure I'm even sticking with physics but I've always wanted to go to grad school and teach at a university.
+**Future Plans:** Try not to fail college and probably go to graduate school
 
-**Dream Job:**
+**Dream Job:** Be a kickass professor, that would be awesome 
 
-**Favorite Song:**
+**Favorite Song:** When Hannah sings along to "True" by Spandau Ballet
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** Super weird but I really like that tiny quad in between Lafun, Nieuwland, Crowley, and Hayes-Healy 
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** Marching into Symphony Hall in Boston and playing the Victory March
 
 
 
@@ -168,6 +168,8 @@ header:
 <a name="juliana_ison"></a> 
 
 ## Juliana Ison
+
+Social Chair
 
 **Hometown:** Austin, Texas
 
@@ -357,6 +359,8 @@ header:
 
 ## Kevin Ruiz
 
+Social Chair
+
 **Hometown:** Ashburn, VA
 
 **Graduation Year:** 2019
@@ -489,11 +493,14 @@ So we beat on, boats against the current, borne back ceaselessly into the past."
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
 &nbsp;
 
+<img src="{{ site.url }}/images/bios/kyle.jpg">
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="kyle_stefanek"></a> 
 
 ## Kyle Stefanek
+
+Treasurer
 
 **Hometown:** Alexandria, Virginia
 
@@ -587,31 +594,33 @@ So we beat on, boats against the current, borne back ceaselessly into the past."
 
 ## Jenna Streich
 
-**Hometown:** Aurora, IL
+Social Chair
+
+**Hometown:** Aurora, IL (Chicago)
 
 **Graduation Year:** 2019
 
-**Major:** undecided (but I'm into biochemistry, political science, and theology)
+**Major:** chemistry and theology
 
-**Dorm:** Walsh Hall
+**Dorm:** Walsh
 
-**Hobbies/Interests:** band, jazz, music of all sorts (I have quite an expansive collection on my iPod), playing golf, watching golf, supporting my Chicago sports teams, all things Harry Potter, traveling, hiking, water skiing, spending time with family and friends, basketball, US history, random trivia
+**Hobbies/Interests:** band, jazz, music of all sorts, playing golf, watching golf, Chicago sports (go Cubs), Harry Potter, traveling, hiking, water skiing, basketball, US history
 
-**Favorite Quote:** "It is impossible to live without failing at something, unless you live so cautiously that you might as well not lived at all, in which case you fail by default." -JK Rowling
+**Favorite Quote:** "I'm hoping to do some good in the world!" -Hermione Granger
 
-**Favorite Color:** Navy blue
+**Favorite Color:** navy blue
 
-**Interesting Fact(s):** I was born with six fingers on each hand (they got cut off when I was a week old), an extra bone in each foot, and a left SVC in my heart (essentially my blood vessels enter my heart in an abnormal way).
+**Interesting Fact(s):** I was born with 6 fingers on each hand, an extra bone in each foot, and a left SVC in my heart.
 
-**Future Plans:** I want to possibly join the Peace Corps or some other organization of that nature, get a job in whatever field I decide to go into for several years, and eventually teach high school.
+**Future Plans:** ACE (I hope)
 
-**Dream Job:**
+**Dream Job:** US Secretary of State or high school teacher
 
-**Favorite Song:**
+**Favorite Song:** "Scenes from an Italian Restaurant" by Billy Joel
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** the Grotto
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** Boston! (and running out of the tunnel my first game)
 
 
 

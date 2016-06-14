@@ -213,6 +213,8 @@ header:
 
 ## Emily Foernssler
 
+Section Leader
+
 **Hometown:** Darien, Illinois
 
 **Graduation Year:** 2017
@@ -257,31 +259,32 @@ header:
 
 ## Michelle Mann
 
+
 **Hometown:** St. Charles, IL
 
 **Graduation Year:** 2017
 
-**Major:** Marketing, Poverty Studies
+**Major:** Major: Africana Sudies / Minor: Business Economics
 
 **Dorm:** Breen-Phillips
 
-**Hobbies/Interests:** Golfing, reading, travelling, hanging out with the fabulous 'Net section
+**Hobbies/Interests:** Traveling, reading, golf etc
 
-**Favorite Quote:** "Nothing will work unless you do." -Maya Angelou
+**Favorite Quote:** "The future belongs to those who believe in the beauty of their dreams" Eleanor Roosevelt
 
-**Favorite Color:** Blue
+**Favorite Color:** BLUE
 
-**Interesting Fact(s):** I will always be a Girl Scout. (No seriously, I am a lifetime member and was active for 13 years)
+**Interesting Fact(s):** I'm still a registered Girl Scout
 
-**Future Plans:** Excellence.
+**Future Plans:** Saving the world, of course
 
-**Dream Job:**
+**Dream Job:** Being Oprah
 
-**Favorite Song:**
+**Favorite Song:** Sir Duke by Stevie Wonder
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** Fr. Sorin's statue on God Quad
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** The first time I ever trotted on to the field for pregame
 
 
 </div><!-- /.medium-8.columns -->
@@ -305,25 +308,25 @@ header:
 
 **Major:** Political Science
 
-**Dorm:** STANFORD HALL
+**Dorm:** Stanford Hall
 
-**Hobbies/Interests:** Current events, Orchestral music, Rap, Fuze, Seafood, North Dining Hall, and the absolutely pristine weather of Northern Indiana
+**Hobbies/Interests:** Reading articles, following politics, orchestral music, indie pop, hip hop, seafood, Survivor
 
-**Favorite Quote:** "Knowledge is knowing that a tomato is a fruit. Wisdom is not putting it in a fruit salad."
+**Favorite Quote:** "Never half-ass two things. Whole-ass one thing."
 
 **Favorite Color:** Green
 
-**Interesting Fact(s):**
+**Interesting Fact(s):** I have my black belt in Okinawan Shorin-ryu karate
 
-**Future Plans:** Wherever the wind takes me
+**Future Plans:** Studying, writing, researching, either academically, journalistically, or both
 
-**Dream Job:**
+**Dream Job:** Late-night talk show host
 
-**Favorite Song:**
+**Favorite Song:** "Hideaway" - Passion Pit 
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** The tables on the northern edge of St. Mary's lake by the rocks
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** Playing at an outdoor festival alongside the Rio Douro in Portugal
 
 
 </div><!-- /.medium-8.columns -->
@@ -391,6 +394,8 @@ header:
 
 ## Samantha Squeri
 
+Section Leader
+
 **Hometown:** New Providence, NEW JERSEY
 
 **Year:** 2017
@@ -420,6 +425,9 @@ header:
 <a name="shannon_sullivan"></a>
 
 ## Shannon Sullivan
+
+Section Leader
+
 Librarian
 
 **Hometown:**

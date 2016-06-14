@@ -18,7 +18,7 @@ The 'nets always have a strong showing at Midnight Drummer's Circle, supporting 
 The clarinets participate in the band's gameday brunch at South Dining Hall, full of section traditions and mischief!
 
 #### Here Come the Irish
-Directly after Concert on the Steps, the clarinets gather under the tree to the right of Bond Hall to circle up and play a clarinet version of Here Come the Irish, arranged by our very own [Sam Squeri](/members/juniors/#samantha_squeri) and alumnus Elizabeth Murphy. Afterwards, the 'nets have another fun-filled dance session!
+Directly after Concert on the Steps, the clarinets gather under the tree to the right of Bond Hall to circle up and play a clarinet version of Here Come the Irish, arranged by our very own [Sam Squeri](/members/seniors/#samantha_squeri) and alumnus Elizabeth Murphy. Afterwards, the 'nets have another fun-filled dance session!
 
 ### Social Events
 
@@ -35,7 +35,7 @@ Every Thursday night at midnight, the 'nets gather to hang out, tell stories, ea
 Making you feel mediocre about your athletic ability since 1842, led by our athletic commissioner [Danny Cohen](/members/sophomores/#danny_cohen). We compete with other sections in the band in football, basketball, soccer, and volleyball. Learn more [here](/athletics/).
 
 #### Other Clarinet Events
-Throughout the school year, the 'nets spend a lot of time together at nightly 'net dinners after practice, game watches, campus events, and many many other events! Many 'nets are also involved in other bands and band events, like varsity bands and band service. Check out pictures from some of these events in our [gallery](/gallery/). A huge thanks to our social chairs [Karen Chen](/members/sophomores/#karen_chen), [Danny Cohen](/members/sophomores/#danny_cohen), and [Carolyn Ebner](/members/sophomores/#carolyn_ebner) for planning many of the clarinet social events!
+Throughout the school year, the 'nets spend a lot of time together at nightly 'net dinners after practice, game watches, campus events, and many many other events! Many 'nets are also involved in other bands and band events, like varsity bands and band service. Check out pictures from some of these events in our [gallery](/gallery/). A huge thanks to our social chairs [Kevin Ruiz](/members/sophomores/#kevin_ruiz), [Juliana Ison](/members/sophomores/#juliana_ison), and [Jenna Streich](/members/sophomores/#jenna_streich) for planning many of the clarinet social events!
 
 
 
