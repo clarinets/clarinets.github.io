@@ -233,7 +233,7 @@ Studying Abroad
 
 **Favorite Color:** #169DB5
 
-**Interesting Fact(s):** I watch The Godfather every Christmas, as per the longstanding tradition in my household. I've also met a 2016 presidential candidate.
+**Interesting Fact(s):** I watch The Godfather every Christmas, as per the longstanding tradition in my household. I've also met a 2016 presidential candidate, Gary Johnson.
 
 **Future Plans:** I would like to work in the world of computer security. Specifically in defense of cyber terrorism.
 

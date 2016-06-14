@@ -413,27 +413,25 @@ So we beat on, boats against the current, borne back ceaselessly into the past."
 
 **Graduation Year:** 2019
 
-**Major:** Mathematics
+**Major:** ACMS
 
 **Dorm:** Walsh Hall
 
-**Hobbies/Interests:** Playing the clarinet (obviously), playing piano, downhill skiing, water skiing, paddle boarding, reading, spending time with family and friends, traveling
+**Hobbies/Interests:** Playing the clarinet (obviously), playing piano, downhill skiing, water skiing, paddle boarding, reading, Crocs, spending time with family and friends, traveling
 
 **Favorite Quote:** "Happiness can be found even in the darkest of times if one remembers to turn on the light."
 
 **Favorite Color:** Purple
 
-**Interesting Fact(s):** Since I was seven years old, I have been able to name all of the United States Presidents in chronological order.
+**Interesting Fact(s):**  The real sassiest member of Class of 2019
 
-**Future Plans:** I'm not really sure, but I definitely want to travel a lot.
+**Future Plans:** Not really sure but it involves getting a job and traveling a lot.
 
-**Dream Job:**
+**Dream Job:** Ski bum
 
-**Favorite Song:**
+**Favorite Place on Campus:** The desk by the window facing the dome on the 12th floor of the library
 
-**Favorite Place on Campus:**
-
-**Favorite Band Memory:**
+**Favorite Band Memory:** Seeing my name on the list and finding out I made the band
 
 
 
