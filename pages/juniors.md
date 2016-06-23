@@ -35,27 +35,27 @@ Studying Abroad
 
 **Graduation Year:** 2018
 
-**Major:** Biological Sciences and Statistics
+**Major:** Biological Sciences (Biomedical Science)
 
-**Dorm:** Pasquerilla East
+**Dorm:** Pasquerilla East/St. Thomas More College
 
-**Hobbies/Interests:** Piano, tennis, paper stars, micro-pipettes, travelling
+**Hobbies/Interests:** Piano, micropippetes, traveling, tennis, baking, staying busy
 
-**Favorite Quote:** "A bit of fragrance clings to the hand that gives flowers" -Chinese Proverb
+**Favorite Quote:** "A bit of fragrance clings to the hand that gives flowers"
 
 **Favorite Color:** Purple
 
-**Interesting Fact(s):** My dad and I arrived on campus at Notre Dame 20 years apart on the same exact date!
+**Interesting Fact(s):** My dad and I arrived on campus at Notre Dame 20 years apart on the same exact date! Also, you may think I have the ability to be invisible since you won't see me around, but actually, I'll just be across the world in Australia.
 
-**Future Plans:** I hope to attend medical school, but there's really no set path as of right now. I mean, being a hobo sounds pretty appealing sometimes too so....
+**Future Plans:** Medical School--fingers crossed!!
 
-**Dream Job:**
+**Dream Job:** Chinese Variety Show MC
 
-**Favorite Song:**
+**Favorite Song:** Can't Take My Eyes Off You
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** That spot where you're walking across God Quad and the dome becomes perfectly centered
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** Pre-international tour band concert when KD proclaimed that we were going to go "commando" instead of going "rogue."
 
 
 
