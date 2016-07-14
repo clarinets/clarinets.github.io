@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Gallery"
-permalink: "/gallery/"
+permalink: "/photos/"
 header:
    image_fullwidth: "headers/header.jpg"
 ---
