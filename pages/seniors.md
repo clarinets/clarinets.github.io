@@ -84,23 +84,23 @@ header:
 
 **Dorm:** Lewis
 
-**Hobbies/Interests:** smiling, dancing, playing the piano, people-watching in the dining hall, napping on the couches in the Bond Hall library
+**Hobbies/Interests:** Smiling, dancing, napping on the Bond Hall library couches, watching the sunrise
 
-**Favorite Quote:**
+**Favorite Quote:** "All that is solid melts into air"
 
-**Favorite Color:** Green, purple
+**Favorite Color:** Green
 
-**Interesting Fact(s):** When I was in fifth grade I did a report for school on my Norwegian family history. My great-great-grandfather was a reindeer herder.
+**Interesting Fact(s):** After living in Rome for 8 months, I can proudly claim enough proficiency with the Italian language to buy groceries and push my way through a crowded bus. Additionally, in April, I had the pleasure of visiting the great country of Norway, home of my ancestors and Europe's longest coastline!
 
-**Future Plans:** become a mountain climber, observe an octopus in the wild, build and/or live in a treehouse, make dollhouses for my children, steal a couch from the Bond Hall library
+**Future Plans:** Make dollhouses for my children
 
-**Dream Job:**
+**Dream Job:** Ballerina or Big Comfy Couch designer
 
-**Favorite Song:**
+**Favorite Song:** "The Rainbow Connection"
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** The grotto, deserted, in the middle of the night and covered in snow
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** When strangers ask for directions to Bond Hall on game days, or awkward handshakes with Father Jenkins in the tunnel
 
 
 </div><!-- /.medium-8.columns -->
