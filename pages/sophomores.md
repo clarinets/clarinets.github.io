@@ -171,31 +171,31 @@ header:
 
 Social Chair
 
-**Hometown:** Austin, Texas
+**Hometown:** Austin, TX
 
 **Graduation Year:** 2019
 
-**Major:** Psychology
+**Major:** Psychology and Spanish
 
-**Dorm:** Walsh Hall
+**Dorm:** WALSH
 
-**Hobbies/Interests:** Music, volunteering, writing, and sleepin
+**Hobbies/Interests:** Play board games, run, make/eat queso, read books about psych, watch chick flicks, avidly keep up with the Bachelor/Bachelorette
 
-**Favorite Quote:** "Nature never repeats herself, and the possibilities of one human soul will never be found in another" ~Elizabeth Cady Stanton
+**Favorite Quote:** "Nature never repeats herself, and the possibilities of one human soul will never be found in another"- Elizabeth Cady Stanton 
 
-**Favorite Color:** Deep sky blue 😊
+**Favorite Color:** Azure blue
 
-**Interesting Fact(s):** I can Texas Two-Step!! 
+**Interesting Fact(s):** I can Texas 2-step and box!
 
-**Future Plans:** Go into humanities and help those who are less fortunate! Maybe join Red Cross for a few years, we'll see!
+**Future Plans:** Be happy
 
-**Dream Job:**
+**Dream Job:** Be a Human Rights Lawyer and feasibly be able to do extensive Pro-Bono work   
 
-**Favorite Song:**
+**Favorite Song:** Upside Down- Jack Johnson
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** Grotto
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** trotting onto the field for the first time at the ND v. TEXAS GAME
 
 
 

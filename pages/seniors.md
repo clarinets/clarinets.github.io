@@ -430,31 +430,27 @@ Section Leader
 
 Librarian
 
-**Hometown:**
+**Hometown:** Chico, California
 
-**Graduation Year:**
+**Graduation Year:** 2017
 
-**Major:**
+**Major:** Social Work
 
-**Dorm:**
+**Dorm:** Le Mans
 
-**Hobbies/Interests:**
+**Hobbies/Interests:** Dancing, reading, art, hiking
 
-**Favorite Quote:**
+**Favorite Quote:** "A day without laughter is a day wasted" - Charlie Chaplin
 
-**Favorite Color:**
+**Favorite Color:** Purple
 
-**Interesting Fact(s):**
+**Interesting Fact(s):** I can wiggle my ears and once rode an elephant
 
-**Future Plans:**
+**Favorite Song:** Who Do You Love by Marianas Trench
 
-**Dream Job:**
+**Favorite Place on Campus:** The Avenue
 
-**Favorite Song:**
-
-**Favorite Place on Campus:**
-
-**Favorite Band Memory:**
+**Favorite Band Memory:** When we were on the field at Michigan and the football players ran right into us 
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
