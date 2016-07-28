@@ -545,31 +545,27 @@ Treasurer
 
 ## Anne Stratman
 
-**Hometown:**
+**Hometown:** Omaha NE
 
-**Graduation Year:**
+**Graduation Year:** 2019
 
-**Major:**
+**Major:** Physics/Math (double major)
 
-**Dorm:**
+**Dorm:** Lewis Hall
 
-**Hobbies/Interests:**
+**Hobbies/Interests:** Physics, running, playing/watching soccer, reading
 
-**Favorite Quote:**
+**Favorite Color:** Blue
 
-**Favorite Color:**
+**Interesting Fact(s):** I have five younger siblings (four sisters and one brother - he's the second youngest).  I'm also one of only two people in the band from Nebraska, and we both happen to be nets (the other is Emily McCusker).
 
-**Interesting Fact(s):**
+**Dream Job:** Something in physics research
 
-**Future Plans:**
+**Favorite Song:** Sing Sing Sing
 
-**Dream Job:**
+**Favorite Place on Campus:** The basilica
 
-**Favorite Song:**
-
-**Favorite Place on Campus:**
-
-**Favorite Band Memory:**
+**Favorite Band Memory:** The trip to Boston for the 2015 Shamrock Series
 
 
 
