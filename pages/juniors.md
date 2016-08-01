@@ -21,7 +21,7 @@ header:
 * <a href="#kelly_volk">Kelly Volk</a>
 * <a href="#emily_zimmermann">Emily Zimmermann</a>
 </div>
-<img src="{{ site.url }}/images/bio/karen.jpg">
+<img src="{{ site.url }}/images/bios/karen.jpg">
 </div><!-- /.medium-4.columns -->
 
 
