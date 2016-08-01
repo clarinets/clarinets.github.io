@@ -21,16 +21,10 @@ header:
 * <a href="#kelly_volk">Kelly Volk</a>
 * <a href="#emily_zimmermann">Emily Zimmermann</a>
 </div>
+<img src="{{ site.url }}/images/bio/karen.jpg">
 </div><!-- /.medium-4.columns -->
 
 
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/karen.jpg">
-</div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="karen_chen"></a> 
 
