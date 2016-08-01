@@ -183,15 +183,15 @@ Studying Abroad
 
 **Hobbies/Interests:** Board Games
 
-**Favorite Quote:**
+<!-- **Favorite Quote:** -->
 
 **Favorite Color:** Yellow
 
-**Interesting Fact(s):**
+<!-- **Interesting Fact(s):**
 
 **Future Plans:**
 
-**Dream Job:**
+**Dream Job:** -->
 
 **Favorite Song:** Hallelujah (Panic! At the Disco)
 
@@ -237,9 +237,9 @@ Studying Abroad
 
 **Future Plans:** I would like to work in the world of computer security. Specifically in defense against cyber terrorism.
 
-**Dream Job:** The first woman president 😉
+**Dream Job:** Becoming director of the CIA and knowing the truth about aliens
 
-**Favorite Song:** ["Money for Nothing"](https://www.youtube.com/watch?v=lAD6Obi7Cag) by Dire Straits, ["Simple Man"](https://www.youtube.com/watch?v=4z3gkq_gWL4) by Lynyrd Lkynyrd, ["Dirty World"](https://www.youtube.com/watch?v=tjjn3qYhwaU) by The Traveling Wilburys. Really anything classified as "dad rock".
+**Favorite Song:** ["Money for Nothing"](https://www.youtube.com/watch?v=lAD6Obi7Cag) by Dire Straits, ["Simple Man"](https://www.youtube.com/watch?v=4z3gkq_gWL4) by Lynyrd Lkynyrd, ["Dirty World"](https://www.youtube.com/watch?v=tjjn3qYhwaU) by The Traveling Wilburys, ["Layla"](https://www.youtube.com/watch?v=uSquiIVLhrQ) by Derek and The Dominos. Really anything classified as "dad rock".
 
 **Favorite Place on Campus:** Benches in front of the dome, the courtyard inside of Hayes-Healey/Hurley, North Dining Hall
 
@@ -324,13 +324,13 @@ Studying Abroad
 
 **Future Plans:** Work in a semi-chemistry related field out of college, get promoted to middle management and then lag in my professional career progression, possibly get shunted between departments before a quiet and possibly dull retirement in the countryside of New Hampshire with my 2 cats
 
-**Dream Job:**
+<!-- **Dream Job:**
 
 **Favorite Song:**
 
 **Favorite Place on Campus:**
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** -->
 
 
 </div><!-- /.medium-8.columns -->
@@ -369,14 +369,14 @@ FUIC
 **Interesting Fact(s):** Sometimes I have perceptions of colors in letters, numbers, and music. Each number has its own color, but not all of the letters.
 
 **Future Plans:** Go to grad school, get caught up in some fascinating research project, then eventually save the world a little bit after making some medically significant discoveries. 
-
+<!-- 
 **Dream Job:**
 
 **Favorite Song:**
 
 **Favorite Place on Campus:**
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** -->
 
 
 </div><!-- /.medium-8.columns -->

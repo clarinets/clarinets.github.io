@@ -35,31 +35,31 @@ header:
 
 ## Stephanie Fick
 
-**Hometown:**
+**Hometown:** Dayton, Ohio
 
-**Graduation Year:**
+**Graduation Year:** 2019
 
-**Major:**
+**Major:** Computer Engineering Major/Chinese Minor
 
-**Dorm:**
+**Dorm:** McGlinn Hall
 
-**Hobbies/Interests:**
+**Hobbies/Interests:** Calligraphy/Chinese/Reading/Crochet/Cross-Stitch
 
-**Favorite Quote:**
+**Favorite Quote:** "The ones that love us never really leave us." - J.K. Rowling
 
-**Favorite Color:**
+**Favorite Color:** Teal Blue-ish Green
 
-**Interesting Fact(s):**
+**Interesting Fact(s):** I spent this past summer learning Mandarin Chinese, and I have now lived in (including ND) 10 Places (OH,CA,FL,AL,VA,FL,VA,OH,NOTRE DAME,VA)
 
-**Future Plans:**
+**Future Plans:** Go into the Air Force as either a Pilot or a Developmental Engineer
 
-**Dream Job:**
+**Dream Job:** Ceramics/Craft Store Owner/Teacher
 
-**Favorite Song:**
+**Favorite Song:** Lullaby- Billy Joel / 对不起我的中文不好- Transition
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** Alumni Chapel
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** Playing in Fenway Park last year.
 
 </div><!-- /.medium-8.columns -->
 </div>
@@ -95,13 +95,13 @@ header:
 
 **Future Plans:** Be a teacher. Live somewhere cool. Travel the world. 
 
-**Dream Job:**
+<!-- **Dream Job:**
 
 **Favorite Song:**
 
 **Favorite Place on Campus:**
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** -->
 
 
 </div><!-- /.medium-8.columns -->
@@ -231,7 +231,7 @@ Social Chair
 
 **Favorite Color:** Light blue
 
-**Interesting Fact(s):**
+<!-- **Interesting Fact(s):**
 
 **Future Plans:**
 
@@ -241,7 +241,7 @@ Social Chair
 
 **Favorite Place on Campus:**
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** -->
 
 
 
@@ -321,13 +321,13 @@ Social Chair
 
 **Dorm:** The best dorm on campus (ie Fisher Hall)
 
-**Hobbies/Interests:**
+<!-- **Hobbies/Interests:**
 
-**Favorite Quote:**
+**Favorite Quote:** -->
 
 **Favorite Color:** Green
 
-**Interesting Fact(s):**
+<!-- **Interesting Fact(s):**
 
 **Future Plans:**
 
@@ -337,7 +337,7 @@ Social Chair
 
 **Favorite Place on Campus:**
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** -->
 
 
 
@@ -382,13 +382,13 @@ So we beat on, boats against the current, borne back ceaselessly into the past."
 
 **Future Plans:** Get into grad school and jump into a research project that helps improve standards of living around the world. Also going to try and visit exotic locales across the globe and really experience everything this great expanse has to offer before death or settling down.
 
-**Dream Job:**
+<!-- **Dream Job:**
 
 **Favorite Song:**
 
 **Favorite Place on Campus:**
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** -->
 
 
 

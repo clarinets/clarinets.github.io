@@ -51,13 +51,13 @@ header:
 
 **Future Plans:** I plan to go to graduate school to pursue a PhD in cell biology, then become a professor! Or something totally different, who knows.
 
-**Dream Job:**
+<!-- **Dream Job:**
 
-**Favorite Song:**
+**Favorite Song:** -->
 
 **Favorite Place on Campus:** The sidewalk between my dorm and my lab - it has seen me laugh, it has seen me cry, it has been there for me through it all.
 
-**Favorite Band Memory:**
+<!-- **Favorite Band Memory:** -->
 
 
 </div><!-- /.medium-8.columns -->
@@ -130,11 +130,11 @@ header:
 
 **Hobbies/Interests:** Running, cycling, reading
 
-**Favorite Quote:**
+<!-- **Favorite Quote:** -->
 
 **Favorite Color:** Forest green
 
-**Interesting Fact(s):** 
+<!-- **Interesting Fact(s):** --> 
 
 **Future Plans:** I have no idea
 
@@ -168,34 +168,30 @@ header:
 
 **Graduation Year:** 2018
 
-**Major:** Architecture; Education, Schooling, and Society and International Development Minors
+**Major:** Major: Architecture Minors: Education, Schooling, and Society and International Development Studies
 
 **Dorm:** Morrissey Manor
 
-**Hobbies/Interests:** napping on the Bond Hall Library couches with Claire, backpacking, visiting the Grotto, sailing, making Google Docs/Forms, filling out Google Forms (multiple times), getting snapchats from Jamie, having Jamie make me omelets at North, reading, saving the whales, photography, spending Flex Points conservatively, canoeing, going to LaFunsies, serving others and most importantly reminding people that Minnesota is the best state in the Union.
+**Hobbies/Interests:** Napping on the Bond Hall Library couches with Claire, backpacking, visiting the Grotto, making Google Docs/Forms, filling out Google Forms (multiple times), having Jamie make me omelets at North (10/10 would recommend), reading, saving the whales, photography, spending Flex Points conservatively, canoeing, going to LaFunsies, serving others, spewing architectural obnoxious and useless architecture facts like it's my job, John McCready, and being an RA in Morrissey this coming year 
 
-**Favorite Quote:** “Live it intensely.” - George Abide (it being the Scout Oath and Law, I am Eagle Scout)
+**Favorite Quote:** “The reason there will be no change is because the people who stand to lose from change have all the power.” - Machiavelli 
 
-“The older I get the less I believe in coincidence.” - Tony LaPatka
+You can get away with simple because it's authentic - Clay Chapman
 
-“The reason there will be no change is because the people who stand to lose from change have all the power.”  - Machiavelli
+**Favorite Color:** The Blue of Haley Barlow's eyes
 
-"Temper ambition with practicality"  - Jim (my second year studio TA)
-
-**Favorite Color:** smaragdine
-
-**Interesting Fact(s):** I taught in an Ugandan school for two months this past summer.
+**Interesting Fact(s):** I have been to four of the seven continents and have lived on three of them.
 
 
-**Future Plans:** Be a teacher in the ACE program, find a fulfilling job that combines my love of architecture, education, travel, and service and still pays the bills, design better schools and better cities that foster healthier communities, help Claire steal a couch from the Bond Hall Library, live on every continent, become fluent in a language, be the best father possible to my children, design my dream home, live a life of giving more than I take, die at the age of 106 so I can see the beginning of 2100. 
+**Future Plans:** Grad School??; find a fulfilling job that combines my love of architecture, education, travel, and service and still pays the bills; design better schools and better cities that foster healthier communities; help Claire steal a couch from the Bond Hall Library; travel A LOT; become competent in another language by 25; find significant other; marry significant other; be the best father possible to my children; see a humpback whale; live a life of giving more than I take; and die at the age of 106 so I can see the beginning of 2100.
 
-**Dream Job**
+**Dream Job** Doing some sort of work with the UN using architecture to serve others.
 
-**Favorite Song**
+**Favorite Song** Be Thou My Vision by Audrey Assad
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** The one foot space between my drafting desk and my crying face. Jkjk probably the Grotto in the dead of night
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** Having the clarinets send me a video on my birthday when I was in Italy.
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
@@ -361,9 +357,9 @@ Section Leader
 
 **Favorite Color:** aqua
 
-**Interesting Fact(s):**
+<!-- **Interesting Fact(s):**
 
-**Future Plans:**
+**Future Plans:** -->
 
 **Dream Job:** building bridges
 
