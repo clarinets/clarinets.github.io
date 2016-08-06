@@ -14,7 +14,7 @@ widget1:
   text: "Learn more about the 'nets! Check out bios on each of our awesome section members."
 widget2:
   title: "Gallery"
-  url: '/gallery/'
+  url: '/photos/'
   image: gallery/gallery21.jpg
   text: "Check out the photo gallery of the most photogenic section in the band!"
 widget3:
