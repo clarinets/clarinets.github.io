@@ -34,7 +34,7 @@ permalink: /index.html
 </div><!-- /.medium-4.columns -->
 <div class="medium-4 medium-pull-8 columns" markdown="1">
 
-###Welcome to the site of the Notre Dame clarinets! Feel free to look around and learn more about the best section in the Band of the Fighting Irish. 
+### Welcome to the site of the Notre Dame clarinets! Feel free to look around and learn more about the best section in the Band of the Fighting Irish. 
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
