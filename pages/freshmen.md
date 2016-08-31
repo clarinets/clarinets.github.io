@@ -28,22 +28,16 @@ header:
 
 
 
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<!-- <img src="{{ site.url }}/images/bios/name.jpg"> -->
-</div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="lauren_bartlett"></a> 
 
 ## Lauren Bartlett
 
-**Hometown:** 
+**Hometown:**
 
 **Graduation Year:**
 
-**Major:** 
+**Major:**
 
 **Dorm:**
 
@@ -64,7 +58,6 @@ header:
 **Favorite Place on Campus:**
 
 **Favorite Band Memory:**
-
 
 </div><!-- /.medium-8.columns -->
 </div>
@@ -421,7 +414,7 @@ header:
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
 &nbsp;
 
-<img src="{{ site.url }}/images/bios/kat.jpg">
+<img src="{{ site.url }}/images/bios/kat.png">
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="kat_shelby"></a> 
