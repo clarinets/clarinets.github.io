@@ -48,8 +48,7 @@ logo: "logo.png"
 paginate: 5
 
 # Gems
-gems:
-    - jekyll-sitemap
+gems: [jekyll-sitemap]
 
 
 # Pagination path › Important for blog page in /blog/ to work
