@@ -328,38 +328,38 @@ header:
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
 &nbsp;
 
-<!-- <img src="{{ site.url }}/images/bios/name.jpg"> -->
+<img src="{{ site.url }}/images/bios/andrea.jpg">
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="andrea_mitchell"></a> 
 
 ## Andrea Mitchell
 
-**Hometown:** 
+**Hometown:** Nashotah, Wisconsin
 
-**Graduation Year:**
+**Graduation Year:** 2020
 
-**Major:** 
+**Major:** Biology, Spanish
 
-**Dorm:**
+**Dorm:** McCandless
 
-**Hobbies/Interests:**
+**Hobbies/Interests:** Musical theater, classical vocal performance 
 
-**Favorite Quote:**
+**Favorite Quote:** "Happiness can be found even in the darkest of times, if only one remembers to turn on the light." -J.K. Rowling 
 
-**Favorite Color:**
+**Favorite Color:** Blue
 
-**Interesting Fact(s):**
+**Interesting Fact(s):** Member of the Hammes family (Hammes Bookstore)
 
-**Future Plans:**
+**Future Plans:** Med school
 
-**Dream Job:**
+**Dream Job:** Pediatric physician
 
-**Favorite Song:**
+**Favorite Song:** "Budapest" -George Ezra
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** The Grotto
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** First march out!
 
 
 </div><!-- /.medium-8.columns -->
