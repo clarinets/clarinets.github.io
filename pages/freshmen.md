@@ -24,6 +24,7 @@ header:
 * <a href="#kat_shelby">Kat Shelby</a>
 
 </div>
+<img src="{{ site.url }}/images/bios/lauren.jpg">
 </div><!-- /.medium-4.columns -->
 
 
@@ -33,31 +34,31 @@ header:
 
 ## Lauren Bartlett
 
-**Hometown:**
+**Hometown:** Mequon, WI
 
-**Graduation Year:**
+**Graduation Year:** 2020
 
-**Major:**
+**Major:** Science-Business
 
-**Dorm:**
+**Dorm:** Farley
 
-**Hobbies/Interests:**
+**Hobbies/Interests:** reading, swimming, band, more band
 
-**Favorite Quote:**
+**Favorite Quote:** "A ship is always safe at shore, but that is not what it's built for" -Albert Einstein
 
-**Favorite Color:**
+**Favorite Color:** blue
 
-**Interesting Fact(s):**
+**Interesting Fact(s):** At one point I memorized 200+ digits of pi. Also, I can wiggle my ears
 
-**Future Plans:**
+**Future Plans:** Navy
 
-**Dream Job:**
+**Dream Job:** Chocolate taste-tester
 
-**Favorite Song:**
+**Favorite Song:** "Come on Eileen" or "Sweet Caroline" or "You Belong with Me" or...... I have a lot of favorites...
 
-**Favorite Place on Campus:**
+<!-- **Favorite Place on Campus:** -->
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** Getting in :)
 
 </div><!-- /.medium-8.columns -->
 </div>
@@ -242,38 +243,38 @@ header:
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
 &nbsp;
 
-<!-- <img src="{{ site.url }}/images/bios/name.jpg"> -->
+<img src="{{ site.url }}/images/bios/peter.png">
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="peter_koszuta"></a> 
 
-## Peter Koszuta
+## Peter Koszuta Jr.
 
-**Hometown:** 
+**Hometown:** Glastonbury, CT
 
-**Graduation Year:**
+**Graduation Year:** 2020
 
-**Major:** 
+**Major:** Chemistry and Music Theory
 
-**Dorm:**
+**Dorm:** Dillon
 
-**Hobbies/Interests:**
+**Hobbies/Interests:** composing, learning, bassoon and clarinet, Boy Scouts, Badminton, science esp. chemistry and medicine
 
-**Favorite Quote:**
+**Favorite Quote:** "Off with you! You're a happy fellow, for you'll give happiness and joy to many other people. There is nothing better or greater than that!" - Ludwig van Beethoven
 
-**Favorite Color:**
+**Favorite Color:** green
 
-**Interesting Fact(s):**
+**Interesting Fact(s):** I have played with one of the oldest community bands (Vineyard Haven Band)  and university band (the Band of the Fighting Irish)
 
-**Future Plans:**
+**Future Plans:** medical school and medical practice, fun things
 
-**Dream Job:**
+**Dream Job:** doctor and composer
 
-**Favorite Song:**
+**Favorite Song:** "Non piu mesta" - Rossini
 
-**Favorite Place on Campus:**
+<!-- **Favorite Place on Campus:** -->
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** the first marching band practice in the stadium
 
 
 </div><!-- /.medium-8.columns -->
@@ -378,31 +379,31 @@ header:
 
 ## Kate Oh
 
-**Hometown:** 
+**Hometown:** Northbrook, IL
 
-**Graduation Year:**
+**Graduation Year:** 2020
 
-**Major:** 
+**Major:** Science-Business
 
-**Dorm:**
+**Dorm:** Howard Hall
 
-**Hobbies/Interests:**
+**Hobbies/Interests:** Singing, lying on the grass and looking at the clouds, finding good reads, BAND <3
 
-**Favorite Quote:**
+**Favorite Quote:** "And who will walk a mile with me/ Along life's weary way?/ A friend whose heart has eyes to see/ The stars shine out o'er the darkening lea,/ And the quiet rest at the end o' the day,--/ A friend who knows, and dares to say,/ The brave, sweet words that cheer the way/ Where he walks a mile with me." - 2nd Stanza in "A Mile with Me" by Henry Van Dyke
 
-**Favorite Color:**
+**Favorite Color:** Forest Green
 
-**Interesting Fact(s):**
+**Interesting Fact(s):** Hugs are always welcome :)
 
-**Future Plans:**
+**Future Plans:** Discover what I want to do with my life; Graduate from Notre Dame; travel with my family; travel to Europe (especially Germany); get together with the clarinets even after we graduate; learn to play the guitar & harmonica; learn how to swim; get a dog someday
 
-**Dream Job:**
+**Dream Job:** Don't have one yet!
 
-**Favorite Song:**
+**Favorite Song:** "500 Miles" - Sleeping at Last
 
-**Favorite Place on Campus:**
+**Favorite Place on Campus:** The lake at sunset
 
-**Favorite Band Memory:**
+**Favorite Band Memory:** Having dinner & events w/ the squad and just talking about random stuff
 
 
 </div><!-- /.medium-8.columns -->
