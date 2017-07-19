@@ -16,7 +16,7 @@ slogan: "All about the clarinets of the Band of the Fighting Irish"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-#description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
+# description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
 
 # Main author of the website
 # See > authors.yml
@@ -46,9 +46,6 @@ logo: "logo.png"
 
 # Paginates all X entries
 paginate: 5
-
-# Gems
-gems: [jekyll-sitemap]
 
 
 # Pagination path › Important for blog page in /blog/ to work

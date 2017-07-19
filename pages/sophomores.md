@@ -6,64 +6,57 @@ permalink: "/members/sophomores/"
 header:
    image_fullwidth: "headers/header.jpg"
 ---
+
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
 **Table of Contents**
 
-* <a href="#stephanie_fick">Stephanie Fick</a>
-* <a href="#haley_green">Haley Green</a>
-* <a href="#nick_heise">Nick Heise</a>
-* <a href="#juliana_ison">Juliana Ison</a>
-* <a href="#emily_miron">Emily Miron</a>
-* <a href="#hannah_ray">Hannah Ray</a>
-* <a href="#ben_riordan">Ben Riordan</a>
-* <a href="#kevin_ruiz">Kevin Ruiz</a>
-* <a href="#jordan_sanford">Jordan Sanford</a>
-* <a href="#joshua_see">Joshua See</a>
-* <a href="#kyle_stefanek">Kyle Stefanek</a>
-* <a href="#anne_stratman">Anne Stratman</a>
-* <a href="#jenna_streich">Jenna Streich</a>
+* <a href="#lauren_bartlett">Lauren Bartlett</a>
+* <a href="#andrew_brannon">Andrew Brannon</a>
+* <a href="#andrew_copp">Andrew Copp</a>
+* <a href="#iris_garcia">Iris Garcia</a>
+* <a href="#matthew_gschwind">Matthew Gschwind</a>
+* <a href="#peter_koszuta">Peter Koszuta</a>
+* <a href="#sammy_loper">Sammy Loper</a>
+* <a href="#kate_oh">Kate Oh</a>
+* <a href="#kat_shelby">Kat Shelby</a>
 
 </div>
+<img src="{{ site.url }}/images/bios/lauren.jpg">
 </div><!-- /.medium-4.columns -->
 
-
-
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="stephanie_fick"></a> 
+<a name="lauren_bartlett"></a> 
 
-## Stephanie Fick
+## Lauren Bartlett
 
-**Hometown:** Dayton, Ohio
+**Hometown:** Mequon, WI
 
-**Graduation Year:** 2019
+**Graduation Year:** 2020
 
-**Major:** Computer Engineering Major/Chinese Minor
+**Major:** Science-Business
 
-**Dorm:** McGlinn Hall
+**Dorm:** Farley (the finest dorm on campus and Women's Hall of the Year)
 
-**Hobbies/Interests:** Calligraphy/Chinese/Reading/Crochet/Cross-Stitch
+**Hobbies/Interests:** Reading, swimming, chilling, Netflix, also a little band
 
-**Favorite Quote:** "The ones that love us never really leave us." - J.K. Rowling
+**Favorite Quote:** "A ship is always safe at shore, but that is not what it's built for" -Albert Einstein
 
-**Favorite Color:** Teal Blue-ish Green
+**Favorite Color:** Blue
 
-**Interesting Fact(s):** I spent this past summer learning Mandarin Chinese, and I have now lived in (including ND) 10 Places (OH,CA,FL,AL,VA,FL,VA,OH,NOTRE DAME,VA)
+**Interesting Fact(s):** I can wiggle my ears and have never owned any pets besides fish
 
-**Future Plans:** Go into the Air Force as either a Pilot or a Developmental Engineer
+**Dream Job:** Ice cream expert
 
-**Dream Job:** Ceramics/Craft Store Owner/Teacher
+**Favorite Song:** Come on Eileen
 
-**Favorite Song:** Lullaby- Billy Joel / 对不起我的中文不好- Transition
+**Favorite Place on Campus:** The view near the library of Stonehenge and the dome (and the women's HOTY)
 
-**Favorite Place on Campus:** Alumni Chapel
-
-**Favorite Band Memory:** Playing in Fenway Park last year.
+**Favorite Band Memory:** San Antonio Shamrock Series
 
 </div><!-- /.medium-8.columns -->
 </div>
-
 
 
 
@@ -71,169 +64,28 @@ header:
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
 &nbsp;
 
+<!-- <img src="{{ site.url }}/images/bios/name.jpg"> -->
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="haley_green"></a> 
+<a name="andrew_brannon"></a> 
 
-## Haley Green
+## Andrew Brannon
 
-**Hometown:** Beavercreek, Ohio
+<!-- **Hometown:** 
 
-**Graduation Year:** 2019
+**Graduation Year:**
 
-**Major:** Elementary Education
+**Major:** 
 
-**Dorm:** Regina
+**Dorm:**
 
-**Hobbies/Interests:** Scottish Highland dancing, baking, babysitting, reading, and band of course!
+**Hobbies/Interests:**
 
-**Favorite Quote:** "Be the change that you wish to see in the world." ~Mahatma Gandhi
+**Favorite Quote:**
 
-**Favorite Color:** Pink
+**Favorite Color:**
 
-**Interesting Fact(s):** I love cats and aspire to be a crazy cat lady one day.
-
-**Future Plans:** Be a teacher. Live somewhere cool. Travel the world. 
-
-<!-- **Dream Job:**
-
-**Favorite Song:**
-
-**Favorite Place on Campus:**
-
-**Favorite Band Memory:** -->
-
-
-</div><!-- /.medium-8.columns -->
-</div>
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/nick.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="nick_heise"></a> 
-
-## Nick Heise
-
-**Hometown:** Elburn, IL
-
-**Graduation Year:** 2019
-
-**Major:** Math Major, Honors Concentration, Glynn Fam Honors
-
-**Dorm:** Dillon Hall
-
-**Hobbies/Interests:**  the other bands, and staying up late with people at the Huddle
-
-**Favorite Quote:** "All we have to decide is what to do with the time that is given us." - Gandalf
-
-**Favorite Color:** Forest Green
-
-**Interesting Fact(s):** I have a black belt in Tae Kwon Do 
-
-**Future Plans:** Try not to fail college and probably go to graduate school
-
-**Dream Job:** Be a kickass professor, that would be awesome 
-
-**Favorite Song:** When Hannah sings along to "True" by Spandau Ballet
-
-**Favorite Place on Campus:** Super weird but I really like that tiny quad in between Lafun, Nieuwland, Crowley, and Hayes-Healy 
-
-**Favorite Band Memory:** Marching into Symphony Hall in Boston and playing the Victory March
-
-
-
-</div><!-- /.medium-8.columns -->
-</div>
-
-
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/juliana.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="juliana_ison"></a> 
-
-## Juliana Ison
-
-Social Chair
-
-**Hometown:** Austin, TX
-
-**Graduation Year:** 2019
-
-**Major:** Psychology and Spanish
-
-**Dorm:** WALSH
-
-**Hobbies/Interests:** Play board games, run, make/eat queso, read books about psych, watch chick flicks, avidly keep up with the Bachelor/Bachelorette
-
-**Favorite Quote:** "Nature never repeats herself, and the possibilities of one human soul will never be found in another"- Elizabeth Cady Stanton 
-
-**Favorite Color:** Azure blue
-
-**Interesting Fact(s):** I can Texas 2-step and box!
-
-**Future Plans:** Be happy
-
-**Dream Job:** Be a Human Rights Lawyer and feasibly be able to do extensive Pro-Bono work   
-
-**Favorite Song:** Upside Down- Jack Johnson
-
-**Favorite Place on Campus:** Grotto
-
-**Favorite Band Memory:** trotting onto the field for the first time at the ND v. TEXAS GAME
-
-
-
-</div><!-- /.medium-8.columns -->
-</div>
-
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="emily_miron"></a> 
-
-## Emily Miron
-
-**Hometown:** Grand Rapids, MI
-
-**Graduation Year:** 2019
-
-**Major:** Commuicative Sciences and Disorders
-
-**Dorm:** McCandless
-
-**Hobbies/Interests:** Singing, reading
-
-**Favorite Quote:** "For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness, and for poise, walk with the knowledge that you are never alone." ~Audrey Hepburn
-
-**Favorite Color:** Light blue
-
-<!-- **Interesting Fact(s):**
-
-**Future Plans:**
+**Interesting Fact(s):**
 
 **Dream Job:**
 
@@ -244,15 +96,8 @@ Social Chair
 **Favorite Band Memory:** -->
 
 
-
-
-
-
 </div><!-- /.medium-8.columns -->
 </div>
-
-
-
 
 
 
@@ -260,225 +105,202 @@ Social Chair
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
 &nbsp;
 
-<img src="{{ site.url }}/images/bios/hannah.jpg">
+<!-- <img src="{{ site.url }}/images/bios/name.jpg"> -->
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="hannah_ray"></a> 
+<a name="andrew_copp"></a> 
 
-## Hannah Ray
+## Andrew Copp
 
+**Hometown:** La Grange Park, IL
 
-</div><!-- /.medium-8.columns -->
-</div>
-
-
-**Hometown:** Camarillo, CA
-
-**Graduation Year:** 2019
-
-**Major:** Science Pre-Professional, Anthropology Minor
-
-**Dorm:** Cavanaugh Hall
-
-**Hobbies/Interests:** Running, dancing, singing Disney songs, long road trips, surfing and playing at the beach.
-
-**Favorite Quote:** Heart over Talent
-
-**Favorite Color:** Purple
-
-**Interesting Fact(s):** I was the only clarinet in my high school band. I once had pet fish I won at the fair and I kept it alive for 4 years. I used to dance traditional hula dancing and I really miss it.
-
-**Future Plans:** I want to study abroad next summer hopefully in Dublin. Find a job for the next summers. Maintain a good GPA and go to med school. 
-
-**Dream Job:** Disneyland Princess, but sadly I'm too short
-
-**Favorite Song:** True -Spandau Ballet
-
-**Favorite Place on Campus:** The bench on Cava-Zahm quad that faces the Dome.
-
-**Favorite Band Memory:** Seeing my name on the list and crying. A truly life changing moment.
-
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="ben_riordan"></a> 
-
-## Ben Riordan
-
-**Hometown:** Holland, MI
-
-**Graduation Year:** 2019
-
-**Major:** Physics
-
-**Dorm:** The best dorm on campus (ie Fisher Hall)
-
-<!-- **Hobbies/Interests:**
-
-**Favorite Quote:** -->
-
-**Favorite Color:** Green
-
-<!-- **Interesting Fact(s):**
-
-**Future Plans:**
-
-**Dream Job:**
-
-**Favorite Song:**
-
-**Favorite Place on Campus:**
-
-**Favorite Band Memory:** -->
-
-
-
- 
-</div><!-- /.medium-8.columns -->
-</div>
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/kevin.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="kevin_ruiz"></a> 
-
-## Kevin Ruiz
-
-Social Chair
-
-**Hometown:** Ashburn, VA
-
-**Graduation Year:** 2019
-
-**Major:** Biochem
-
-**Dorm:** Knott
-
-**Hobbies/Interests:** Drawing, finding odd spots on campus and exploring, biking, soccer with friends, and the occasional league of legends match. Some of my long term interests are Star Wars, Indiana Jones and The Elder scrolls. I love music, and try to compensate for my skills by listening to a wide variety of tunes!
-
-**Favorite Quote:** "Gatsby believed in the green light, that orgastic future  that year by year recedes before us. It eluded us then, but that's no matter - tomorrow we will run faster, stretch out our arms farther... and one fine morning -
-
-So we beat on, boats against the current, borne back ceaselessly into the past." - F. Scott Fitzgerald, the Great Gatsby
-
-**Favorite Color:** Olive Green
-
-**Interesting Fact(s):** If you ever want stories of the perils of Bolivia, come to me. Or if you want to have lengthy debates on the disappearance of the Dwemer from Skyrim and if Talos is actually part of the Nine divines.
-
-**Future Plans:** Get into grad school and jump into a research project that helps improve standards of living around the world. Also going to try and visit exotic locales across the globe and really experience everything this great expanse has to offer before death or settling down.
-
-<!-- **Dream Job:**
-
-**Favorite Song:**
-
-**Favorite Place on Campus:**
-
-**Favorite Band Memory:** -->
-
-
-
-</div><!-- /.medium-8.columns -->
-</div>
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/jordan.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="jordan_sanford"></a> 
-
-## Jordan Sanford
-
-**Hometown:** Eden Prairie, MN
-
-**Graduation Year:** 2019
-
-**Major:** ACMS
-
-**Dorm:** Walsh Hall
-
-**Hobbies/Interests:** Playing the clarinet (obviously), playing piano, downhill skiing, water skiing, paddle boarding, reading, Crocs, spending time with family and friends, traveling
-
-**Favorite Quote:** "Happiness can be found even in the darkest of times if one remembers to turn on the light."
-
-**Favorite Color:** Purple
-
-**Interesting Fact(s):**  The real sassiest member of Class of 2019
-
-**Future Plans:** Not really sure but it involves getting a job and traveling a lot.
-
-**Dream Job:** Ski bum
-
-**Favorite Place on Campus:** The desk by the window facing the dome on the 12th floor of the library
-
-**Favorite Band Memory:** Seeing my name on the list and finding out I made the band
-
-
-
-</div><!-- /.medium-8.columns -->
-</div>
-
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="joshua_see"></a> 
-
-## Joshua See
-
-**Hometown:** Waipahu, HI
-
-**Graduation Year:** 2019
+**Graduation Year:** 2020
 
 **Major:** Environmental Engineering
 
-**Dorm:** Stanford Hall...SCRAW!
+**Dorm:** Keough Hall
 
-**Hobbies/Interests:** Eating, Sleeping, Zoning Out, Singing, Karaoke, Marching Band, Glee Club, Watching TV shows, Madden, I’m a huge New England Patriots fan #freebrady.
+**Hobbies/Interests:** Net sports, clarinet, all of the bands, baseball, board games, camping, Minecraft, Boy Scouts
 
-**Favorite Quote:** “Because I knew you I have been changed for good.” -Stephen Schwartz (Wicked)
+**Favorite Quote:** "Do or do not. There is no try." -Jedi Knight Yoda
 
-**Favorite Color:** Gray
+**Favorite Color:** Blue
 
-**Interesting Fact(s):** In second grade I quite Karate class because I couldn’t figure out how to tie the belt.
+**Interesting Fact(s):** No one really knows I am related to my brothers because they look like twins and have red hair. 
 
-**Future Plans:** Go back to Hawaii and get a job.
+**Dream Job:** Anything Outdoors and/or working in the Catholic Church
 
-**Dream Job:** Stay-at-home dad
+**Favorite Song:** Whatever It Takes - Imagine Dragons (subject to change upon me hearing ID new album "Evolve" coming out June 23)
 
-**Favorite Song:** I'll Make a Man Out of You
+**Favorite Place on Campus:** In between the two lakes there is a small clearing with a crucifix and statues of John (my confirmation name) and Notre Dame. It's very quiet and peaceful. I like to stop and pray when I am running around the lakes. 
 
-**Favorite Place on Campus:** Taco Bell @ 3am
+**Favorite Band Memory:** The Freshnets fancy Italian dinner in San Antonio (and the rest of freshman year)
 
-**Favorite Band Memory:** Getting into Marching Band
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<!-- <img src="{{ site.url }}/images/bios/name.jpg"> -->
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="iris_garcia"></a> 
+
+## Iris Garcia
+
+**Hometown:** Alabaster, AL
+
+**Graduation Year:** 2020
+
+**Major:** Mechanical Engineering
+
+**Dorm:** Welsh Family Hall
+
+**Hobbies/Interests:** Netflix. Idk I actually really like band. Is that lame?
+
+**Favorite Quote:** I'm pretty sure there's a lot more to life than being really, really, ridiculously good looking. And I plan on finding out what that is.
+
+**Favorite Color:** Maroon, teal
+
+**Interesting Fact(s):** I can do a mean cartwheel
+
+**Dream Job:** Disney Imagineer
+
+**Favorite Song:** Right now they're "Crazy=Genius", "Me Too"
+
+**Favorite Place on Campus:** Subject to change: my bed. I am tired 25/8
+
+**Favorite Band Memory:** Band of the the Fighting Irish memory? Meeting all you lovely peopl!! Band in general? Going to Disney World with all my band friends last year
+
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/matthew.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="matthew_gschwind"></a> 
+
+## Matthew Gschwind
+
+**Hometown:** Burlingame, CA
+
+**Graduation Year:** 2021
+
+**Major:** Architecture and ACMS
+
+**Dorm:** O'Neill Hall
+
+**Hobbies/Interests:** Playing piano, computer programming, watching anime
+
+**Favorite Quote:** "We, finite beings who are the embodiment of an infinite spirit, are born to suffer both pain and joy, and it could almost be said the most distinguished of us know joy through pain." -Ludwig van Beethoven
+
+**Favorite Color:** Green
+
+**Interesting Fact(s):** To my knowledge I am the only person to have attempted a double major in architecture and ACMS at Notre Dame
+
+**Dream Job:** Architect for Google or Facebook
+
+**Favorite Song:** "Defying Gravity" from Wicked
+
+**Favorite Place on Campus:** Bond Hall
+
+**Favorite Band Memory:** My first halftime show
+
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<img src="{{ site.url }}/images/bios/peter.jpg">
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="peter_koszuta"></a> 
+
+## Peter Koszuta
+
+**Hometown:** South Glastonbury, CT
+
+**Graduation Year:** 2020
+
+**Major:** Chemistry, Music Theory
+
+**Dorm:** Dillon
+
+**Hobbies/Interests:** music, composition, badminton, science and medicine, bassoon and clarinet
+
+**Favorite Quote:** "The important thing is to not stop questioning. Curiosity has its own reason for existing." - Albert Einstein
+
+**Favorite Color:** green
+
+**Interesting Fact(s):** In my summers, I play clarinet in one of the oldest community bands, the Vineyard Haven Band.
+
+**Dream Job:** doctor and composer
+
+**Favorite Song:** "Non piu mesta" - Rossini
+
+**Favorite Place on Campus:** McCourtney Hall
+
+**Favorite Band Memory:** first marching band practice in the stadium
+
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<!-- <img src="{{ site.url }}/images/bios/name.jpg"> -->
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="sammy_loper"></a> 
+
+## Sammy Loper
+
+<!-- **Hometown:** 
+
+**Graduation Year:**
+
+**Major:** 
+
+**Dorm:**
+
+**Hobbies/Interests:**
+
+**Favorite Quote:**
+
+**Favorite Color:**
+
+**Interesting Fact(s):**
+
+**Dream Job:**
+
+**Favorite Song:**
+
+**Favorite Place on Campus:**
+
+**Favorite Band Memory:** -->
 
 
 </div><!-- /.medium-8.columns -->
@@ -492,40 +314,38 @@ So we beat on, boats against the current, borne back ceaselessly into the past."
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
 &nbsp;
 
-<img src="{{ site.url }}/images/bios/kyle.jpg">
+<img src="{{ site.url }}/images/bios/kate.jpg">
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="kyle_stefanek"></a> 
+<a name="kate_oh"></a> 
 
-## Kyle Stefanek
+## Kate Oh
 
-Treasurer
+**Hometown:** Northbrook, IL
 
-**Hometown:** Alexandria, Virginia
+**Graduation Year:** 2020
 
-**Year:** 2019
+**Major:** Economics & English
 
-**Major:** Computer Science
+**Dorm:** Howard Hall
 
-**Dorm:** St. Edwards (Steds)
+**Hobbies/Interests:** Ice skating, finding good reads, singing, The Office ;)
 
-**Hobbies/Interests:** Soccer, Football, Netflix, Playing Risk, Billiards (Pool)
+**Favorite Quote:** "Determine that the thing can and shall be done, and then we shall find the way." -  Abraham Lincoln (1848)
 
-**Favorite Quote:** "Running out of the tunnel is like exiting the birth canal"- Dr. Larry Dwyer
+**Favorite Color:** Forest Green
 
-**Favorite Color:** Blue
+**Interesting Fact(s):** Spent my 18th birthday on campus during the early action student welcome weekend, same birthday as Abraham Lincoln
 
-**Interesting Fact:** Sassiest member of Class of 2019
+<!-- **Future Plans:** Discover what I want to do with my life; Graduate from Notre Dame; travel with my family; travel to Europe (especially Germany); get together with the clarinets even after we graduate; learn to play the guitar & harmonica; learn how to swim; get a dog someday -->
 
-**Future Plans:** Air Force
+**Dream Job:** Something in business! Not quite sure yet.
 
-**Dream Job** Unknown
+**Favorite Song:** Anything Adele - more specifically "When We Were Young" & "Make You Feel My Love"
 
-**Favorite song** Wait for it - Hamilton
+**Favorite Place on Campus:** Benches outside of Bond Hall looking out to the lake
 
-**Favorite Place on Campus** LaFun
-
-**Favorite Band Memory** 1st Gameday Marchout in Uniform
+**Favorite Band Memory:** Singing "Rover" as an entire band during the Shamrock Series game in San Antonio, TX
 
 
 </div><!-- /.medium-8.columns -->
@@ -533,103 +353,44 @@ Treasurer
 
 
 
-
-
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
 &nbsp;
 
+<img src="{{ site.url }}/images/bios/kat.jpg">
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="anne_stratman"></a> 
+<a name="kat_shelby"></a> 
 
-## Anne Stratman
+## Kat Shelby
 
-**Hometown:** Omaha NE
+**Hometown:** For Collins, CO
 
-**Graduation Year:** 2019
+**Graduation Year:** 2021
 
-**Major:** Physics/Math (double major)
+**Major:** Architecture
 
-**Dorm:** Lewis Hall
+**Dorm:** Farley
 
-**Hobbies/Interests:** Physics, running, playing/watching soccer, reading
+**Hobbies/Interests:** Band (Clarinet) and Art
 
-**Favorite Color:** Blue
+**Favorite Quote:** "Every child is an artist... the problem is staying an artist when you grow up" - Pablo Picasso
 
-**Interesting Fact(s):** I have five younger siblings (four sisters and one brother - he's the second youngest).  I'm also one of only two people in the band from Nebraska, and we both happen to be nets (the other is Emily McCusker).
+**Favorite Color:** Sky Blue
 
-**Dream Job:** Something in physics research
+**Interesting Fact(s):** Love Cats
 
-**Favorite Song:** Sing Sing Sing
+**Dream Job:** Architect
 
-**Favorite Place on Campus:** The basilica
+**Favorite Song:** I'm Yours
 
-**Favorite Band Memory:** The trip to Boston for the 2015 Shamrock Series
+**Favorite Place on Campus:** Bond Hall
 
+**Favorite Band Memory:** State Championships Freshman Year in High School for Marching Band
 
 
 </div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1"> 
-&nbsp;
-
-<img src="{{ site.url }}/images/bios/jenna.jpg">
-</div><!-- /.medium-4.columns -->
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-<a name="jenna_streich"></a> 
-
-## Jenna Streich
-
-Social Chair
-
-**Hometown:** Aurora, IL (Chicago)
-
-**Graduation Year:** 2019
-
-**Major:** chemistry and theology
-
-**Dorm:** Walsh
-
-**Hobbies/Interests:** band, jazz, music of all sorts, playing golf, watching golf, Chicago sports (go Cubs), Harry Potter, traveling, hiking, water skiing, basketball, US history
-
-**Favorite Quote:** "I'm hoping to do some good in the world!" -Hermione Granger
-
-**Favorite Color:** navy blue
-
-**Interesting Fact(s):** I was born with 6 fingers on each hand, an extra bone in each foot, and a left SVC in my heart.
-
-**Future Plans:** ACE (I hope)
-
-**Dream Job:** US Secretary of State or high school teacher
-
-**Favorite Song:** "Scenes from an Italian Restaurant" by Billy Joel
-
-**Favorite Place on Campus:** the Grotto
-
-**Favorite Band Memory:** Boston! (and running out of the tunnel my first game)
-
-
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-
-
-
-
+</div>
 
  [1]: http://kramdown.gettalong.org/converter/html.html#toc
  [2]: {{ site.url }}/blog/
