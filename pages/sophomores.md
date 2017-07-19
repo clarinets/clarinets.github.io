@@ -357,7 +357,7 @@ header:
 <div class="medium-4 medium-push-8 columns" markdown="1"> 
 &nbsp;
 
-<img src="{{ site.url }}/images/bios/kat.jpg">
+<img src="{{ site.url }}/images/bios/kat.png">
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 <a name="kat_shelby"></a> 
