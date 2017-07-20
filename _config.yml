@@ -137,6 +137,9 @@ google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
 bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 # alexa_verify_id:         ""
 
+gems:
+  - jekyll-seo-tag
+
 
 
 #       ______            _
