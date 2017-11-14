@@ -17,6 +17,7 @@ header:
 * <a href="#andrew_copp">Andrew Copp</a>
 * <a href="#iris_garcia">Iris Garcia</a>
 * <a href="#matthew_gschwind">Matthew Gschwind</a>
+* <a href="#kathleen_halloran">Kathleen Halloran</a>
 * <a href="#peter_koszuta">Peter Koszuta</a>
 * <a href="#sammy_loper">Sammy Loper</a>
 * <a href="#kate_oh">Kate Oh</a>
@@ -219,6 +220,45 @@ header:
 **Favorite Place on Campus:** Bond Hall
 
 **Favorite Band Memory:** My first halftime show
+
+
+</div><!-- /.medium-8.columns -->
+</div>
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
+
+<!-- <img src="{{ site.url }}/images/bios/name.jpg"> -->
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="kathleen_halloran"></a> 
+
+## Kathleen Halloran
+
+<!-- **Hometown:** 
+
+**Graduation Year:**
+
+**Major:** 
+
+**Dorm:**
+
+**Hobbies/Interests:**
+
+**Favorite Quote:**
+
+**Favorite Color:**
+
+**Interesting Fact(s):**
+
+**Dream Job:**
+
+**Favorite Song:**
+
+**Favorite Place on Campus:**
+
+**Favorite Band Memory:** -->
 
 
 </div><!-- /.medium-8.columns -->

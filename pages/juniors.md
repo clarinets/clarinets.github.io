@@ -14,6 +14,7 @@ header:
 * <a href="#stephanie_fick">Stephanie Fick</a>
 * <a href="#haley_green">Haley Green</a>
 * <a href="#nick_heise">Nick Heise</a>
+* <a href="#megan_hlava">Megan Hlava</a>
 * <a href="#juliana_ison">Juliana Ison</a>
 * <a href="#emily_miron">Emily Miron</a>
 * <a href="#hannah_ray">Hannah Ray</a>
@@ -151,7 +152,44 @@ header:
 </div>
 
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1"> 
+&nbsp;
 
+<!-- <img src="{{ site.url }}/images/bios/name.jpg"> -->
+</div><!-- /.medium-4.columns -->
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<a name="megan_hlava"></a> 
+
+## Megan Hlava
+
+<!-- **Hometown:** 
+
+**Graduation Year:**
+
+**Major:** 
+
+**Dorm:**
+
+**Hobbies/Interests:**
+
+**Favorite Quote:**
+
+**Favorite Color:**
+
+**Interesting Fact(s):**
+
+**Dream Job:**
+
+**Favorite Song:**
+
+**Favorite Place on Campus:**
+
+**Favorite Band Memory:** -->
+
+
+</div><!-- /.medium-8.columns -->
+</div>
 
 
 
