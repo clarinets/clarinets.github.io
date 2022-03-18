@@ -217,7 +217,7 @@ header:
 
 **Dorm:** Pasquerilla East
 
-**Hobbies/Interests:** making omelets at NDH, filling out google surveys, thinking about the value of personal liberty, wearing Hawaiian shirts, going to concerts with my dad, Russian culture, bird watching, identifying plants, going to the gun range, watching movies with such actors as: Christopher Walken, Robert DeNiro, Al Pacino, Bruce Willis, Harrison Ford, Steve Buscemi etc etc
+**Hobbies/Interests:** making omelets at NDH, filling out google surveys, thinking about the value of personal liberty, wearing Hawaiian shirts, going to concerts with my dad, bird watching, identifying plants, watching Christopher Walken movies.
 
 **Favorite Quote:** "It matters not how strait the gate, how charged with punishments the scroll, I am the master of my fate, I am the captain of my soul."
 
@@ -227,7 +227,7 @@ header:
 
 **Dream Job:** Becoming director of the CIA and knowing the truth about aliens
 
-**Favorite Song:** ["Money for Nothing"](https://www.youtube.com/watch?v=lAD6Obi7Cag) by Dire Straits, ["Simple Man"](https://www.youtube.com/watch?v=4z3gkq_gWL4) by Lynyrd Lkynyrd, ["Dirty World"](https://www.youtube.com/watch?v=tjjn3qYhwaU) by The Traveling Wilburys, ["Layla"](https://www.youtube.com/watch?v=uSquiIVLhrQ) by Derek and The Dominos. Really anything classified as "dad rock".
+**Favorite Song:** Anything classified as "dad rock".
 
 **Favorite Place on Campus:** Benches in front of the dome, the courtyard inside of Hayes-Healey/Hurley, North Dining Hall
 
